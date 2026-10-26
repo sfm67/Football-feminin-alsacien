@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Foot féminin en Alsace</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;800&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--herbe:#1d4d3a;--craie:#f6f7f2;--encre:#17211c;--ligne:#cfd6cc;--lilas:#6a4fb3;--font-t:"Bricolage Grotesque",Georgia,serif;--font-c:"Source Sans 3",system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--craie:#111a15;--encre:#e9eee9;--ligne:#2e3f35;--herbe:#7fc4a0;--lilas:#b9a6f2}}
+*{box-sizing:border-box}body{margin:0;background:var(--craie);color:var(--encre);font:16px/1.5 var(--font-c)}
+header{padding:2rem 1rem 1rem;max-width:960px;margin:auto}
+h1{font:800 clamp(2rem,6vw,3.4rem)/1 var(--font-t);margin:0;color:var(--herbe)}
+.maj{color:var(--encre);opacity:.7;margin:.5rem 0 0}
+nav{display:flex;gap:.4rem;flex-wrap:wrap;max-width:960px;margin:1rem auto;padding:0 1rem}
+nav button{font:600 .95rem var(--font-c);border:1px solid var(--ligne);background:transparent;color:inherit;padding:.45rem .9rem;border-radius:99px;cursor:pointer}
+nav button[aria-pressed=true]{background:var(--herbe);color:var(--craie);border-color:var(--herbe)}
+button:focus-visible{outline:3px solid var(--lilas);outline-offset:2px}
+main{max-width:960px;margin:auto;padding:0 1rem 3rem}
+section{margin:1.5rem 0}h2{font:500 1.4rem var(--font-t);margin:0 0 .5rem;border-left:5px solid var(--lilas);padding-left:.6rem}
+.sc{overflow-x:auto;border:1px solid var(--ligne)}table{border-collapse:collapse;width:100%;font-size:.92rem}
+th,td{padding:.4rem .6rem;text-align:left;border-bottom:1px solid var(--ligne);white-space:nowrap}th{font-weight:600;background:color-mix(in srgb,var(--herbe) 10%,transparent)}
+.vide{opacity:.7}footer{max-width:960px;margin:auto;padding:1rem;opacity:.7;font-size:.85rem}
+</style></head><body>
+<header><h1>Foot féminin en Alsace</h1><p class="maj" id="maj">Chargement…</p></header>
+<nav id="nav" aria-label="Catégories"></nav><main id="main"></main>
+<footer>Données issues de Score'n'co, mises à jour automatiquement. Page non officielle.</footer>
+<script>
+const cat=n=>{const m=n.match(/U\s?(\d+)/i);return m?"U"+m[1]:"Seniors"};
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let D,actif="Toutes",zone="Toutes";
+function nav(){const cats=["Toutes",...new Set(D.competitions.map(c=>cat(c.nom)))],zs=["Toutes","Départemental","Régional"];
+ document.getElementById("nav").innerHTML=zs.map(c=>`<button aria-pressed="${c===zone}" data-z="${c}">${c}</button>`).join("")+cats.map(c=>`<button aria-pressed="${c===actif}" data-c="${c}">${c}</button>`).join("");
+ document.querySelectorAll("nav button").forEach(b=>b.onclick=()=>{if(b.dataset.z)zone=b.dataset.z;else actif=b.dataset.c;nav();rendre()})}
+function rendre(){const l=D.competitions.filter(c=>(actif==="Toutes"||cat(c.nom)===actif)&&(zone==="Toutes"||c.zone===zone));
+ document.getElementById("main").innerHTML=l.map(c=>`<section><h2>${esc(c.nom)}</h2>`+
+  (c.classement.length?`<div class="sc"><table><thead><tr><th>#</th><th>Équipe</th><th>Pts</th><th>J</th><th>G</th><th>N</th><th>P</th><th>Diff</th><th>Forme</th></tr></thead><tbody>${c.classement.map(r=>`<tr><td>${r.rang}</td><td>${esc(r.equipe)}</td><td><b>${r.pts}</b></td><td>${r.j}</td><td>${r.g}</td><td>${r.n}</td><td>${r.p}</td><td>${r.diff}</td><td>${esc(r.forme.join(" "))}</td></tr>`).join("")}</tbody></table></div>`:`<p class="vide">Classement indisponible pour le moment.</p>`)+
+  (c.matchs_texte?`<details><summary>Matchs</summary><pre style="white-space:pre-wrap">${esc(c.matchs_texte)}</pre></details>`:"")+`<p><a href="${esc(c.url)}">Voir sur Score'n'co</a></p></section>`).join("")}
+fetch("data/data.json").then(r=>r.json()).then(d=>{D=d;
+ document.getElementById("maj").textContent="Mis à jour le "+new Date(d.mis_a_jour).toLocaleString("fr-FR");nav();rendre()})
+ .catch(()=>document.getElementById("maj").textContent="Données indisponibles pour le moment.");
+</script></body></html>

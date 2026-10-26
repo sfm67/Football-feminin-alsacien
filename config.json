@@ -1,0 +1,6 @@
+{
+  "alsace": {"page": "https://scorenco.com/football/ligues-alsace-71", "filtre": ["Fém"]},
+  "regional": {"accueil": "https://scorenco.com/football", "nom_ligue": "Grand EST", "filtre": ["Féminine", "Fém"],
+               "garder_seulement_poules_avec_clubs_alsaciens": true},
+  "poules_supplementaires": []
+}
