@@ -1,0 +1,25 @@
+name: Test accès FFF
+on: workflow_dispatch
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install playwright && playwright install --with-deps chromium
+      - name: Test
+        run: |
+          cat > t.py <<'EOF'
+          from playwright.sync_api import sync_playwright
+          u = "https://epreuves.fff.fr/competition/club/500191-r-c-strasbourg-alsace/equipe/2026_320_U18F_24/resultat-calendrier"
+          with sync_playwright() as p:
+              b = p.chromium.launch(); pg = b.new_page(locale="fr-FR")
+              r = pg.goto(u, wait_until="networkidle", timeout=60000)
+              print("STATUT", r.status); print("TITRE", pg.title())
+              print(pg.inner_text("body")[:2000])
+              pg.screenshot(path="shot.png", full_page=True)
+          EOF
+          python t.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: {name: capture, path: shot.png}
