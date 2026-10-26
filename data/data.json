@@ -1,1 +1,3970 @@
-{"mis_a_jour":"2026-01-01T00:00:00Z","competitions":[]}
+{
+ "mis_a_jour": "2026-10-26T18:19:27.086489Z",
+ "competitions": [
+  {
+   "zone": "Départemental",
+   "nom": "Fém District 1 Alsace - Unique - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-district-1-alsace-unique-phase-1-qqmk",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "A Copains Hinterfeld Féminines",
+     "pts": "12",
+     "j": "5",
+     "g": "4",
+     "n": "0",
+     "p": "1",
+     "bp": "22",
+     "bc": "7",
+     "diff": "15",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "FC Illhaeusern Féminines",
+     "pts": "12",
+     "j": "4",
+     "g": "4",
+     "n": "0",
+     "p": "0",
+     "bp": "18",
+     "bc": "6",
+     "diff": "12",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "SC Sélestat Féminines",
+     "pts": "12",
+     "j": "4",
+     "g": "4",
+     "n": "0",
+     "p": "0",
+     "bp": "13",
+     "bc": "2",
+     "diff": "11",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "A.S.L. Koetzingue Féminines",
+     "pts": "12",
+     "j": "5",
+     "g": "4",
+     "n": "0",
+     "p": "1",
+     "bp": "38",
+     "bc": "4",
+     "diff": "34",
+     "forme": [
+      "D",
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "A.L.F.C. Duttlenheim Féminines",
+     "pts": "7",
+     "j": "4",
+     "g": "2",
+     "n": "1",
+     "p": "1",
+     "bp": "10",
+     "bc": "6",
+     "diff": "4",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "N"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "US Azzurri Mulhouse 2 Féminines",
+     "pts": "6",
+     "j": "4",
+     "g": "2",
+     "n": "0",
+     "p": "2",
+     "bp": "11",
+     "bc": "10",
+     "diff": "1",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 7,
+     "equipe": "FC Gries Féminines",
+     "pts": "3",
+     "j": "5",
+     "g": "1",
+     "n": "0",
+     "p": "4",
+     "bp": "6",
+     "bc": "17",
+     "diff": "-11",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 8,
+     "equipe": "FR Haguenau 2 Féminines",
+     "pts": "2",
+     "j": "4",
+     "g": "0",
+     "n": "2",
+     "p": "2",
+     "bp": "4",
+     "bc": "15",
+     "diff": "-11",
+     "forme": [
+      "N",
+      "D",
+      "N",
+      "D"
+     ]
+    },
+    {
+     "rang": 9,
+     "equipe": "AS Musau Strasbourg 2 Féminines",
+     "pts": "1",
+     "j": "3",
+     "g": "0",
+     "n": "1",
+     "p": "2",
+     "bp": "0",
+     "bc": "11",
+     "diff": "-11",
+     "forme": [
+      "D",
+      "N",
+      "D"
+     ]
+    },
+    {
+     "rang": 10,
+     "equipe": "AS Kilstett 2 Féminines",
+     "pts": "0",
+     "j": "4",
+     "g": "0",
+     "n": "0",
+     "p": "4",
+     "bp": "1",
+     "bc": "17",
+     "diff": "-16",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 11,
+     "equipe": "AS Mussig Féminines",
+     "pts": "0",
+     "j": "4",
+     "g": "0",
+     "n": "0",
+     "p": "4",
+     "bp": "4",
+     "bc": "32",
+     "diff": "-28",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nHINTERF. ENT MERTZW.\n2\n1\nKOETZINGUE ASL\nMUSSIG AS\n1\n3\nDUTTL. ENT. HINDIS.\nGRIES FC\n0\n3\nSELESTAT SC\nMULHOUSE AZZURRI US\n7\n0\nMUSAU STRASBOURG\nILLHAEUSERN FC\n11 nov.\n13:30\nHAGUENAU FCSR"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém à 8 District 1 Alsace - POULE A - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-a-8-district-1-alsace-poule-a-phase-1-qqn3",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "FA Illkirch Graffenstaden 3 Féminines",
+     "pts": "12",
+     "j": "4",
+     "g": "4",
+     "n": "0",
+     "p": "0",
+     "bp": "22",
+     "bc": "1",
+     "diff": "21",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "AS Strasbourg 2",
+     "pts": "9",
+     "j": "5",
+     "g": "3",
+     "n": "0",
+     "p": "2",
+     "bp": "25",
+     "bc": "11",
+     "diff": "14",
+     "forme": [
+      "D",
+      "V",
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "AS Musau Strasbourg 3 Féminines",
+     "pts": "6",
+     "j": "4",
+     "g": "2",
+     "n": "0",
+     "p": "2",
+     "bp": "6",
+     "bc": "7",
+     "diff": "-1",
+     "forme": [
+      "V",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "FC Oberhoffen Féminines",
+     "pts": "5",
+     "j": "4",
+     "g": "2",
+     "n": "0",
+     "p": "1",
+     "bp": "7",
+     "bc": "8",
+     "diff": "-1",
+     "forme": [
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "AS Offwiller Féminines",
+     "pts": "5",
+     "j": "5",
+     "g": "2",
+     "n": "0",
+     "p": "2",
+     "bp": "8",
+     "bc": "16",
+     "diff": "-8",
+     "forme": [
+      "D",
+      "V",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "US Oberschaeffolsheim Féminines",
+     "pts": "0",
+     "j": "4",
+     "g": "0",
+     "n": "0",
+     "p": "4",
+     "bp": "3",
+     "bc": "28",
+     "diff": "-25",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "1ÈRE JOURNÉE\n\nILLKIRCH GRAFF. FA\n4\n1\nAS Strasbourg 2\nOBERHOFFEN FC\nForfait\n3\n0\nOFFWILLER AS\nMUSAU STRASBOURG\n2\n1\nOBERSCHAEFFOLSHEIM"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém à 8 District 1 Alsace - POULE B - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-a-8-district-1-alsace-poule-b-phase-1-qqo1",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "FC Kertzfeld Féminines",
+     "pts": "12",
+     "j": "5",
+     "g": "4",
+     "n": "0",
+     "p": "1",
+     "bp": "27",
+     "bc": "4",
+     "diff": "23",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "ES Wihr Au Val Féminines",
+     "pts": "10",
+     "j": "4",
+     "g": "3",
+     "n": "1",
+     "p": "0",
+     "bp": "13",
+     "bc": "4",
+     "diff": "9",
+     "forme": [
+      "V",
+      "N",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "S Reunis Zellwiller Féminines",
+     "pts": "7",
+     "j": "5",
+     "g": "2",
+     "n": "1",
+     "p": "2",
+     "bp": "14",
+     "bc": "16",
+     "diff": "-2",
+     "forme": [
+      "D",
+      "D",
+      "N",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "FC Wettolsheim Féminines",
+     "pts": "6",
+     "j": "3",
+     "g": "2",
+     "n": "0",
+     "p": "1",
+     "bp": "13",
+     "bc": "8",
+     "diff": "5",
+     "forme": [
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "US Azzurri Mulhouse 3 Féminines",
+     "pts": "5",
+     "j": "4",
+     "g": "2",
+     "n": "0",
+     "p": "1",
+     "bp": "9",
+     "bc": "10",
+     "diff": "-1",
+     "forme": [
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "ES Haslach Urmatt Grendelbruch 2 Féminines",
+     "pts": "2",
+     "j": "5",
+     "g": "1",
+     "n": "0",
+     "p": "3",
+     "bp": "5",
+     "bc": "22",
+     "diff": "-17",
+     "forme": [
+      "D",
+      "V",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 7,
+     "equipe": "AS Guémar Féminines",
+     "pts": "0",
+     "j": "4",
+     "g": "0",
+     "n": "0",
+     "p": "4",
+     "bp": "4",
+     "bc": "21",
+     "diff": "-17",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nWETTOLSHEIM F.C.\n6\n0\nURMATT ENT HUG\nMULHOUSE AZZURRI US\nForfait\n0\n3\nWIHR AU VAL E.S.\nKERTZFELD FC\n6\n0\nZELLWILLER SR"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém à 8 District 2 Alsace - POULE A - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-a-8-district-2-alsace-poule-a-phase-1-qqtz",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "ES Morsbronn les Bains Féminines",
+     "pts": "9",
+     "j": "3",
+     "g": "3",
+     "n": "0",
+     "p": "0",
+     "bp": "21",
+     "bc": "2",
+     "diff": "19",
+     "forme": [
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "AS Mertzwiller",
+     "pts": "9",
+     "j": "3",
+     "g": "3",
+     "n": "0",
+     "p": "0",
+     "bp": "15",
+     "bc": "1",
+     "diff": "14",
+     "forme": [
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "US Gumbrechtshoffen Féminines",
+     "pts": "6",
+     "j": "4",
+     "g": "2",
+     "n": "0",
+     "p": "2",
+     "bp": "6",
+     "bc": "10",
+     "diff": "-4",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "US Niederbronn les Bains Féminines",
+     "pts": "2",
+     "j": "4",
+     "g": "1",
+     "n": "0",
+     "p": "2",
+     "bp": "5",
+     "bc": "15",
+     "diff": "-10",
+     "forme": [
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "US Reipertswiller Féminines",
+     "pts": "0",
+     "j": "4",
+     "g": "0",
+     "n": "0",
+     "p": "4",
+     "bp": "4",
+     "bc": "23",
+     "diff": "-19",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nGUMBRECHTSHOFFEN US\n31 oct.\n17:30\nAS Mertzwiller\nREIPERTSWILLER US\n01 nov.\n16:00\nNIEDERBRONN US"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém à 8 District 2 Alsace - POULE B - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-a-8-district-2-alsace-poule-b-phase-1-qqtt",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "FC Soleil Bischheim Féminines",
+     "pts": "12",
+     "j": "4",
+     "g": "4",
+     "n": "0",
+     "p": "0",
+     "bp": "38",
+     "bc": "1",
+     "diff": "37",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "FC Schweighouse sur Moder 1920 Féminines",
+     "pts": "9",
+     "j": "4",
+     "g": "3",
+     "n": "0",
+     "p": "1",
+     "bp": "12",
+     "bc": "9",
+     "diff": "3",
+     "forme": [
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "SC Roppenheim Féminines",
+     "pts": "5",
+     "j": "4",
+     "g": "2",
+     "n": "0",
+     "p": "1",
+     "bp": "8",
+     "bc": "23",
+     "diff": "-15",
+     "forme": [
+      "V",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "AS Reichstett Féminines",
+     "pts": "3",
+     "j": "4",
+     "g": "1",
+     "n": "0",
+     "p": "3",
+     "bp": "6",
+     "bc": "14",
+     "diff": "-8",
+     "forme": [
+      "D",
+      "V",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "FC Gries 2 Féminines",
+     "pts": "0",
+     "j": "4",
+     "g": "0",
+     "n": "0",
+     "p": "4",
+     "bp": "4",
+     "bc": "21",
+     "diff": "-17",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nROPPENHEIM SC\n01 nov.\n13:30\nSCHWEIGHOUSE FC\nBISCHHEIM SOLEIL FC\n01 nov.\n16:00\nREICHSTETT AS"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém à 8 District 2 Alsace - POULE C - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-a-8-district-2-alsace-poule-c-phase-1-qqtx",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "Union Sportive Egalitaire Féminines",
+     "pts": "9",
+     "j": "3",
+     "g": "3",
+     "n": "0",
+     "p": "0",
+     "bp": "20",
+     "bc": "4",
+     "diff": "16",
+     "forme": [
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "AS Hohengoeft Féminines",
+     "pts": "6",
+     "j": "2",
+     "g": "2",
+     "n": "0",
+     "p": "0",
+     "bp": "3",
+     "bc": "0",
+     "diff": "3",
+     "forme": [
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "AS Pfulgriesheim Féminines",
+     "pts": "6",
+     "j": "4",
+     "g": "2",
+     "n": "0",
+     "p": "2",
+     "bp": "3",
+     "bc": "7",
+     "diff": "-4",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "FC Lixhausen Féminines",
+     "pts": "3",
+     "j": "4",
+     "g": "1",
+     "n": "0",
+     "p": "3",
+     "bp": "3",
+     "bc": "8",
+     "diff": "-5",
+     "forme": [
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "CS Wolxheim 2 Féminines",
+     "pts": "-1",
+     "j": "3",
+     "g": "0",
+     "n": "0",
+     "p": "2",
+     "bp": "3",
+     "bc": "13",
+     "diff": "-10",
+     "forme": [
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nHOHENGOEFT\n31 oct.\n18:30\nPFULGRIESHEIM AS\nWOLXHEIM CS\n01 nov.\n14:00\nEGALITAIRE US"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém à 8 District 2 Alsace - POULE D - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-a-8-district-2-alsace-poule-d-phase-1-qqu0",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "AS Obenheim Féminines",
+     "pts": "12",
+     "j": "4",
+     "g": "4",
+     "n": "0",
+     "p": "0",
+     "bp": "20",
+     "bc": "0",
+     "diff": "20",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "FC Barr Féminines",
+     "pts": "9",
+     "j": "4",
+     "g": "3",
+     "n": "0",
+     "p": "1",
+     "bp": "7",
+     "bc": "7",
+     "diff": "0",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "FC Boofzheim Féminines",
+     "pts": "6",
+     "j": "4",
+     "g": "2",
+     "n": "0",
+     "p": "2",
+     "bp": "8",
+     "bc": "16",
+     "diff": "-8",
+     "forme": [
+      "V",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "AS Bischoffsheim Féminines",
+     "pts": "3",
+     "j": "4",
+     "g": "1",
+     "n": "0",
+     "p": "3",
+     "bp": "4",
+     "bc": "10",
+     "diff": "-6",
+     "forme": [
+      "D",
+      "V",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "Association Sportive Ottrott Féminines",
+     "pts": "0",
+     "j": "4",
+     "g": "0",
+     "n": "0",
+     "p": "4",
+     "bp": "7",
+     "bc": "13",
+     "diff": "-6",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nOBENHEIM AS\n01 nov.\n09:00\nBARR FC\nBISCHOFFSHEIM AS\n01 nov.\n09:00\nBOOFZH ENT. FCEBH"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém à 8 District 2 Alsace - POULE E - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-a-8-district-2-alsace-poule-e-phase-1-qqty",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "FC Hilsenheim Féminines",
+     "pts": "9",
+     "j": "3",
+     "g": "3",
+     "n": "0",
+     "p": "0",
+     "bp": "26",
+     "bc": "6",
+     "diff": "20",
+     "forme": [
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "CS Liepvre Féminines",
+     "pts": "9",
+     "j": "4",
+     "g": "3",
+     "n": "0",
+     "p": "1",
+     "bp": "29",
+     "bc": "14",
+     "diff": "15",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "US Dambach la Ville Féminines",
+     "pts": "6",
+     "j": "3",
+     "g": "2",
+     "n": "0",
+     "p": "1",
+     "bp": "20",
+     "bc": "4",
+     "diff": "16",
+     "forme": [
+      "V",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "FC Grussenheim",
+     "pts": "3",
+     "j": "4",
+     "g": "1",
+     "n": "0",
+     "p": "3",
+     "bp": "8",
+     "bc": "33",
+     "diff": "-25",
+     "forme": [
+      "D",
+      "V",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "RC 1922 Kintzheim 2 Féminines",
+     "pts": "0",
+     "j": "4",
+     "g": "0",
+     "n": "0",
+     "p": "4",
+     "bp": "9",
+     "bc": "35",
+     "diff": "-26",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nHILSENHEIM FC\n28 oct.\n19:00\nENT. RC KINTZH SELES\nLIEPVRE C.S.\n01 nov.\n13:30\nFC Grussenheim"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém à 8 District 2 Alsace - POULE F - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-a-8-district-2-alsace-poule-f-phase-1-qqu2",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "AS Turckheim Féminines",
+     "pts": "7",
+     "j": "3",
+     "g": "2",
+     "n": "1",
+     "p": "0",
+     "bp": "8",
+     "bc": "5",
+     "diff": "3",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "N"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "FC Ingersheim Féminines",
+     "pts": "6",
+     "j": "2",
+     "g": "2",
+     "n": "0",
+     "p": "0",
+     "bp": "17",
+     "bc": "0",
+     "diff": "17",
+     "forme": [
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "US Gunsbach 1946 Féminines",
+     "pts": "4",
+     "j": "3",
+     "g": "1",
+     "n": "1",
+     "p": "1",
+     "bp": "4",
+     "bc": "5",
+     "diff": "-1",
+     "forme": [
+      "N",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "AS Herrlisheim Féminines",
+     "pts": "2",
+     "j": "3",
+     "g": "0",
+     "n": "2",
+     "p": "1",
+     "bp": "2",
+     "bc": "16",
+     "diff": "-14",
+     "forme": [
+      "N",
+      "D",
+      "N"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "FC Buhl Féminines",
+     "pts": "-1",
+     "j": "3",
+     "g": "0",
+     "n": "0",
+     "p": "2",
+     "bp": "4",
+     "bc": "9",
+     "diff": "-5",
+     "forme": [
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nHERRL.ENT. ELSBOURG\n01 nov.\n13:30\nASTW\nINGERSHEIM F.C.\n01 nov.\n14:00\nBUHL FC"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém à 8 District 2 Alsace - POULE G - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-a-8-district-2-alsace-poule-g-phase-1-qqu1",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "AS Mertzen Féminines",
+     "pts": "12",
+     "j": "4",
+     "g": "4",
+     "n": "0",
+     "p": "0",
+     "bp": "12",
+     "bc": "1",
+     "diff": "11",
+     "forme": [
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "FC 1926 Pfastatt 2 Féminines",
+     "pts": "9",
+     "j": "4",
+     "g": "3",
+     "n": "0",
+     "p": "1",
+     "bp": "13",
+     "bc": "2",
+     "diff": "11",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "FC Staffelfelden",
+     "pts": "3",
+     "j": "3",
+     "g": "1",
+     "n": "0",
+     "p": "2",
+     "bp": "6",
+     "bc": "8",
+     "diff": "-2",
+     "forme": [
+      "D",
+      "V",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "FC Muespach 2 Féminines",
+     "pts": "2",
+     "j": "4",
+     "g": "1",
+     "n": "0",
+     "p": "2",
+     "bp": "6",
+     "bc": "16",
+     "diff": "-10",
+     "forme": [
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "Thann FC 2017 Féminines",
+     "pts": "-2",
+     "j": "3",
+     "g": "0",
+     "n": "0",
+     "p": "2",
+     "bp": "0",
+     "bc": "10",
+     "diff": "-10",
+     "forme": [
+      "D",
+      "D",
+      "V"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nMUESPACH ENT. AMO\n01 nov.\n09:00\nMERTZEN A.S.\nPFASTATT FC\n01 nov.\n09:00\nTHANN FC"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém District 2 Alsace - POULE A - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-district-2-alsace-poule-a-phase-1-qqmy",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "Espoir 24 2 Féminines",
+     "pts": "10",
+     "j": "4",
+     "g": "3",
+     "n": "1",
+     "p": "0",
+     "bp": "10",
+     "bc": "2",
+     "diff": "8",
+     "forme": [
+      "V",
+      "V",
+      "N",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "FC Truchtersheim Féminines",
+     "pts": "9",
+     "j": "4",
+     "g": "3",
+     "n": "0",
+     "p": "1",
+     "bp": "17",
+     "bc": "5",
+     "diff": "12",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "FC Oberhausbergen Féminines",
+     "pts": "9",
+     "j": "4",
+     "g": "3",
+     "n": "0",
+     "p": "1",
+     "bp": "14",
+     "bc": "4",
+     "diff": "10",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "F Reuni Schoenenbourg-Memmelshoffen Féminines",
+     "pts": "9",
+     "j": "4",
+     "g": "3",
+     "n": "0",
+     "p": "1",
+     "bp": "15",
+     "bc": "14",
+     "diff": "1",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "AS Strasbourg Féminines",
+     "pts": "6",
+     "j": "3",
+     "g": "2",
+     "n": "0",
+     "p": "1",
+     "bp": "5",
+     "bc": "1",
+     "diff": "4",
+     "forme": [
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "AS Hunspach Féminines",
+     "pts": "5",
+     "j": "4",
+     "g": "1",
+     "n": "2",
+     "p": "1",
+     "bp": "6",
+     "bc": "7",
+     "diff": "-1",
+     "forme": [
+      "N",
+      "D",
+      "N",
+      "V"
+     ]
+    },
+    {
+     "rang": 7,
+     "equipe": "FC Dossenheim S/Zinsel Féminines",
+     "pts": "5",
+     "j": "5",
+     "g": "1",
+     "n": "2",
+     "p": "2",
+     "bp": "5",
+     "bc": "7",
+     "diff": "-2",
+     "forme": [
+      "D",
+      "N",
+      "V",
+      "N",
+      "D"
+     ]
+    },
+    {
+     "rang": 8,
+     "equipe": "FC Seltz Féminines",
+     "pts": "3",
+     "j": "5",
+     "g": "1",
+     "n": "0",
+     "p": "4",
+     "bp": "9",
+     "bc": "16",
+     "diff": "-7",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 9,
+     "equipe": "AS Espagnols Schiltigheim Féminines",
+     "pts": "2",
+     "j": "4",
+     "g": "1",
+     "n": "0",
+     "p": "3",
+     "bp": "5",
+     "bc": "18",
+     "diff": "-13",
+     "forme": [
+      "V",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 10,
+     "equipe": "FC Wingersheim Féminines",
+     "pts": "0",
+     "j": "5",
+     "g": "0",
+     "n": "1",
+     "p": "3",
+     "bp": "7",
+     "bc": "19",
+     "diff": "-12",
+     "forme": [
+      "D",
+      "D",
+      "N",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nSCHOEN/MEMMEL FR\n5\n2\nWINGERSHEIM FC\nST ETIENNE SELTZ FC\n0\n4\nTRUCHTERSHEIM FC\nOBERHAUSBERGEN FC\n2\n0\nDOSSENHEIM ENT IMBSH\nSCHILTIGH ESP\n25 oct.\n14:00\nESPOIR 24\nSTRASBOURG AS\n25 oct.\n16:30\nHUNSPACH AS"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém District 2 Alsace - POULE B - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-district-2-alsace-poule-b-phase-1-qqmz",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "FC Geispolsheim 01 Féminines",
+     "pts": "10",
+     "j": "5",
+     "g": "3",
+     "n": "1",
+     "p": "1",
+     "bp": "9",
+     "bc": "2",
+     "diff": "7",
+     "forme": [
+      "D",
+      "V",
+      "V",
+      "N"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "AS Holtzheim Féminines",
+     "pts": "10",
+     "j": "4",
+     "g": "3",
+     "n": "1",
+     "p": "0",
+     "bp": "11",
+     "bc": "5",
+     "diff": "6",
+     "forme": [
+      "V",
+      "N",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "Ernolsheim-Bruche Football Club Féminines",
+     "pts": "9",
+     "j": "4",
+     "g": "3",
+     "n": "1",
+     "p": "0",
+     "bp": "28",
+     "bc": "1",
+     "diff": "27",
+     "forme": [
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "AS Erstein Féminines",
+     "pts": "6",
+     "j": "3",
+     "g": "2",
+     "n": "1",
+     "p": "0",
+     "bp": "6",
+     "bc": "0",
+     "diff": "6",
+     "forme": [
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "FCO Strasbourg Koenigshoffen 1906 Féminines",
+     "pts": "6",
+     "j": "4",
+     "g": "2",
+     "n": "0",
+     "p": "2",
+     "bp": "8",
+     "bc": "17",
+     "diff": "-9",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "CS Wolxheim Féminines",
+     "pts": "5",
+     "j": "5",
+     "g": "2",
+     "n": "0",
+     "p": "2",
+     "bp": "10",
+     "bc": "8",
+     "diff": "2",
+     "forme": [
+      "D",
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 7,
+     "equipe": "AS Schoenau Féminines",
+     "pts": "5",
+     "j": "5",
+     "g": "2",
+     "n": "1",
+     "p": "2",
+     "bp": "4",
+     "bc": "6",
+     "diff": "-2",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "D",
+      "N"
+     ]
+    },
+    {
+     "rang": 8,
+     "equipe": "U.S.L. Duppigheim Féminines",
+     "pts": "4",
+     "j": "4",
+     "g": "1",
+     "n": "1",
+     "p": "2",
+     "bp": "12",
+     "bc": "9",
+     "diff": "3",
+     "forme": [
+      "D",
+      "N",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 9,
+     "equipe": "AS Chatenois Féminines",
+     "pts": "3",
+     "j": "5",
+     "g": "1",
+     "n": "4",
+     "p": "0",
+     "bp": "5",
+     "bc": "2",
+     "diff": "3",
+     "forme": [
+      "V",
+      "D",
+      "D",
+      "N",
+      "N"
+     ]
+    },
+    {
+     "rang": 10,
+     "equipe": "ES Haslach Urmatt Grendelbruch Féminines",
+     "pts": "1",
+     "j": "4",
+     "g": "0",
+     "n": "1",
+     "p": "3",
+     "bp": "3",
+     "bc": "12",
+     "diff": "-9",
+     "forme": [
+      "D",
+      "N",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 11,
+     "equipe": "FC Dangolsheim Féminines",
+     "pts": "0",
+     "j": "3",
+     "g": "0",
+     "n": "1",
+     "p": "2",
+     "bp": "1",
+     "bc": "15",
+     "diff": "-14",
+     "forme": [
+      "D",
+      "N",
+      "D"
+     ]
+    },
+    {
+     "rang": 12,
+     "equipe": "FA Illkirch Graffenstaden 2 Féminines",
+     "pts": "0",
+     "j": "4",
+     "g": "0",
+     "n": "0",
+     "p": "4",
+     "bp": "1",
+     "bc": "21",
+     "diff": "-20",
+     "forme": [
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nWOLXHEIM CS\n0\n2\nERSTEIN AS\nDUPPIGHEIM USL\n2\n4\nSTRG FCOSK06\nCHATENOIS AS\n5\n2\nURMATT ENT HUG\nILLKIRCH GRAFF. FA\n0\n12\nERNO FC\nHOLTZHEIM AS\nReporté\nDANGOLSHEIM FC\nSCHOENAU\n1\n0\nGEISPOLSHEIM FC"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém District 2 Alsace - POULE C - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-district-2-alsace-poule-c-phase-1-qqn0",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "FC Bennwihr Féminines",
+     "pts": "13",
+     "j": "5",
+     "g": "4",
+     "n": "1",
+     "p": "0",
+     "bp": "24",
+     "bc": "1",
+     "diff": "23",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "N",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "FC Saint-Louis Neuweg",
+     "pts": "12",
+     "j": "4",
+     "g": "4",
+     "n": "0",
+     "p": "0",
+     "bp": "15",
+     "bc": "10",
+     "diff": "5",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "AS Heimsbrunn Féminines",
+     "pts": "10",
+     "j": "5",
+     "g": "3",
+     "n": "1",
+     "p": "1",
+     "bp": "17",
+     "bc": "8",
+     "diff": "9",
+     "forme": [
+      "D",
+      "V",
+      "V",
+      "N",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "FC Muespach Féminines",
+     "pts": "7",
+     "j": "5",
+     "g": "2",
+     "n": "1",
+     "p": "2",
+     "bp": "14",
+     "bc": "12",
+     "diff": "2",
+     "forme": [
+      "D",
+      "V",
+      "V",
+      "N",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "FC Habsheim Féminines",
+     "pts": "7",
+     "j": "4",
+     "g": "2",
+     "n": "1",
+     "p": "1",
+     "bp": "11",
+     "bc": "6",
+     "diff": "5",
+     "forme": [
+      "D",
+      "V",
+      "N",
+      "V"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "AS Blodelsheim 2 Féminines",
+     "pts": "5",
+     "j": "5",
+     "g": "2",
+     "n": "0",
+     "p": "2",
+     "bp": "14",
+     "bc": "9",
+     "diff": "5",
+     "forme": [
+      "V",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 7,
+     "equipe": "SR Widensolen Féminines",
+     "pts": "4",
+     "j": "5",
+     "g": "1",
+     "n": "1",
+     "p": "3",
+     "bp": "4",
+     "bc": "19",
+     "diff": "-15",
+     "forme": [
+      "D",
+      "V",
+      "D",
+      "N",
+      "D"
+     ]
+    },
+    {
+     "rang": 8,
+     "equipe": "US Pfetterhouse Féminines",
+     "pts": "3",
+     "j": "4",
+     "g": "1",
+     "n": "0",
+     "p": "3",
+     "bp": "8",
+     "bc": "14",
+     "diff": "-6",
+     "forme": [
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 9,
+     "equipe": "Football Club Pays Rhénan Féminines",
+     "pts": "1",
+     "j": "4",
+     "g": "0",
+     "n": "1",
+     "p": "3",
+     "bp": "3",
+     "bc": "17",
+     "diff": "-14",
+     "forme": [
+      "D",
+      "D",
+      "N",
+      "D"
+     ]
+    },
+    {
+     "rang": 10,
+     "equipe": "US Vallee de la Thur Féminines",
+     "pts": "0",
+     "j": "3",
+     "g": "0",
+     "n": "0",
+     "p": "3",
+     "bp": "1",
+     "bc": "15",
+     "diff": "-14",
+     "forme": [
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nHEIMSBRUNN A.S.\n2\n4\nFC Saint-Louis Neuweg\nBENNWIHR F.C\n4\n0\nMUESPACH ENT. AMO\nWIDENSOLEN S.R.\n0\n5\nHIRTZ GF CENTRE HTRH\nENT.FCPRZ\n29 nov.\n14:00\nPFETTERHOUSE U.S.\nHABSHEIM FC\n29 nov.\n14:00\nVALLEE THUR U.S."
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Coupe d'Alsace Féminines à 11 - Unique - 1",
+   "url": "https://scorenco.com/football/competitions/coupe-dalsace-feminines-a-11-unique-1-r88b",
+   "classement": [],
+   "matchs_texte": "2ÈME JOURNÉE\n\nFC Saint-Louis Neuweg\nReporté\nMULHOUSE AZZURRI US\nDUPPIGHEIM USL\n2\n2\n\nTAB : 4 - 5\n\nHABSHEIM FC\nST ETIENNE SELTZ FC\n1\n6\nESPOIR 24\nMUSAU STRASBOURG\n2\n1\nHUNSPACH AS\nMUSSIG AS\n3\n4\nMUESPACH ENT. AMO\nGRIES FC\n1\n0\nWOLXHEIM CS\nURMATT ENT HUG\nForfait\n0\n3\nERNO FC\nSELESTAT SC\n1\n5\nKOETZINGUE ASL\nHEIMSBRUNN A.S.\nReporté\nDUTTL. ENT. HINDIS.\nHAGUENAU FCSR\n2\n1\nSTRG FCOSK06\nGEISPOLSHEIM FC\n04 nov.\n19:00\nHOLTZHEIM AS"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Coupe d'Alsace Féminines à 8 - Unique - 1",
+   "url": "https://scorenco.com/football/competitions/coupe-dalsace-feminines-a-8-unique-1-r88h",
+   "classement": [],
+   "matchs_texte": "2ÈME JOURNÉE\n\nHOHENGOEFT\n0\n11\nOBERHOFFEN FC\nMUSAU STRASBOURG\n0\n7\nOBENHEIM AS\nWIHR AU VAL E.S.\nForfait\n3\n0\nBUHL FC\nOFFWILLER AS\n1\n2\nAS Mertzwiller\nMUESPACH ENT. AMO\nForfait\n0\n3\nMERTZEN A.S.\nINGERSHEIM F.C.\n2\n5\nGUEMAR AS\nBISCHHEIM SOLEIL FC\nForfait\n3\n0\nDAMBACH/VILLE US\nSCHWEIGHOUSE FC\n10\n0\nNIEDERBRONN US\nAS Strasbourg 2\n11 nov.\n13:30\nBARR FC"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U18 à 8 Alsace - POULE A - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u18-a-8-alsace-poule-a-phase-1-qqmp",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "Alliance de la Basse-Zorn U18 Féminines",
+     "pts": "13",
+     "j": "5",
+     "g": "4",
+     "n": "1",
+     "p": "0",
+     "bp": "22",
+     "bc": "6",
+     "diff": "16",
+     "forme": [
+      "V",
+      "V",
+      "N",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "CS Neuhof Strasbourg U18 Féminines",
+     "pts": "6",
+     "j": "5",
+     "g": "2",
+     "n": "0",
+     "p": "3",
+     "bp": "10",
+     "bc": "13",
+     "diff": "-3",
+     "forme": [
+      "D",
+      "V",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "LA Wantzenau FC U18 Féminines",
+     "pts": "6",
+     "j": "4",
+     "g": "2",
+     "n": "0",
+     "p": "2",
+     "bp": "22",
+     "bc": "14",
+     "diff": "8",
+     "forme": [
+      "V",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "AS Kilstett U18 Féminines",
+     "pts": "5",
+     "j": "4",
+     "g": "1",
+     "n": "2",
+     "p": "1",
+     "bp": "15",
+     "bc": "14",
+     "diff": "1",
+     "forme": [
+      "D",
+      "N",
+      "N",
+      "V"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "AS Hohengoeft U18 Féminines",
+     "pts": "0",
+     "j": "4",
+     "g": "0",
+     "n": "1",
+     "p": "2",
+     "bp": "4",
+     "bc": "26",
+     "diff": "-22",
+     "forme": [
+      "D",
+      "N",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nSTRG NEUHOF CS\n1\n4\nALLIANCE BASSE ZORN\nKILSTETT AS\n05 déc.\n15:00\nHOHENGOEFT"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U18 à 8 Alsace - POULE B - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u18-a-8-alsace-poule-b-phase-1-qqnp",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "AS Musau Strasbourg",
+     "pts": "12",
+     "j": "4",
+     "g": "4",
+     "n": "0",
+     "p": "0",
+     "bp": "58",
+     "bc": "2",
+     "diff": "56",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "S Reunis Zellwiller U18 Féminines",
+     "pts": "12",
+     "j": "5",
+     "g": "4",
+     "n": "0",
+     "p": "1",
+     "bp": "41",
+     "bc": "8",
+     "diff": "33",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "Groupement Féminin Strasbourg Sud U18 Féminines",
+     "pts": "9",
+     "j": "5",
+     "g": "3",
+     "n": "0",
+     "p": "2",
+     "bp": "15",
+     "bc": "23",
+     "diff": "-8",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "AS Munster U18 Féminines",
+     "pts": "0",
+     "j": "4",
+     "g": "0",
+     "n": "0",
+     "p": "4",
+     "bp": "1",
+     "bc": "42",
+     "diff": "-41",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "FA Illkirch Graffenstaden U18 Féminines",
+     "pts": "-1",
+     "j": "4",
+     "g": "0",
+     "n": "0",
+     "p": "3",
+     "bp": "1",
+     "bc": "41",
+     "diff": "-40",
+     "forme": [
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nSTRASBOURG SUD GF\n4\n1\nMUNSTER A.S.\nZELLWILLER SR\n3\n1\nILLKIRCH GRAFF. FA"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U18 à 8 Alsace - POULE C - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u18-a-8-alsace-poule-c-phase-1-qqmm",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "Football Club Rosenau 1946 U18 Féminines",
+     "pts": "13",
+     "j": "5",
+     "g": "4",
+     "n": "1",
+     "p": "0",
+     "bp": "20",
+     "bc": "3",
+     "diff": "17",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "N"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "Groupement des Enfants de la Porte d'Alsace U18 Féminines",
+     "pts": "12",
+     "j": "5",
+     "g": "4",
+     "n": "0",
+     "p": "1",
+     "bp": "11",
+     "bc": "5",
+     "diff": "6",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "AS Schlierbach U18 Féminines",
+     "pts": "3",
+     "j": "5",
+     "g": "1",
+     "n": "1",
+     "p": "2",
+     "bp": "3",
+     "bc": "9",
+     "diff": "-6",
+     "forme": [
+      "N",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "US Pfetterhouse U18 Féminines",
+     "pts": "3",
+     "j": "5",
+     "g": "1",
+     "n": "0",
+     "p": "4",
+     "bp": "8",
+     "bc": "19",
+     "diff": "-11",
+     "forme": [
+      "D",
+      "D",
+      "V",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "FC Riedisheim U18 Féminines",
+     "pts": "2",
+     "j": "4",
+     "g": "0",
+     "n": "2",
+     "p": "2",
+     "bp": "4",
+     "bc": "10",
+     "diff": "-6",
+     "forme": [
+      "N",
+      "D",
+      "D",
+      "N"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nGR.E.P.A\nForfait\n3\n0\nSCHLIERBACH A.S.\nENT.EPSUD\n1\n6\nFC ROSENAU 1946"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U15 à 11 D1 Alsace - POULE UNIQUE - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u15-a-11-d1-alsace-poule-unique-phase-1-qqmn",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "AS Illzach Modenheim U15 Féminines",
+     "pts": "13",
+     "j": "5",
+     "g": "4",
+     "n": "1",
+     "p": "0",
+     "bp": "17",
+     "bc": "6",
+     "diff": "11",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "N",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "FC 1926 Pfastatt U15 Féminines",
+     "pts": "12",
+     "j": "4",
+     "g": "4",
+     "n": "0",
+     "p": "0",
+     "bp": "16",
+     "bc": "1",
+     "diff": "15",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "AS Strasbourg U15 Féminines",
+     "pts": "9",
+     "j": "5",
+     "g": "3",
+     "n": "0",
+     "p": "2",
+     "bp": "22",
+     "bc": "11",
+     "diff": "11",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "FC Vendenheim 2 U15 Féminines",
+     "pts": "7",
+     "j": "5",
+     "g": "2",
+     "n": "1",
+     "p": "2",
+     "bp": "14",
+     "bc": "12",
+     "diff": "2",
+     "forme": [
+      "D",
+      "D",
+      "V",
+      "N",
+      "V"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "AS Erstein U15 Féminines",
+     "pts": "7",
+     "j": "5",
+     "g": "2",
+     "n": "1",
+     "p": "2",
+     "bp": "6",
+     "bc": "8",
+     "diff": "-2",
+     "forme": [
+      "D",
+      "V",
+      "V",
+      "N",
+      "D"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "AS Coteaux Mulhouse U15 Féminines",
+     "pts": "4",
+     "j": "5",
+     "g": "1",
+     "n": "1",
+     "p": "3",
+     "bp": "6",
+     "bc": "12",
+     "diff": "-6",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "N",
+      "V"
+     ]
+    },
+    {
+     "rang": 7,
+     "equipe": "Ernolsheim-Bruche Football Club U15 Féminines",
+     "pts": "3",
+     "j": "5",
+     "g": "1",
+     "n": "0",
+     "p": "4",
+     "bp": "3",
+     "bc": "23",
+     "diff": "-20",
+     "forme": [
+      "V",
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 8,
+     "equipe": "Stadium Racing Colmar U15 Féminines",
+     "pts": "0",
+     "j": "4",
+     "g": "0",
+     "n": "0",
+     "p": "4",
+     "bp": "5",
+     "bc": "16",
+     "diff": "-11",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nMULH. COTEAUX A.S.\n2\n3\nSTRASBOURG AS\nERNO FC\n2\n0\nERSTEIN AS\nVENDENHEIM FC\n0\n2\nAS ILLZACH MODENHEIM\nPFASTATT FC\n28 oct.\n18:00\nCOLMAR SR FA"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U15 à 8 Alsace - POULE A - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u15-a-8-alsace-poule-a-phase-1-qqrb",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "Ste Ouvriere Arts S Robertsau U15 Féminines",
+     "pts": "12",
+     "j": "4",
+     "g": "4",
+     "n": "0",
+     "p": "0",
+     "bp": "20",
+     "bc": "7",
+     "diff": "13",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "SR Hoenheim U15 Féminines",
+     "pts": "12",
+     "j": "5",
+     "g": "4",
+     "n": "0",
+     "p": "1",
+     "bp": "21",
+     "bc": "10",
+     "diff": "11",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "AS Hohengoeft U15 Féminines",
+     "pts": "7",
+     "j": "5",
+     "g": "2",
+     "n": "1",
+     "p": "2",
+     "bp": "14",
+     "bc": "12",
+     "diff": "2",
+     "forme": [
+      "N",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "FC Monswiller U15 Féminines",
+     "pts": "4",
+     "j": "5",
+     "g": "1",
+     "n": "1",
+     "p": "3",
+     "bp": "15",
+     "bc": "21",
+     "diff": "-6",
+     "forme": [
+      "N",
+      "V",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "FC Drusenheim U15 Féminines",
+     "pts": "-1",
+     "j": "5",
+     "g": "0",
+     "n": "0",
+     "p": "4",
+     "bp": "6",
+     "bc": "26",
+     "diff": "-20",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nMONSWILLER FC\n2\n2\nHOHENGOEFT\nDRUSENHEIM FC\n2\n4\nHOENHEIM SR"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U15 à 8 Alsace - POULE B - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u15-a-8-alsace-poule-b-phase-1-qqr9",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "S Reunis Zellwiller U15 Féminines",
+     "pts": "10",
+     "j": "5",
+     "g": "3",
+     "n": "1",
+     "p": "1",
+     "bp": "21",
+     "bc": "13",
+     "diff": "8",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "D",
+      "N"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "FC Haslach U15 Féminines",
+     "pts": "7",
+     "j": "4",
+     "g": "2",
+     "n": "1",
+     "p": "1",
+     "bp": "12",
+     "bc": "9",
+     "diff": "3",
+     "forme": [
+      "D",
+      "N",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "Groupement Bruche Ackerland U15 Féminines",
+     "pts": "6",
+     "j": "3",
+     "g": "2",
+     "n": "0",
+     "p": "1",
+     "bp": "10",
+     "bc": "6",
+     "diff": "4",
+     "forme": [
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "FC Lingolsheim",
+     "pts": "2",
+     "j": "3",
+     "g": "0",
+     "n": "2",
+     "p": "1",
+     "bp": "4",
+     "bc": "7",
+     "diff": "-3",
+     "forme": [
+      "D",
+      "N",
+      "N"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "Groupement Féminin Strasbourg Sud U15 Féminines",
+     "pts": "2",
+     "j": "5",
+     "g": "0",
+     "n": "2",
+     "p": "3",
+     "bp": "16",
+     "bc": "28",
+     "diff": "-12",
+     "forme": [
+      "D",
+      "D",
+      "N",
+      "N",
+      "D"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "FCO Strasbourg Koenigshoffen 1906 U15 Féminines",
+     "pts": "0",
+     "j": "0",
+     "g": "0",
+     "n": "0",
+     "p": "0",
+     "bp": "0",
+     "bc": "0",
+     "diff": "0",
+     "forme": [
+      "?",
+      "?",
+      "?",
+      "?",
+      "?"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nSTRASBOURG SUD GF\n3\n9\nZELLWILLER SR\nFC Lingolsheim\nForfait\n0\n0\nSTRG FCOSK06\nBRUCHE ACKERLAND\n31 oct.\n13:00\nHASLACH ENT. HUG"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U15 à 8 Alsace - POULE C - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u15-a-8-alsace-poule-c-phase-1-qqrg",
+   "classement": [],
+   "matchs_texte": "6ÈME JOURNÉE\n\nROUFFACH FC\n2\n0\nBUHL FC\nR.C. CORCIEUX\n7\n2\nSELESTAT SC\nBENNWIHR F.C\n5\n1\nWETTOLSHEIM F.C."
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U15 à 8 Alsace - POULE D - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u15-a-8-alsace-poule-d-phase-1-qqri",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "Thann FC 2017 U15 Féminines",
+     "pts": "12",
+     "j": "6",
+     "g": "3",
+     "n": "3",
+     "p": "0",
+     "bp": "13",
+     "bc": "7",
+     "diff": "6",
+     "forme": [
+      "N",
+      "V",
+      "N",
+      "V",
+      "N"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "Groupement des Enfants de la Porte d'Alsace U15 Féminines",
+     "pts": "12",
+     "j": "6",
+     "g": "4",
+     "n": "0",
+     "p": "2",
+     "bp": "11",
+     "bc": "8",
+     "diff": "3",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "US Azzurri Mulhouse",
+     "pts": "11",
+     "j": "6",
+     "g": "3",
+     "n": "2",
+     "p": "1",
+     "bp": "12",
+     "bc": "9",
+     "diff": "3",
+     "forme": [
+      "N",
+      "V",
+      "V",
+      "D",
+      "N"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "FC 1926 Pfastatt 2",
+     "pts": "7",
+     "j": "6",
+     "g": "2",
+     "n": "1",
+     "p": "3",
+     "bp": "10",
+     "bc": "9",
+     "diff": "1",
+     "forme": [
+      "D",
+      "D",
+      "N",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "US Pfetterhouse",
+     "pts": "7",
+     "j": "6",
+     "g": "2",
+     "n": "1",
+     "p": "3",
+     "bp": "8",
+     "bc": "9",
+     "diff": "-1",
+     "forme": [
+      "V",
+      "D",
+      "D",
+      "V",
+      "N"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "FC Habsheim 2 U15 Féminines",
+     "pts": "0",
+     "j": "6",
+     "g": "0",
+     "n": "1",
+     "p": "4",
+     "bp": "2",
+     "bc": "14",
+     "diff": "-12",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "N"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nFC 1926 Pfastatt 2\n0\n1\nGR.E.P.A\nUS Pfetterhouse\n4\n0\nHABSHEIM FC\nTHANN FC\n1\n1\nUS Azzurri Mulhouse"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U15 A 11 D2 Alsace - POULE A - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u15-a-11-d2-alsace-poule-a-phase-1-qqn1",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "Union Sportive de Trois-Maisons Phalsbourg",
+     "pts": "16",
+     "j": "6",
+     "g": "5",
+     "n": "1",
+     "p": "0",
+     "bp": "25",
+     "bc": "7",
+     "diff": "18",
+     "forme": [
+      "V",
+      "N",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "FC Sarrebourg U15 Féminines",
+     "pts": "13",
+     "j": "5",
+     "g": "4",
+     "n": "1",
+     "p": "0",
+     "bp": "15",
+     "bc": "3",
+     "diff": "12",
+     "forme": [
+      "N",
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "FR Haguenau U15 Féminines",
+     "pts": "9",
+     "j": "5",
+     "g": "3",
+     "n": "0",
+     "p": "2",
+     "bp": "10",
+     "bc": "7",
+     "diff": "3",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "AS Ohlungen U15 Féminines",
+     "pts": "6",
+     "j": "5",
+     "g": "2",
+     "n": "0",
+     "p": "3",
+     "bp": "4",
+     "bc": "7",
+     "diff": "-3",
+     "forme": [
+      "V",
+      "D",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "Kometrib Section Jeunesse U15 Féminines",
+     "pts": "0",
+     "j": "5",
+     "g": "0",
+     "n": "0",
+     "p": "5",
+     "bp": "4",
+     "bc": "19",
+     "diff": "-15",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "Société Sportive Brumath U15 Féminines",
+     "pts": "0",
+     "j": "4",
+     "g": "0",
+     "n": "0",
+     "p": "4",
+     "bp": "3",
+     "bc": "18",
+     "diff": "-15",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nUnion Sportive de Trois-Maisons\n7\n2\nKOMETRIB SJ\nHAGUENAU FCSR\n31 oct.\n09:00\nOHLUNGEN AS\nBRUMATH SS\n31 oct.\n09:30\nSARREBOURG FC"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U15 A 11 D2 Alsace - POULE B - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u15-a-11-d2-alsace-poule-b-phase-1-qqn5",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "AS Holtzheim U15 Féminines",
+     "pts": "9",
+     "j": "5",
+     "g": "3",
+     "n": "0",
+     "p": "2",
+     "bp": "20",
+     "bc": "14",
+     "diff": "6",
+     "forme": [
+      "D",
+      "V",
+      "D",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "U.S.L. Duppigheim U15 Féminines",
+     "pts": "9",
+     "j": "5",
+     "g": "3",
+     "n": "0",
+     "p": "2",
+     "bp": "11",
+     "bc": "16",
+     "diff": "-5",
+     "forme": [
+      "D",
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "AS Muttersholtz U15 Féminines",
+     "pts": "9",
+     "j": "5",
+     "g": "3",
+     "n": "0",
+     "p": "2",
+     "bp": "12",
+     "bc": "22",
+     "diff": "-10",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "SC Schiltigheim U15 Féminines",
+     "pts": "2",
+     "j": "5",
+     "g": "1",
+     "n": "0",
+     "p": "3",
+     "bp": "10",
+     "bc": "25",
+     "diff": "-15",
+     "forme": [
+      "D",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "A.Pop. Joie et Sante Strasbourg U15 Féminines",
+     "pts": "0",
+     "j": "5",
+     "g": "0",
+     "n": "0",
+     "p": "5",
+     "bp": "6",
+     "bc": "13",
+     "diff": "-7",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "9ÈME JOURNÉE\n\nHOLTZHEIM ENT BREUS\n31 oct.\n14:15\nSCHILTIGHEIM SC\nDUPPIGHEIM USL\n31 oct.\n15:00\nSTRASBOURG JSK"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U15 A 11 D2 Alsace - POULE C - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u15-a-11-d2-alsace-poule-c-phase-1-qqn2",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "FC Habsheim U15 Féminines",
+     "pts": "12",
+     "j": "5",
+     "g": "4",
+     "n": "0",
+     "p": "1",
+     "bp": "21",
+     "bc": "3",
+     "diff": "18",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "Ste S Zillisheim U15 Féminines",
+     "pts": "12",
+     "j": "5",
+     "g": "4",
+     "n": "0",
+     "p": "1",
+     "bp": "18",
+     "bc": "9",
+     "diff": "9",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "AS Blodelsheim",
+     "pts": "6",
+     "j": "4",
+     "g": "2",
+     "n": "0",
+     "p": "2",
+     "bp": "7",
+     "bc": "4",
+     "diff": "3",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "FC Saint-Louis Neuweg U15 Féminines",
+     "pts": "6",
+     "j": "5",
+     "g": "2",
+     "n": "0",
+     "p": "3",
+     "bp": "9",
+     "bc": "12",
+     "diff": "-3",
+     "forme": [
+      "D",
+      "V",
+      "V",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "Alsasud U15 Féminines",
+     "pts": "0",
+     "j": "5",
+     "g": "0",
+     "n": "0",
+     "p": "5",
+     "bp": "4",
+     "bc": "31",
+     "diff": "-27",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nZILLISHEIM SS\n4\n0\nST LOUIS NEUWEG FC\nHABSHEIM FC\n7\n0\nALSASUD"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U13 D1 Alsace - POULE UNIQUE - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u13-d1-alsace-poule-unique-phase-1-qqmo",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "FC Vendenheim U13 Féminines",
+     "pts": "15",
+     "j": "5",
+     "g": "5",
+     "n": "0",
+     "p": "0",
+     "bp": "44",
+     "bc": "4",
+     "diff": "40",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "Agiir Florival U13 Féminines",
+     "pts": "11",
+     "j": "5",
+     "g": "3",
+     "n": "2",
+     "p": "0",
+     "bp": "20",
+     "bc": "6",
+     "diff": "14",
+     "forme": [
+      "V",
+      "V",
+      "N",
+      "N",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "Stadium Racing Colmar U13 Féminines",
+     "pts": "9",
+     "j": "4",
+     "g": "3",
+     "n": "0",
+     "p": "1",
+     "bp": "21",
+     "bc": "6",
+     "diff": "15",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "RC Strasbourg Alsace U13 Féminines",
+     "pts": "7",
+     "j": "4",
+     "g": "2",
+     "n": "1",
+     "p": "1",
+     "bp": "46",
+     "bc": "15",
+     "diff": "31",
+     "forme": [
+      "D",
+      "V",
+      "N",
+      "V"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "FC Habsheim U13 Féminines",
+     "pts": "6",
+     "j": "4",
+     "g": "2",
+     "n": "0",
+     "p": "2",
+     "bp": "11",
+     "bc": "12",
+     "diff": "-1",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "FC 1926 Pfastatt U13 Féminines",
+     "pts": "6",
+     "j": "6",
+     "g": "2",
+     "n": "0",
+     "p": "4",
+     "bp": "14",
+     "bc": "42",
+     "diff": "-28",
+     "forme": [
+      "V",
+      "D",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 7,
+     "equipe": "AS Illzach Modenheim U13 Féminines",
+     "pts": "3",
+     "j": "4",
+     "g": "1",
+     "n": "0",
+     "p": "3",
+     "bp": "11",
+     "bc": "17",
+     "diff": "-6",
+     "forme": [
+      "D",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 8,
+     "equipe": "Ernolsheim-Bruche Football Club U13 Féminines",
+     "pts": "1",
+     "j": "3",
+     "g": "0",
+     "n": "1",
+     "p": "2",
+     "bp": "3",
+     "bc": "16",
+     "diff": "-13",
+     "forme": [
+      "D",
+      "D",
+      "N"
+     ]
+    },
+    {
+     "rang": 9,
+     "equipe": "AS Coteaux Mulhouse U13 Féminines",
+     "pts": "0",
+     "j": "5",
+     "g": "0",
+     "n": "0",
+     "p": "5",
+     "bp": "7",
+     "bc": "59",
+     "diff": "-52",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 10,
+     "equipe": "ES Molsheim Ernolsheim U13 Féminines",
+     "pts": "0",
+     "j": "0",
+     "g": "0",
+     "n": "0",
+     "p": "0",
+     "bp": "0",
+     "bc": "0",
+     "diff": "0",
+     "forme": [
+      "?",
+      "?",
+      "?",
+      "?",
+      "?"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nPFASTATT FC\n6\n5\nMULH. COTEAUX A.S.\nSTRASBOURG ALSACE RC\nForfait\n0\n0\nMOLSHEIM ERNO. ES\nAS ILLZACH MODENHEIM\n31 oct.\n12:30\nCOLMAR SR FA\nAGIIR FLORIVAL\n11 nov.\n10:00\nVENDENHEIM FC\nERNO FC\n05 déc.\n12:00\nHABSHEIM FC"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U13 D2 Alsace - POULE A - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u13-d2-alsace-poule-a-phase-1-qqpr",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "FC Vendenheim 2 U13 Féminines",
+     "pts": "19",
+     "j": "7",
+     "g": "6",
+     "n": "1",
+     "p": "0",
+     "bp": "31",
+     "bc": "4",
+     "diff": "27",
+     "forme": [
+      "V",
+      "N",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "US Oberlauterbach U13 Féminines",
+     "pts": "15",
+     "j": "7",
+     "g": "5",
+     "n": "0",
+     "p": "2",
+     "bp": "15",
+     "bc": "8",
+     "diff": "7",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "AS Kilstett U13 Féminines",
+     "pts": "10",
+     "j": "7",
+     "g": "3",
+     "n": "1",
+     "p": "3",
+     "bp": "12",
+     "bc": "17",
+     "diff": "-5",
+     "forme": [
+      "D",
+      "N",
+      "V",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "Union Sportive de Trois-Maisons Phalsbourg U13 Féminines",
+     "pts": "10",
+     "j": "6",
+     "g": "3",
+     "n": "1",
+     "p": "2",
+     "bp": "13",
+     "bc": "5",
+     "diff": "8",
+     "forme": [
+      "N",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "Alliance de la Basse-Zorn U13 Féminines",
+     "pts": "10",
+     "j": "7",
+     "g": "3",
+     "n": "1",
+     "p": "3",
+     "bp": "16",
+     "bc": "23",
+     "diff": "-7",
+     "forme": [
+      "D",
+      "N",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "FR Haguenau U13 Féminines",
+     "pts": "-10",
+     "j": "10",
+     "g": "0",
+     "n": "0",
+     "p": "0",
+     "bp": "0",
+     "bc": "30",
+     "diff": "-30",
+     "forme": [
+      "?",
+      "?",
+      "?",
+      "?",
+      "?"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nENT.ESPOIR 24\nForfait\n3\n0\nHAGUENAU FCSR\nALLIANCE BASSE ZORN\n0\n1\nOBERLAUTERBACH US\nKILSTETT AS\n0\n4\nVENDENHEIM FC"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U13 D2 Alsace - POULE B - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u13-d2-alsace-poule-b-phase-1-qqpp",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "Union Sportive de Trois-Maisons Phalsbourg 2 U13 Féminines",
+     "pts": "15",
+     "j": "5",
+     "g": "5",
+     "n": "0",
+     "p": "0",
+     "bp": "56",
+     "bc": "1",
+     "diff": "55",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "Kometrib Section Jeunesse U13 Féminines",
+     "pts": "12",
+     "j": "5",
+     "g": "4",
+     "n": "0",
+     "p": "1",
+     "bp": "34",
+     "bc": "17",
+     "diff": "17",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "FC Sarrebourg U13 Féminines",
+     "pts": "6",
+     "j": "5",
+     "g": "2",
+     "n": "0",
+     "p": "3",
+     "bp": "21",
+     "bc": "21",
+     "diff": "0",
+     "forme": [
+      "D",
+      "D",
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "Zornthal FC U13 Féminines",
+     "pts": "1",
+     "j": "4",
+     "g": "0",
+     "n": "1",
+     "p": "3",
+     "bp": "6",
+     "bc": "36",
+     "diff": "-30",
+     "forme": [
+      "N",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "FC Monswiller U13 Féminines",
+     "pts": "1",
+     "j": "5",
+     "g": "0",
+     "n": "1",
+     "p": "4",
+     "bp": "4",
+     "bc": "46",
+     "diff": "-42",
+     "forme": [
+      "D",
+      "N",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nMONSWILLER FC\n1\n15\nKOMETRIB SJ\nENT.ESPOIR 24\n10\n1\nSARREBOURG FC"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U13 D2 Alsace - POULE C - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u13-d2-alsace-poule-c-phase-1-qqpk",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "AS Musau Strasbourg U13 Féminines",
+     "pts": "18",
+     "j": "6",
+     "g": "6",
+     "n": "0",
+     "p": "0",
+     "bp": "55",
+     "bc": "4",
+     "diff": "51",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "AS Strasbourg U13 Féminines",
+     "pts": "15",
+     "j": "6",
+     "g": "5",
+     "n": "0",
+     "p": "1",
+     "bp": "32",
+     "bc": "10",
+     "diff": "22",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "Ste Ouvriere Arts S Robertsau U13 Féminines",
+     "pts": "12",
+     "j": "6",
+     "g": "4",
+     "n": "0",
+     "p": "2",
+     "bp": "37",
+     "bc": "20",
+     "diff": "17",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "AS Neudorf 1925 U13 Féminines",
+     "pts": "3",
+     "j": "5",
+     "g": "1",
+     "n": "0",
+     "p": "4",
+     "bp": "9",
+     "bc": "24",
+     "diff": "-15",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "SC Schiltigheim U13 Féminines",
+     "pts": "3",
+     "j": "5",
+     "g": "1",
+     "n": "0",
+     "p": "4",
+     "bp": "6",
+     "bc": "36",
+     "diff": "-30",
+     "forme": [
+      "D",
+      "V",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "SR Hoenheim U13 Féminines",
+     "pts": "0",
+     "j": "6",
+     "g": "0",
+     "n": "0",
+     "p": "6",
+     "bp": "7",
+     "bc": "52",
+     "diff": "-45",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nSTRG NEUDORF AS\n1\n6\nSOAS ENT. ASL ROB\nSCHILTIGHEIM SC\n1\n2\nSTRASBOURG AS\nMUSAU STRASBOURG\n13\n0\nHOENHEIM SR"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U13 D2 Alsace - POULE D - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u13-d2-alsace-poule-d-phase-1-qqpm",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "Groupement Bruche Ackerland U13 Féminines",
+     "pts": "9",
+     "j": "3",
+     "g": "3",
+     "n": "0",
+     "p": "0",
+     "bp": "23",
+     "bc": "0",
+     "diff": "23",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "FC Breuschwickersheim U13 Féminines",
+     "pts": "6",
+     "j": "4",
+     "g": "2",
+     "n": "0",
+     "p": "2",
+     "bp": "6",
+     "bc": "11",
+     "diff": "-5",
+     "forme": [
+      "D",
+      "V",
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "A.Pop. Joie et Sante Strasbourg",
+     "pts": "0",
+     "j": "1",
+     "g": "0",
+     "n": "0",
+     "p": "1",
+     "bp": "1",
+     "bc": "2",
+     "diff": "-1",
+     "forme": [
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "U.S.L. Duppigheim U13 Féminines",
+     "pts": "0",
+     "j": "2",
+     "g": "0",
+     "n": "0",
+     "p": "2",
+     "bp": "0",
+     "bc": "17",
+     "diff": "-17",
+     "forme": [
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "SC Red Star Strasbourg U13 Féminines",
+     "pts": "0",
+     "j": "0",
+     "g": "0",
+     "n": "0",
+     "p": "0",
+     "bp": "0",
+     "bc": "0",
+     "diff": "0",
+     "forme": [
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "FCO Strasbourg Koenigshoffen 1906 U13 Féminines",
+     "pts": "0",
+     "j": "0",
+     "g": "0",
+     "n": "0",
+     "p": "0",
+     "bp": "0",
+     "bc": "0",
+     "diff": "0",
+     "forme": [
+      "?",
+      "?",
+      "?",
+      "?",
+      "?"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nBREUSCHWICKERSHEIM\n0\n3\nBRUCHE ACKERLAND\nSTRG FCOSK06\nForfait\n0\n0\nA.Pop. Joie et Sante Strasbourg\nDUPPIGHEIM USL\nForfait\n0\n0\nSTRG RED STAR"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U13 D2 Alsace - POULE E - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u13-d2-alsace-poule-e-phase-1-qqpq",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "AS Erstein U13 Féminines",
+     "pts": "15",
+     "j": "5",
+     "g": "5",
+     "n": "0",
+     "p": "0",
+     "bp": "54",
+     "bc": "1",
+     "diff": "53",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "S Reunis Zellwiller U13 Féminines",
+     "pts": "12",
+     "j": "5",
+     "g": "4",
+     "n": "0",
+     "p": "1",
+     "bp": "22",
+     "bc": "17",
+     "diff": "5",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "US Hindisheim U13 Féminines",
+     "pts": "9",
+     "j": "5",
+     "g": "3",
+     "n": "0",
+     "p": "2",
+     "bp": "19",
+     "bc": "15",
+     "diff": "4",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "FC Lingolsheim U13 Féminines",
+     "pts": "6",
+     "j": "5",
+     "g": "2",
+     "n": "0",
+     "p": "3",
+     "bp": "12",
+     "bc": "29",
+     "diff": "-17",
+     "forme": [
+      "D",
+      "D",
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "FA Illkirch Graffenstaden U13 Féminines",
+     "pts": "4",
+     "j": "6",
+     "g": "1",
+     "n": "1",
+     "p": "4",
+     "bp": "6",
+     "bc": "20",
+     "diff": "-14",
+     "forme": [
+      "V",
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "Groupement Féminin Strasbourg Sud U13 Féminines",
+     "pts": "1",
+     "j": "6",
+     "g": "0",
+     "n": "1",
+     "p": "5",
+     "bp": "13",
+     "bc": "44",
+     "diff": "-31",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "N",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nHINDI ENT. KRAUT\n8\n3\nSTRASBOURG SUD GF\nILLKIRCH GRAFF. FA\n4\n2\nLINGOLSHEIM FC\nERSTEIN AS\n10 nov.\n17:00\nZELLWILLER SR"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U13 D2 Alsace - POULE F - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u13-d2-alsace-poule-f-phase-1-qqpn",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "Stadium Racing Colmar 2 U13 Féminines",
+     "pts": "16",
+     "j": "6",
+     "g": "5",
+     "n": "1",
+     "p": "0",
+     "bp": "37",
+     "bc": "5",
+     "diff": "32",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "N",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "FC Artolsheim U13 Féminines",
+     "pts": "15",
+     "j": "6",
+     "g": "5",
+     "n": "0",
+     "p": "1",
+     "bp": "38",
+     "bc": "9",
+     "diff": "29",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "FC Bennwihr U13 Féminines",
+     "pts": "5",
+     "j": "5",
+     "g": "1",
+     "n": "2",
+     "p": "2",
+     "bp": "17",
+     "bc": "16",
+     "diff": "1",
+     "forme": [
+      "D",
+      "N",
+      "V",
+      "N",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "SC Sélestat U13 Féminines",
+     "pts": "4",
+     "j": "5",
+     "g": "1",
+     "n": "1",
+     "p": "3",
+     "bp": "5",
+     "bc": "27",
+     "diff": "-22",
+     "forme": [
+      "N",
+      "D",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "AS Canton Vert U13 Féminines",
+     "pts": "4",
+     "j": "6",
+     "g": "1",
+     "n": "1",
+     "p": "4",
+     "bp": "12",
+     "bc": "28",
+     "diff": "-16",
+     "forme": [
+      "D",
+      "N",
+      "V",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "FC Wettolsheim U13 Féminines",
+     "pts": "1",
+     "j": "4",
+     "g": "0",
+     "n": "1",
+     "p": "3",
+     "bp": "3",
+     "bc": "27",
+     "diff": "-24",
+     "forme": [
+      "N",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nBENNWIHR F.C\n0\n5\nCOLMAR SR FA\nSELESTAT SC\n0\n0\nWETTOLSHEIM F.C.\nCANTON VERT A.S.\n1\n9\nFC ARTOLSHEIM - ASM"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U13 D2 Alsace - POULE G - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u13-d2-alsace-poule-g-phase-1-qqps",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "FC Rouffach U13 Féminines",
+     "pts": "15",
+     "j": "5",
+     "g": "5",
+     "n": "0",
+     "p": "0",
+     "bp": "88",
+     "bc": "4",
+     "diff": "84",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "AS Blodelsheim U13 Féminines",
+     "pts": "9",
+     "j": "4",
+     "g": "3",
+     "n": "0",
+     "p": "1",
+     "bp": "27",
+     "bc": "19",
+     "diff": "8",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "Agiir Florival 2 U13 Féminines",
+     "pts": "9",
+     "j": "5",
+     "g": "3",
+     "n": "0",
+     "p": "2",
+     "bp": "40",
+     "bc": "14",
+     "diff": "26",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "US Azzurri Mulhouse",
+     "pts": "3",
+     "j": "5",
+     "g": "1",
+     "n": "0",
+     "p": "4",
+     "bp": "14",
+     "bc": "53",
+     "diff": "-39",
+     "forme": [
+      "D",
+      "D",
+      "V",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "CS Mulhouse Bourtzwiller F U13 Féminines",
+     "pts": "0",
+     "j": "5",
+     "g": "0",
+     "n": "0",
+     "p": "5",
+     "bp": "3",
+     "bc": "82",
+     "diff": "-79",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "RC Mulhouse",
+     "pts": "0",
+     "j": "0",
+     "g": "0",
+     "n": "0",
+     "p": "0",
+     "bp": "0",
+     "bc": "0",
+     "diff": "0",
+     "forme": [
+      "?",
+      "?",
+      "?",
+      "?",
+      "?"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nBLODELSHEIM BANTZ US\nForfait\n0\n0\nRC Mulhouse\nUS Azzurri Mulhouse\n1\n14\nROUFFACH FC\nAGIIR FLORIVAL\n17\n0\nMULH. BOURTZWILLER"
+  },
+  {
+   "zone": "Départemental",
+   "nom": "Fém U13 D2 Alsace - POULE H - Phase 1",
+   "url": "https://scorenco.com/football/competitions/fem-u13-d2-alsace-poule-h-phase-1-qqpu",
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "Football Club Rosenau 1946 U13 Féminines",
+     "pts": "9",
+     "j": "3",
+     "g": "3",
+     "n": "0",
+     "p": "0",
+     "bp": "11",
+     "bc": "2",
+     "diff": "9",
+     "forme": [
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "Alsasud U13 Féminines",
+     "pts": "6",
+     "j": "3",
+     "g": "2",
+     "n": "0",
+     "p": "1",
+     "bp": "25",
+     "bc": "2",
+     "diff": "23",
+     "forme": [
+      "V",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "FC Habsheim 2 U13 Féminines",
+     "pts": "6",
+     "j": "4",
+     "g": "2",
+     "n": "0",
+     "p": "2",
+     "bp": "16",
+     "bc": "10",
+     "diff": "6",
+     "forme": [
+      "V",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "Groupement des Enfants de la Porte d'Alsace U13 Féminines",
+     "pts": "0",
+     "j": "4",
+     "g": "0",
+     "n": "0",
+     "p": "4",
+     "bp": "1",
+     "bc": "39",
+     "diff": "-38",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "US Pfetterhouse U13 Féminines",
+     "pts": "0",
+     "j": "0",
+     "g": "0",
+     "n": "0",
+     "p": "0",
+     "bp": "0",
+     "bc": "0",
+     "diff": "0",
+     "forme": [
+      "?",
+      "?",
+      "?",
+      "?",
+      "?"
+     ]
+    }
+   ],
+   "matchs_texte": "6ÈME JOURNÉE\n\nGR.E.P.A\n0\n6\nHABSHEIM FC\nFC ROSENAU 1946\n04 nov.\n16:00\nALSASUD"
+  }
+ ]
+}
