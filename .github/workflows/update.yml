@@ -13,6 +13,13 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install playwright && playwright install --with-deps chromium
       - run: python scrape.py
+        env:
+          DEBUG: "1"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: debug
+          path: debug
       - run: |
           git config user.name "bot"; git config user.email "bot@users.noreply.github.com"
           git add data/data.json
