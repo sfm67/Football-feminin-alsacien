@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-10-27T10:22:47.753193Z",
+ "mis_a_jour": "2026-10-28T10:59:29.299693Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -208,120 +208,6 @@
     }
    ],
    "matchs_texte": "6ÈME JOURNÉE\n\nHINTERF. ENT MERTZW.\n2\n1\nKOETZINGUE ASL\nMUSSIG AS\n1\n3\nDUTTL. ENT. HINDIS.\nGRIES FC\n0\n3\nSELESTAT SC\nMULHOUSE AZZURRI US\n7\n0\nMUSAU STRASBOURG\nILLHAEUSERN FC\n11 nov.\n13:30\nHAGUENAU FCSR"
-  },
-  {
-   "zone": "Départemental",
-   "nom": "Fém à 8 District 1 Alsace - POULE A - Phase 1",
-   "url": "https://scorenco.com/football/competitions/fem-a-8-district-1-alsace-poule-a-phase-1-qqn3",
-   "classement": [
-    {
-     "rang": 1,
-     "equipe": "FA Illkirch Graffenstaden 3 Féminines",
-     "pts": "12",
-     "j": "4",
-     "g": "4",
-     "n": "0",
-     "p": "0",
-     "bp": "22",
-     "bc": "1",
-     "diff": "21",
-     "forme": [
-      "V",
-      "V",
-      "V",
-      "V"
-     ]
-    },
-    {
-     "rang": 2,
-     "equipe": "AS Strasbourg 2",
-     "pts": "9",
-     "j": "5",
-     "g": "3",
-     "n": "0",
-     "p": "2",
-     "bp": "25",
-     "bc": "11",
-     "diff": "14",
-     "forme": [
-      "D",
-      "V",
-      "V",
-      "V",
-      "D"
-     ]
-    },
-    {
-     "rang": 3,
-     "equipe": "AS Musau Strasbourg 3 Féminines",
-     "pts": "6",
-     "j": "4",
-     "g": "2",
-     "n": "0",
-     "p": "2",
-     "bp": "6",
-     "bc": "7",
-     "diff": "-1",
-     "forme": [
-      "V",
-      "D",
-      "D"
-     ]
-    },
-    {
-     "rang": 4,
-     "equipe": "FC Oberhoffen Féminines",
-     "pts": "5",
-     "j": "4",
-     "g": "2",
-     "n": "0",
-     "p": "1",
-     "bp": "7",
-     "bc": "8",
-     "diff": "-1",
-     "forme": [
-      "D",
-      "V"
-     ]
-    },
-    {
-     "rang": 5,
-     "equipe": "AS Offwiller Féminines",
-     "pts": "5",
-     "j": "5",
-     "g": "2",
-     "n": "0",
-     "p": "2",
-     "bp": "8",
-     "bc": "16",
-     "diff": "-8",
-     "forme": [
-      "D",
-      "V",
-      "D",
-      "V"
-     ]
-    },
-    {
-     "rang": 6,
-     "equipe": "US Oberschaeffolsheim Féminines",
-     "pts": "0",
-     "j": "4",
-     "g": "0",
-     "n": "0",
-     "p": "4",
-     "bp": "3",
-     "bc": "28",
-     "diff": "-25",
-     "forme": [
-      "D",
-      "D",
-      "D",
-      "D"
-     ]
-    }
-   ],
-   "matchs_texte": "1ÈRE JOURNÉE\n\nILLKIRCH GRAFF. FA\n4\n1\nAS Strasbourg 2\nOBERHOFFEN FC\nForfait\n3\n0\nOFFWILLER AS\nMUSAU STRASBOURG\n2\n1\nOBERSCHAEFFOLSHEIM"
   },
   {
    "zone": "Départemental",
@@ -1021,7 +907,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nHERRL.ENT. ELSBOURG\n01 nov.\n13:30\nASTW\nINGERSHEIM F.C.\n01 nov.\n14:00\nBUHL FC"
+   "matchs_texte": "6ÈME JOURNÉE\n\nASTW\n01 nov.\n13:30\nHERRL.ENT. ELSBOURG\nINGERSHEIM F.C.\n01 nov.\n14:00\nBUHL FC"
   },
   {
    "zone": "Départemental",
@@ -1065,14 +951,14 @@
     {
      "rang": 3,
      "equipe": "FC Staffelfelden",
-     "pts": "3",
-     "j": "3",
-     "g": "1",
+     "pts": "6",
+     "j": "4",
+     "g": "2",
      "n": "0",
      "p": "2",
-     "bp": "6",
-     "bc": "8",
-     "diff": "-2",
+     "bp": "14",
+     "bc": "12",
+     "diff": "2",
      "forme": [
       "D",
       "V",
@@ -1101,13 +987,13 @@
      "rang": 5,
      "equipe": "Thann FC 2017 Féminines",
      "pts": "-2",
-     "j": "3",
+     "j": "4",
      "g": "0",
      "n": "0",
-     "p": "2",
-     "bp": "0",
-     "bc": "10",
-     "diff": "-10",
+     "p": "3",
+     "bp": "4",
+     "bc": "18",
+     "diff": "-14",
      "forme": [
       "D",
       "D",
@@ -1459,39 +1345,39 @@
     },
     {
      "rang": 9,
+     "equipe": "ES Haslach Urmatt Grendelbruch Féminines",
+     "pts": "1",
+     "j": "4",
+     "g": "0",
+     "n": "2",
+     "p": "2",
+     "bp": "1",
+     "bc": "7",
+     "diff": "-6",
+     "forme": [
+      "D",
+      "N",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 10,
      "equipe": "AS Chatenois Féminines",
-     "pts": "3",
+     "pts": "0",
      "j": "5",
-     "g": "1",
-     "n": "4",
+     "g": "0",
+     "n": "5",
      "p": "0",
-     "bp": "5",
-     "bc": "2",
-     "diff": "3",
+     "bp": "0",
+     "bc": "0",
+     "diff": "0",
      "forme": [
       "V",
       "D",
       "D",
       "N",
       "N"
-     ]
-    },
-    {
-     "rang": 10,
-     "equipe": "ES Haslach Urmatt Grendelbruch Féminines",
-     "pts": "1",
-     "j": "4",
-     "g": "0",
-     "n": "1",
-     "p": "3",
-     "bp": "3",
-     "bc": "12",
-     "diff": "-9",
-     "forme": [
-      "D",
-      "N",
-      "D",
-      "D"
      ]
     },
     {
@@ -1831,7 +1717,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nSTRG NEUHOF CS\n1\n4\nALLIANCE BASSE ZORN\nKILSTETT AS\n05 déc.\n15:00\nHOHENGOEFT"
+   "matchs_texte": "7ÈME JOURNÉE\n\nALLIANCE BASSE ZORN\n07 nov.\n13:00\nLA WANTZENAU FC\nHOHENGOEFT\n07 nov.\n13:30\nSTRG NEUHOF CS"
   },
   {
    "zone": "Départemental",
@@ -1929,7 +1815,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nSTRASBOURG SUD GF\n4\n1\nMUNSTER A.S.\nZELLWILLER SR\n3\n1\nILLKIRCH GRAFF. FA"
+   "matchs_texte": "7ÈME JOURNÉE\n\nAS Musau Strasbourg\n07 nov.\n13:30\nZELLWILLER SR\nILLKIRCH GRAFF. FA\n07 nov.\n13:30\nSTRASBOURG SUD GF"
   },
   {
    "zone": "Départemental",
@@ -2029,7 +1915,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nGR.E.P.A\nForfait\n3\n0\nSCHLIERBACH A.S.\nENT.EPSUD\n1\n6\nFC ROSENAU 1946"
+   "matchs_texte": "7ÈME JOURNÉE\n\nFC ROSENAU 1946\n07 nov.\n13:30\nGR.E.P.A\nRIEDISHEIM F.C.\n07 nov.\n16:30\nENT.EPSUD"
   },
   {
    "zone": "Départemental",
@@ -2187,7 +2073,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nMULH. COTEAUX A.S.\n2\n3\nSTRASBOURG AS\nERNO FC\n2\n0\nERSTEIN AS\nVENDENHEIM FC\n0\n2\nAS ILLZACH MODENHEIM\nPFASTATT FC\n28 oct.\n18:00\nCOLMAR SR FA"
+   "matchs_texte": "7ÈME JOURNÉE\n\nSTRASBOURG AS\n31 oct.\n13:30\nVENDENHEIM FC\nAS ILLZACH MODENHEIM\n31 oct.\n15:00\nPFASTATT FC\nERSTEIN AS\n31 oct.\n15:15\nMULH. COTEAUX A.S.\nERNO FC\n01 nov.\n09:00\nCOLMAR SR FA"
   },
   {
    "zone": "Départemental",
@@ -2287,7 +2173,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nMONSWILLER FC\n2\n2\nHOHENGOEFT\nDRUSENHEIM FC\n2\n4\nHOENHEIM SR"
+   "matchs_texte": "7ÈME JOURNÉE\n\nSOAS ENT. ASL ROB\n07 nov.\n13:30\nDRUSENHEIM FC\nHOENHEIM SR\n07 nov.\n15:30\nMONSWILLER FC"
   },
   {
    "zone": "Départemental",
@@ -2404,14 +2290,129 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nSTRASBOURG SUD GF\n3\n9\nZELLWILLER SR\nFC Lingolsheim\nForfait\n0\n0\nSTRG FCOSK06\nBRUCHE ACKERLAND\n31 oct.\n13:00\nHASLACH ENT. HUG"
+   "matchs_texte": "7ÈME JOURNÉE\n\nZELLWILLER SR\n07 nov.\n13:30\nBRUCHE ACKERLAND\nHASLACH ENT. HUG\n07 nov.\n13:30\nFC Lingolsheim\nSTRG FCOSK06\n08 nov.\n09:00\nSTRASBOURG SUD GF"
   },
   {
    "zone": "Départemental",
    "nom": "Fém U15 à 8 Alsace - POULE C - Phase 1",
    "url": "https://scorenco.com/football/competitions/fem-u15-a-8-alsace-poule-c-phase-1-qqrg",
-   "classement": [],
-   "matchs_texte": "6ÈME JOURNÉE\n\nROUFFACH FC\n2\n0\nBUHL FC\nR.C. CORCIEUX\n7\n2\nSELESTAT SC\nBENNWIHR F.C\n5\n1\nWETTOLSHEIM F.C."
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "Racing Club Corcieux U15 Féminines",
+     "pts": "16",
+     "j": "6",
+     "g": "5",
+     "n": "1",
+     "p": "0",
+     "bp": "43",
+     "bc": "6",
+     "diff": "37",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "FC Bennwihr U15 Féminines",
+     "pts": "11",
+     "j": "6",
+     "g": "3",
+     "n": "2",
+     "p": "1",
+     "bp": "18",
+     "bc": "6",
+     "diff": "12",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "N",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "SC Sélestat U15 Féminines",
+     "pts": "10",
+     "j": "6",
+     "g": "3",
+     "n": "1",
+     "p": "2",
+     "bp": "16",
+     "bc": "17",
+     "diff": "-1",
+     "forme": [
+      "D",
+      "V",
+      "V",
+      "N",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "FC Rouffach U15 Féminines",
+     "pts": "9",
+     "j": "6",
+     "g": "3",
+     "n": "0",
+     "p": "3",
+     "bp": "9",
+     "bc": "10",
+     "diff": "-1",
+     "forme": [
+      "V",
+      "D",
+      "D",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "FC Wettolsheim U15 Féminines",
+     "pts": "3",
+     "j": "6",
+     "g": "1",
+     "n": "0",
+     "p": "5",
+     "bp": "6",
+     "bc": "37",
+     "diff": "-31",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "FC Buhl U15 Féminines",
+     "pts": "2",
+     "j": "6",
+     "g": "1",
+     "n": "0",
+     "p": "4",
+     "bp": "1",
+     "bc": "17",
+     "diff": "-16",
+     "forme": [
+      "D",
+      "V",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "7ÈME JOURNÉE\n\nWETTOLSHEIM F.C.\n07 nov.\n09:00\nROUFFACH FC\nSELESTAT SC\n07 nov.\n13:30\nBENNWIHR F.C\nBUHL FC\n07 nov.\n15:00\nR.C. CORCIEUX"
   },
   {
    "zone": "Départemental",
@@ -2533,7 +2534,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nFC 1926 Pfastatt 2\n0\n1\nGR.E.P.A\nUS Pfetterhouse\n4\n0\nHABSHEIM FC\nTHANN FC\n1\n1\nUS Azzurri Mulhouse"
+   "matchs_texte": "7ÈME JOURNÉE\n\nHABSHEIM FC\n07 nov.\n12:30\nFC 1926 Pfastatt 2\nGR.E.P.A\n07 nov.\n12:30\nTHANN FC\nUS Azzurri Mulhouse\n07 nov.\n13:30\nUS Pfetterhouse"
   },
   {
    "zone": "Départemental",
@@ -2654,7 +2655,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nUnion Sportive de Trois-Maisons\n7\n2\nKOMETRIB SJ\nHAGUENAU FCSR\n31 oct.\n09:00\nOHLUNGEN AS\nBRUMATH SS\n31 oct.\n09:30\nSARREBOURG FC"
+   "matchs_texte": "7ÈME JOURNÉE\n\nOHLUNGEN AS\n07 nov.\n13:30\nUnion Sportive de Trois-Maisons\nSARREBOURG FC\n07 nov.\n13:30\nHAGUENAU FCSR\nKOMETRIB SJ\n07 nov.\n15:00\nBRUMATH SS"
   },
   {
    "zone": "Départemental",
@@ -2857,7 +2858,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nZILLISHEIM SS\n4\n0\nST LOUIS NEUWEG FC\nHABSHEIM FC\n7\n0\nALSASUD"
+   "matchs_texte": "7ÈME JOURNÉE\n\nST LOUIS NEUWEG FC\n07 nov.\n13:30\nAS Blodelsheim\nHABSHEIM FC\n07 nov.\n15:00\nZILLISHEIM SS"
   },
   {
    "zone": "Départemental",
@@ -3049,7 +3050,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nPFASTATT FC\n6\n5\nMULH. COTEAUX A.S.\nSTRASBOURG ALSACE RC\nForfait\n0\n0\nMOLSHEIM ERNO. ES\nAS ILLZACH MODENHEIM\n31 oct.\n12:30\nCOLMAR SR FA\nAGIIR FLORIVAL\n11 nov.\n10:00\nVENDENHEIM FC\nERNO FC\n05 déc.\n12:00\nHABSHEIM FC"
+   "matchs_texte": "7ÈME JOURNÉE\n\nMOLSHEIM ERNO. ES\n07 nov.\n12:00\nAGIIR FLORIVAL\nCOLMAR SR FA\n07 nov.\n12:15\nERNO FC\nHABSHEIM FC\n07 nov.\n12:30\nSTRASBOURG ALSACE RC\nMULH. COTEAUX A.S.\n07 nov.\n13:30\nAS ILLZACH MODENHEIM\nVENDENHEIM FC\n08 nov.\n09:30\nPFASTATT FC"
   },
   {
    "zone": "Départemental",
@@ -3170,7 +3171,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nENT.ESPOIR 24\nForfait\n3\n0\nHAGUENAU FCSR\nALLIANCE BASSE ZORN\n0\n1\nOBERLAUTERBACH US\nKILSTETT AS\n0\n4\nVENDENHEIM FC"
+   "matchs_texte": "7ÈME JOURNÉE\n\nHAGUENAU FCSR\n07 nov.\n13:30\nKILSTETT AS\nVENDENHEIM FC\n07 nov.\n14:30\nALLIANCE BASSE ZORN\nOBERLAUTERBACH US\n07 nov.\n15:00\nENT.ESPOIR 24"
   },
   {
    "zone": "Départemental",
@@ -3272,7 +3273,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nMONSWILLER FC\n1\n15\nKOMETRIB SJ\nENT.ESPOIR 24\n10\n1\nSARREBOURG FC"
+   "matchs_texte": "7ÈME JOURNÉE\n\nKOMETRIB SJ\n07 nov.\n13:00\nENT.ESPOIR 24\nSARREBOURG FC\n07 nov.\n13:30\nZORNTHAL FC"
   },
   {
    "zone": "Départemental",
@@ -3394,7 +3395,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nSTRG NEUDORF AS\n1\n6\nSOAS ENT. ASL ROB\nSCHILTIGHEIM SC\n1\n2\nSTRASBOURG AS\nMUSAU STRASBOURG\n13\n0\nHOENHEIM SR"
+   "matchs_texte": "7ÈME JOURNÉE\n\nSTRASBOURG AS\n04 nov.\n15:30\nMUSAU STRASBOURG\nSOAS ENT. ASL ROB\n07 nov.\n12:30\nSCHILTIGHEIM SC\nHOENHEIM SR\n07 nov.\n12:30\nSTRG NEUDORF AS"
   },
   {
    "zone": "Départemental",
@@ -3507,7 +3508,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nBREUSCHWICKERSHEIM\n0\n3\nBRUCHE ACKERLAND\nSTRG FCOSK06\nForfait\n0\n0\nA.Pop. Joie et Sante Strasbourg\nDUPPIGHEIM USL\nForfait\n0\n0\nSTRG RED STAR"
+   "matchs_texte": "7ÈME JOURNÉE\n\nA.Pop. Joie et Sante Strasbourg\n07 nov.\n12:00\nBREUSCHWICKERSHEIM\nBRUCHE ACKERLAND\n07 nov.\n13:00\nDUPPIGHEIM USL\nSTRG RED STAR\n07 nov.\n13:30\nSTRG FCOSK06"
   },
   {
    "zone": "Départemental",
@@ -3629,7 +3630,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nHINDI ENT. KRAUT\n8\n3\nSTRASBOURG SUD GF\nILLKIRCH GRAFF. FA\n4\n2\nLINGOLSHEIM FC\nERSTEIN AS\n10 nov.\n17:00\nZELLWILLER SR"
+   "matchs_texte": "7ÈME JOURNÉE\n\nSTRASBOURG SUD GF\n07 nov.\n13:00\nILLKIRCH GRAFF. FA\nLINGOLSHEIM FC\n07 nov.\n13:30\nERSTEIN AS\nZELLWILLER SR\n07 nov.\n13:30\nHINDI ENT. KRAUT"
   },
   {
    "zone": "Départemental",
@@ -3750,7 +3751,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nBENNWIHR F.C\n0\n5\nCOLMAR SR FA\nSELESTAT SC\n0\n0\nWETTOLSHEIM F.C.\nCANTON VERT A.S.\n1\n9\nFC ARTOLSHEIM - ASM"
+   "matchs_texte": "7ÈME JOURNÉE\n\nWETTOLSHEIM F.C.\n07 nov.\n12:00\nBENNWIHR F.C\nCOLMAR SR FA\n07 nov.\n12:15\nCANTON VERT A.S.\nFC ARTOLSHEIM - ASM\n07 nov.\n13:30\nSELESTAT SC"
   },
   {
    "zone": "Départemental",
@@ -3871,7 +3872,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nBLODELSHEIM BANTZ US\nForfait\n0\n0\nRC Mulhouse\nUS Azzurri Mulhouse\n1\n14\nROUFFACH FC\nAGIIR FLORIVAL\n17\n0\nMULH. BOURTZWILLER"
+   "matchs_texte": "7ÈME JOURNÉE\n\nMULH. BOURTZWILLER\n07 nov.\n12:00\nUS Azzurri Mulhouse\nRC Mulhouse\n07 nov.\n12:30\nAGIIR FLORIVAL\nROUFFACH FC\n07 nov.\n15:00\nBLODELSHEIM BANTZ US"
   },
   {
    "zone": "Départemental",
@@ -3968,7 +3969,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nGR.E.P.A\n0\n6\nHABSHEIM FC\nFC ROSENAU 1946\n04 nov.\n16:00\nALSASUD"
+   "matchs_texte": "7ÈME JOURNÉE\n\nHABSHEIM FC\n07 nov.\n12:30\nFC ROSENAU 1946\nENT.EPSUD\n07 nov.\n13:30\nGR.E.P.A"
   }
  ]
 }
