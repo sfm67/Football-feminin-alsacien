@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-10-29T11:19:49.366865Z",
+ "mis_a_jour": "2026-10-30T11:11:55.820343Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -1732,14 +1732,14 @@
    "nom": "Coupe d'Alsace Féminines à 11 - Unique - 1",
    "url": "https://scorenco.com/football/competitions/coupe-dalsace-feminines-a-11-unique-1-r88b",
    "classement": [],
-   "matchs_texte": "2ÈME JOURNÉE\n\nFC Saint-Louis Neuweg\nReporté\nMULHOUSE AZZURRI US\nDUPPIGHEIM USL\n2\n2\n\nTAB : 4 - 5\n\nHABSHEIM FC\nST ETIENNE SELTZ FC\n1\n6\nESPOIR 24\nMUSAU STRASBOURG\n2\n1\nHUNSPACH AS\nMUSSIG AS\n3\n4\nMUESPACH ENT. AMO\nGRIES FC\n1\n0\nWOLXHEIM CS\nURMATT ENT HUG\nForfait\n0\n3\nERNO FC\nHEIMSBRUNN A.S.\nReporté\nDUTTL. ENT. HINDIS.\nSELESTAT SC\n1\n5\nKOETZINGUE ASL\nHAGUENAU FCSR\n2\n1\nSTRG FCOSK06\nGEISPOLSHEIM FC\n04 nov.\n19:00\nHOLTZHEIM AS"
+   "matchs_texte": "2ÈME JOURNÉE\n\nDUPPIGHEIM USL\n2\n2\n\nTAB : 4 - 5\n\nHABSHEIM FC\nST ETIENNE SELTZ FC\n1\n6\nESPOIR 24\nMUSSIG AS\n3\n4\nMUESPACH ENT. AMO\nMUSAU STRASBOURG\n2\n1\nHUNSPACH AS\nGRIES FC\n1\n0\nWOLXHEIM CS\nURMATT ENT HUG\nForfait\n0\n3\nERNO FC\nSELESTAT SC\n1\n5\nKOETZINGUE ASL\nHAGUENAU FCSR\n2\n1\nSTRG FCOSK06\nGEISPOLSHEIM FC\n04 nov.\n19:00\nHOLTZHEIM AS\nHEIMSBRUNN A.S.\n11 nov.\n13:30\nDUTTL. ENT. HINDIS.\nFC Saint-Louis Neuweg\n11 nov.\n13:30\nMULHOUSE AZZURRI US"
   },
   {
    "zone": "Départemental",
    "nom": "Coupe d'Alsace Féminines à 8 - Unique - 1",
    "url": "https://scorenco.com/football/competitions/coupe-dalsace-feminines-a-8-unique-1-r88h",
    "classement": [],
-   "matchs_texte": "2ÈME JOURNÉE\n\nHOHENGOEFT\n0\n11\nOBERHOFFEN FC\nMUSAU STRASBOURG\n0\n7\nOBENHEIM AS\nWIHR AU VAL E.S.\nForfait\n3\n0\nBUHL FC\nOFFWILLER AS\n1\n2\nAS Mertzwiller\nMUESPACH ENT. AMO\nForfait\n0\n3\nMERTZEN A.S.\nINGERSHEIM F.C.\n2\n5\nGUEMAR AS\nBISCHHEIM SOLEIL FC\nForfait\n3\n0\nDAMBACH/VILLE US\nSCHWEIGHOUSE FC\n10\n0\nNIEDERBRONN US\nAS Strasbourg 2\n11 nov.\n13:30\nBARR FC"
+   "matchs_texte": "2ÈME JOURNÉE\n\nHOHENGOEFT\n0\n11\nOBERHOFFEN FC\nMUSAU STRASBOURG\n0\n7\nOBENHEIM AS\nOFFWILLER AS\n1\n2\nAS Mertzwiller\nWIHR AU VAL E.S.\nForfait\n3\n0\nBUHL FC\nMUESPACH ENT. AMO\nForfait\n0\n3\nMERTZEN A.S.\nINGERSHEIM F.C.\n2\n5\nGUEMAR AS\nBISCHHEIM SOLEIL FC\nForfait\n3\n0\nDAMBACH/VILLE US\nSCHWEIGHOUSE FC\n10\n0\nNIEDERBRONN US\nAS Strasbourg 2\n11 nov.\n13:30\nBARR FC"
   },
   {
    "zone": "Départemental",
@@ -2044,6 +2044,24 @@
    "classement": [
     {
      "rang": 1,
+     "equipe": "FC 1926 Pfastatt U15 Féminines",
+     "pts": "15",
+     "j": "5",
+     "g": "5",
+     "n": "0",
+     "p": "0",
+     "bp": "19",
+     "bc": "1",
+     "diff": "18",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
      "equipe": "AS Illzach Modenheim U15 Féminines",
      "pts": "13",
      "j": "5",
@@ -2058,24 +2076,6 @@
       "V",
       "V",
       "N",
-      "V"
-     ]
-    },
-    {
-     "rang": 2,
-     "equipe": "FC 1926 Pfastatt U15 Féminines",
-     "pts": "12",
-     "j": "4",
-     "g": "4",
-     "n": "0",
-     "p": "0",
-     "bp": "16",
-     "bc": "1",
-     "diff": "15",
-     "forme": [
-      "V",
-      "V",
-      "V",
       "V"
      ]
     },
@@ -2177,14 +2177,14 @@
     {
      "rang": 8,
      "equipe": "Stadium Racing Colmar U15 Féminines",
-     "pts": "0",
-     "j": "4",
+     "pts": "-1",
+     "j": "5",
      "g": "0",
      "n": "0",
      "p": "4",
      "bp": "5",
-     "bc": "16",
-     "diff": "-11",
+     "bc": "19",
+     "diff": "-14",
      "forme": [
       "D",
       "D",
