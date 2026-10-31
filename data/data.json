@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-10-31T10:44:07.784140Z",
+ "mis_a_jour": "2026-10-31T20:54:14.459280Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -671,36 +671,38 @@
     },
     {
      "rang": 2,
-     "equipe": "AS Hohengoeft Féminines",
-     "pts": "6",
-     "j": "2",
-     "g": "2",
-     "n": "0",
-     "p": "0",
-     "bp": "3",
-     "bc": "0",
-     "diff": "3",
-     "forme": [
-      "V",
-      "V"
-     ]
-    },
-    {
-     "rang": 3,
      "equipe": "AS Pfulgriesheim Féminines",
-     "pts": "6",
-     "j": "4",
-     "g": "2",
+     "pts": "9",
+     "j": "5",
+     "g": "3",
      "n": "0",
      "p": "2",
-     "bp": "3",
-     "bc": "7",
-     "diff": "-4",
+     "bp": "9",
+     "bc": "12",
+     "diff": "-3",
      "forme": [
+      "V",
       "V",
       "D",
       "V",
       "D"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "AS Hohengoeft Féminines",
+     "pts": "6",
+     "j": "3",
+     "g": "2",
+     "n": "0",
+     "p": "1",
+     "bp": "8",
+     "bc": "6",
+     "diff": "2",
+     "forme": [
+      "D",
+      "V",
+      "V"
      ]
     },
     {
@@ -737,7 +739,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nHOHENGOEFT\n31 oct.\n18:30\nPFULGRIESHEIM AS\nWOLXHEIM CS\n01 nov.\n14:00\nEGALITAIRE US"
+   "matchs_texte": "6ÈME JOURNÉE\n\nHOHENGOEFT\n5\n6\nPFULGRIESHEIM AS\nWOLXHEIM CS\n01 nov.\n14:00\nEGALITAIRE US"
   },
   {
    "zone": "Départemental",
@@ -1129,20 +1131,20 @@
     {
      "rang": 1,
      "equipe": "Espoir 24 2 Féminines",
-     "pts": "13",
-     "j": "5",
-     "g": "4",
+     "pts": "16",
+     "j": "6",
+     "g": "5",
      "n": "1",
      "p": "0",
-     "bp": "13",
+     "bp": "17",
      "bc": "2",
-     "diff": "11",
+     "diff": "15",
      "forme": [
       "V",
       "V",
       "V",
-      "N",
-      "V"
+      "V",
+      "N"
      ]
     },
     {
@@ -1202,14 +1204,15 @@
      "rang": 5,
      "equipe": "F Reuni Schoenenbourg-Memmelshoffen Féminines",
      "pts": "9",
-     "j": "4",
+     "j": "5",
      "g": "3",
      "n": "0",
-     "p": "1",
+     "p": "2",
      "bp": "15",
-     "bc": "14",
-     "diff": "1",
+     "bc": "18",
+     "diff": "-3",
      "forme": [
+      "D",
       "V",
       "D",
       "V",
@@ -1311,7 +1314,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nESPOIR 24\n31 oct.\n17:30\nSCHOEN/MEMMEL FR\nDOSSENHEIM ENT IMBSH\n31 oct.\n18:00\nSTRASBOURG AS\nHUNSPACH AS\n01 nov.\n09:00\nSCHILTIGH ESP\nWINGERSHEIM FC\n01 nov.\n15:00\nST ETIENNE SELTZ FC\nTRUCHTERSHEIM FC\n01 nov.\n16:00\nOBERHAUSBERGEN FC"
+   "matchs_texte": "7ÈME JOURNÉE\n\nESPOIR 24\n4\n0\nSCHOEN/MEMMEL FR\nDOSSENHEIM ENT IMBSH\n31 oct.\n18:00\nSTRASBOURG AS\nHUNSPACH AS\n01 nov.\n09:00\nSCHILTIGH ESP\nWINGERSHEIM FC\n01 nov.\n15:00\nST ETIENNE SELTZ FC\nTRUCHTERSHEIM FC\n01 nov.\n16:00\nOBERHAUSBERGEN FC"
   },
   {
    "zone": "Départemental",
@@ -2082,39 +2085,39 @@
     {
      "rang": 3,
      "equipe": "AS Strasbourg U15 Féminines",
-     "pts": "9",
-     "j": "5",
-     "g": "3",
+     "pts": "12",
+     "j": "6",
+     "g": "4",
      "n": "0",
      "p": "2",
-     "bp": "22",
-     "bc": "11",
-     "diff": "11",
+     "bp": "26",
+     "bc": "12",
+     "diff": "14",
      "forme": [
       "V",
       "V",
-      "D",
       "V",
-      "D"
+      "D",
+      "V"
      ]
     },
     {
      "rang": 4,
      "equipe": "FC Vendenheim 2 U15 Féminines",
      "pts": "7",
-     "j": "5",
+     "j": "6",
      "g": "2",
      "n": "1",
-     "p": "2",
-     "bp": "14",
-     "bc": "12",
-     "diff": "2",
+     "p": "3",
+     "bp": "15",
+     "bc": "16",
+     "diff": "-1",
      "forme": [
       "D",
       "D",
+      "D",
       "V",
-      "N",
-      "V"
+      "N"
      ]
     },
     {
@@ -2193,7 +2196,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nSTRASBOURG AS\n31 oct.\n13:30\nVENDENHEIM FC\nAS ILLZACH MODENHEIM\n31 oct.\n15:00\nPFASTATT FC\nERSTEIN AS\n31 oct.\n15:15\nMULH. COTEAUX A.S.\nERNO FC\n01 nov.\n09:00\nCOLMAR SR FA"
+   "matchs_texte": "7ÈME JOURNÉE\n\nSTRASBOURG AS\n4\n1\nVENDENHEIM FC\nAS ILLZACH MODENHEIM\n31 oct.\n15:00\nPFASTATT FC\nERSTEIN AS\n31 oct.\n15:15\nMULH. COTEAUX A.S.\nERNO FC\n01 nov.\n09:00\nCOLMAR SR FA"
   },
   {
    "zone": "Départemental",
@@ -2322,15 +2325,16 @@
     {
      "rang": 2,
      "equipe": "FC Haslach U15 Féminines",
-     "pts": "7",
-     "j": "4",
+     "pts": "8",
+     "j": "5",
      "g": "2",
-     "n": "1",
+     "n": "2",
      "p": "1",
-     "bp": "12",
-     "bc": "9",
+     "bp": "14",
+     "bc": "11",
      "diff": "3",
      "forme": [
+      "N",
       "D",
       "N",
       "V",
@@ -2340,15 +2344,16 @@
     {
      "rang": 3,
      "equipe": "Groupement Bruche Ackerland U15 Féminines",
-     "pts": "6",
-     "j": "3",
+     "pts": "7",
+     "j": "4",
      "g": "2",
-     "n": "0",
+     "n": "1",
      "p": "1",
-     "bp": "10",
-     "bc": "6",
+     "bp": "12",
+     "bc": "8",
      "diff": "4",
      "forme": [
+      "N",
       "V",
       "V",
       "D"
@@ -2876,7 +2881,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nHOLTZHEIM ENT BREUS\n31 oct.\n14:15\nSCHILTIGHEIM SC\nDUPPIGHEIM USL\n31 oct.\n15:00\nSTRASBOURG JSK"
+   "matchs_texte": "9ÈME JOURNÉE\n\nHOLTZHEIM ENT BREUS\nReporté\nSCHILTIGHEIM SC\nDUPPIGHEIM USL\nReporté\nSTRASBOURG JSK"
   },
   {
    "zone": "Départemental",
@@ -3562,14 +3567,14 @@
     {
      "rang": 3,
      "equipe": "A.Pop. Joie et Sante Strasbourg",
-     "pts": "0",
-     "j": "1",
-     "g": "0",
+     "pts": "3",
+     "j": "2",
+     "g": "1",
      "n": "0",
      "p": "1",
-     "bp": "1",
+     "bp": "4",
      "bc": "2",
-     "diff": "-1",
+     "diff": "2",
      "forme": [
       "D",
       "V",
@@ -3579,14 +3584,14 @@
     {
      "rang": 4,
      "equipe": "U.S.L. Duppigheim U13 Féminines",
-     "pts": "0",
-     "j": "2",
+     "pts": "-1",
+     "j": "3",
      "g": "0",
      "n": "0",
      "p": "2",
      "bp": "0",
-     "bc": "17",
-     "diff": "-17",
+     "bc": "20",
+     "diff": "-20",
      "forme": [
       "D",
       "D"
@@ -3798,14 +3803,14 @@
     {
      "rang": 3,
      "equipe": "FC Bennwihr U13 Féminines",
-     "pts": "5",
-     "j": "5",
-     "g": "1",
+     "pts": "8",
+     "j": "6",
+     "g": "2",
      "n": "2",
      "p": "2",
-     "bp": "17",
-     "bc": "16",
-     "diff": "1",
+     "bp": "23",
+     "bc": "17",
+     "diff": "6",
      "forme": [
       "D",
       "N",
@@ -3856,13 +3861,13 @@
      "rang": 6,
      "equipe": "FC Wettolsheim U13 Féminines",
      "pts": "1",
-     "j": "4",
+     "j": "5",
      "g": "0",
      "n": "1",
-     "p": "3",
-     "bp": "3",
-     "bc": "27",
-     "diff": "-24",
+     "p": "4",
+     "bp": "4",
+     "bc": "33",
+     "diff": "-29",
      "forme": [
       "N",
       "D",
