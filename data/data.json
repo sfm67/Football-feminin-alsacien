@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-10-31T20:54:14.459280Z",
+ "mis_a_jour": "2026-11-01T11:41:23.296984Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -749,15 +749,16 @@
     {
      "rang": 1,
      "equipe": "AS Obenheim Féminines",
-     "pts": "12",
-     "j": "4",
-     "g": "4",
+     "pts": "15",
+     "j": "5",
+     "g": "5",
      "n": "0",
      "p": "0",
-     "bp": "20",
-     "bc": "0",
-     "diff": "20",
+     "bp": "27",
+     "bc": "1",
+     "diff": "26",
      "forme": [
+      "V",
       "V",
       "V",
       "V",
@@ -768,14 +769,15 @@
      "rang": 2,
      "equipe": "FC Barr Féminines",
      "pts": "9",
-     "j": "4",
+     "j": "5",
      "g": "3",
      "n": "0",
-     "p": "1",
-     "bp": "7",
-     "bc": "7",
-     "diff": "0",
+     "p": "2",
+     "bp": "8",
+     "bc": "14",
+     "diff": "-6",
      "forme": [
+      "D",
       "V",
       "V",
       "V",
@@ -837,7 +839,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nOBENHEIM AS\n01 nov.\n09:00\nBARR FC\nBISCHOFFSHEIM AS\n01 nov.\n09:00\nBOOFZH ENT. FCEBH"
+   "matchs_texte": "6ÈME JOURNÉE\n\nBISCHOFFSHEIM AS\n01 nov.\n09:00\nBOOFZH ENT. FCEBH\nOBENHEIM AS\n7\n1\nBARR FC"
   },
   {
    "zone": "Départemental",
@@ -1053,15 +1055,16 @@
     {
      "rang": 2,
      "equipe": "FC 1926 Pfastatt 2 Féminines",
-     "pts": "9",
-     "j": "4",
-     "g": "3",
+     "pts": "12",
+     "j": "5",
+     "g": "4",
      "n": "0",
      "p": "1",
-     "bp": "13",
-     "bc": "2",
-     "diff": "11",
+     "bp": "16",
+     "bc": "3",
+     "diff": "13",
      "forme": [
+      "V",
       "V",
       "V",
       "D",
@@ -1107,21 +1110,22 @@
      "rang": 5,
      "equipe": "Thann FC 2017 Féminines",
      "pts": "-2",
-     "j": "4",
+     "j": "5",
      "g": "0",
      "n": "0",
-     "p": "3",
-     "bp": "4",
-     "bc": "18",
-     "diff": "-14",
+     "p": "4",
+     "bp": "5",
+     "bc": "21",
+     "diff": "-16",
      "forme": [
+      "D",
       "D",
       "D",
       "V"
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nMUESPACH ENT. AMO\n01 nov.\n09:00\nMERTZEN A.S.\nPFASTATT FC\n01 nov.\n09:00\nTHANN FC"
+   "matchs_texte": "6ÈME JOURNÉE\n\nMUESPACH ENT. AMO\n01 nov.\n09:00\nMERTZEN A.S.\nPFASTATT FC\n3\n1\nTHANN FC"
   },
   {
    "zone": "Départemental",
@@ -1323,18 +1327,18 @@
    "classement": [
     {
      "rang": 1,
-     "equipe": "AS Holtzheim Féminines",
-     "pts": "10",
-     "j": "4",
-     "g": "3",
+     "equipe": "Ernolsheim-Bruche Football Club Féminines",
+     "pts": "12",
+     "j": "5",
+     "g": "4",
      "n": "1",
      "p": "0",
-     "bp": "11",
-     "bc": "5",
-     "diff": "6",
+     "bp": "40",
+     "bc": "1",
+     "diff": "39",
      "forme": [
       "V",
-      "N",
+      "V",
       "V",
       "V"
      ]
@@ -1360,17 +1364,19 @@
     },
     {
      "rang": 3,
-     "equipe": "Ernolsheim-Bruche Football Club Féminines",
-     "pts": "9",
-     "j": "4",
+     "equipe": "AS Holtzheim Féminines",
+     "pts": "10",
+     "j": "5",
      "g": "3",
      "n": "1",
-     "p": "0",
-     "bp": "28",
-     "bc": "1",
-     "diff": "27",
+     "p": "1",
+     "bp": "11",
+     "bc": "17",
+     "diff": "-6",
      "forme": [
+      "D",
       "V",
+      "N",
       "V",
       "V"
      ]
@@ -1538,7 +1544,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nERNO FC\n31 oct.\n19:30\nHOLTZHEIM AS\nDANGOLSHEIM FC\n01 nov.\n13:30\nSCHOENAU\nURMATT ENT HUG\n01 nov.\n13:30\nWOLXHEIM CS\nGEISPOLSHEIM FC\n01 nov.\n14:00\nDUPPIGHEIM USL\nERSTEIN AS\n01 nov.\n15:30\nILLKIRCH GRAFF. FA\nSTRG FCOSK06\n01 nov.\n16:00\nCHATENOIS AS"
+   "matchs_texte": "7ÈME JOURNÉE\n\nERNO FC\n12\n0\nHOLTZHEIM AS\nDANGOLSHEIM FC\n01 nov.\n13:30\nSCHOENAU\nURMATT ENT HUG\n01 nov.\n13:30\nWOLXHEIM CS\nGEISPOLSHEIM FC\n01 nov.\n14:00\nDUPPIGHEIM USL\nERSTEIN AS\n01 nov.\n15:30\nILLKIRCH GRAFF. FA\nSTRG FCOSK06\n01 nov.\n16:00\nCHATENOIS AS"
   },
   {
    "zone": "Départemental",
@@ -1548,14 +1554,14 @@
     {
      "rang": 1,
      "equipe": "FC Bennwihr Féminines",
-     "pts": "13",
-     "j": "5",
-     "g": "4",
+     "pts": "16",
+     "j": "6",
+     "g": "5",
      "n": "1",
      "p": "0",
-     "bp": "24",
+     "bp": "27",
      "bc": "1",
-     "diff": "23",
+     "diff": "26",
      "forme": [
       "V",
       "V",
@@ -1567,14 +1573,14 @@
     {
      "rang": 2,
      "equipe": "FC Saint-Louis Neuweg",
-     "pts": "12",
-     "j": "4",
-     "g": "4",
+     "pts": "15",
+     "j": "5",
+     "g": "5",
      "n": "0",
      "p": "0",
-     "bp": "15",
+     "bp": "18",
      "bc": "10",
-     "diff": "5",
+     "diff": "8",
      "forme": [
       "V",
       "V",
@@ -1658,25 +1664,6 @@
     },
     {
      "rang": 7,
-     "equipe": "SR Widensolen Féminines",
-     "pts": "4",
-     "j": "5",
-     "g": "1",
-     "n": "1",
-     "p": "3",
-     "bp": "4",
-     "bc": "19",
-     "diff": "-15",
-     "forme": [
-      "D",
-      "V",
-      "D",
-      "N",
-      "D"
-     ]
-    },
-    {
-     "rang": 8,
      "equipe": "US Pfetterhouse Féminines",
      "pts": "3",
      "j": "4",
@@ -1689,6 +1676,25 @@
      "forme": [
       "D",
       "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 8,
+     "equipe": "SR Widensolen Féminines",
+     "pts": "3",
+     "j": "6",
+     "g": "1",
+     "n": "1",
+     "p": "3",
+     "bp": "4",
+     "bc": "22",
+     "diff": "-18",
+     "forme": [
+      "D",
+      "V",
+      "D",
+      "N",
       "D"
      ]
     },
@@ -1713,14 +1719,14 @@
     {
      "rang": 10,
      "equipe": "US Vallee de la Thur Féminines",
-     "pts": "0",
-     "j": "3",
+     "pts": "-1",
+     "j": "4",
      "g": "0",
      "n": "0",
      "p": "3",
      "bp": "1",
-     "bc": "15",
-     "diff": "-14",
+     "bc": "18",
+     "diff": "-17",
      "forme": [
       "D",
       "D",
@@ -1728,7 +1734,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nHIRTZ GF CENTRE HTRH\n01 nov.\n09:00\nHABSHEIM FC\nVALLEE THUR U.S.\n01 nov.\n09:00\nBENNWIHR F.C\nMUESPACH ENT. AMO\n01 nov.\n13:00\nENT.FCPRZ\nPFETTERHOUSE U.S.\n01 nov.\n13:30\nHEIMSBRUNN A.S.\nFC Saint-Louis Neuweg\n01 nov.\n16:00\nWIDENSOLEN S.R."
+   "matchs_texte": "7ÈME JOURNÉE\n\nVALLEE THUR U.S.\nForfait\n0\n3\nBENNWIHR F.C\nHIRTZ GF CENTRE HTRH\n01 nov.\n09:00\nHABSHEIM FC\nMUESPACH ENT. AMO\n01 nov.\n13:00\nENT.FCPRZ\nPFETTERHOUSE U.S.\n01 nov.\n13:30\nHEIMSBRUNN A.S.\nFC Saint-Louis Neuweg\n01 nov.\n16:00\nWIDENSOLEN S.R."
   },
   {
    "zone": "Départemental",
@@ -2688,17 +2694,17 @@
     {
      "rang": 2,
      "equipe": "FC Sarrebourg U15 Féminines",
-     "pts": "13",
-     "j": "5",
-     "g": "4",
+     "pts": "16",
+     "j": "6",
+     "g": "5",
      "n": "1",
      "p": "0",
-     "bp": "15",
-     "bc": "3",
-     "diff": "12",
+     "bp": "21",
+     "bc": "5",
+     "diff": "16",
      "forme": [
-      "N",
       "V",
+      "N",
       "V",
       "V",
       "V"
@@ -2708,38 +2714,38 @@
      "rang": 3,
      "equipe": "FR Haguenau U15 Féminines",
      "pts": "9",
-     "j": "5",
+     "j": "6",
      "g": "3",
      "n": "0",
-     "p": "2",
+     "p": "3",
      "bp": "10",
-     "bc": "7",
-     "diff": "3",
+     "bc": "8",
+     "diff": "2",
      "forme": [
+      "D",
       "V",
       "V",
       "D",
-      "V",
-      "D"
+      "V"
      ]
     },
     {
      "rang": 4,
      "equipe": "AS Ohlungen U15 Féminines",
-     "pts": "6",
-     "j": "5",
-     "g": "2",
+     "pts": "9",
+     "j": "6",
+     "g": "3",
      "n": "0",
      "p": "3",
-     "bp": "4",
+     "bp": "5",
      "bc": "7",
-     "diff": "-3",
+     "diff": "-2",
      "forme": [
+      "V",
       "V",
       "D",
       "D",
-      "D",
-      "V"
+      "D"
      ]
     },
     {
@@ -2765,14 +2771,15 @@
      "rang": 6,
      "equipe": "Société Sportive Brumath U15 Féminines",
      "pts": "0",
-     "j": "4",
+     "j": "5",
      "g": "0",
      "n": "0",
-     "p": "4",
-     "bp": "3",
-     "bc": "18",
-     "diff": "-15",
+     "p": "5",
+     "bp": "5",
+     "bc": "24",
+     "diff": "-19",
      "forme": [
+      "D",
       "D",
       "D",
       "D",
@@ -3812,11 +3819,11 @@
      "bc": "17",
      "diff": "6",
      "forme": [
+      "V",
       "D",
       "N",
       "V",
-      "N",
-      "D"
+      "N"
      ]
     },
     {
@@ -3869,6 +3876,7 @@
      "bc": "33",
      "diff": "-29",
      "forme": [
+      "D",
       "N",
       "D",
       "D",
