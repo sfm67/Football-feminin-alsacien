@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-03T12:38:59.010322Z",
+ "mis_a_jour": "2026-11-04T12:47:55.266347Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -94,6 +94,7 @@
      "forme": [
       "V",
       "V",
+      "V",
       "D",
       "D"
      ]
@@ -128,6 +129,7 @@
      "bc": "11",
      "diff": "-9",
      "forme": [
+      "V",
       "D",
       "N",
       "D"
@@ -164,6 +166,7 @@
      "bc": "23",
      "diff": "-18",
      "forme": [
+      "D",
       "N",
       "D",
       "N",
@@ -203,11 +206,12 @@
       "D",
       "D",
       "D",
+      "D",
       "D"
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nMUSAU STRASBOURG\n01 nov.\n13:30\nMUSSIG AS\nHAGUENAU FCSR\n01 nov.\n15:30\nMULHOUSE AZZURRI US\nSELESTAT SC\n13 déc.\n13:30\nHINTERF. ENT MERTZW.\nKOETZINGUE ASL\n13 déc.\n13:30\nILLHAEUSERN FC\nDUTTL. ENT. HINDIS.\n13 déc.\n13:30\nKILSTETT AS"
+   "matchs_texte": "7ÈME JOURNÉE\n\nMUSAU STRASBOURG\n2\n0\nMUSSIG AS\nHAGUENAU FCSR\n1\n8\nMULHOUSE AZZURRI US\nSELESTAT SC\n13 déc.\n13:30\nHINTERF. ENT MERTZW.\nKOETZINGUE ASL\n13 déc.\n13:30\nILLHAEUSERN FC\nDUTTL. ENT. HINDIS.\n13 déc.\n13:30\nKILSTETT AS"
   },
   {
    "zone": "Départemental",
@@ -568,14 +572,14 @@
     {
      "rang": 1,
      "equipe": "FC Soleil Bischheim Féminines",
-     "pts": "12",
-     "j": "4",
-     "g": "4",
+     "pts": "15",
+     "j": "5",
+     "g": "5",
      "n": "0",
      "p": "0",
-     "bp": "38",
+     "bp": "45",
      "bc": "1",
-     "diff": "37",
+     "diff": "44",
      "forme": [
       "V",
       "V",
@@ -622,13 +626,13 @@
      "rang": 4,
      "equipe": "AS Reichstett Féminines",
      "pts": "3",
-     "j": "4",
+     "j": "5",
      "g": "1",
      "n": "0",
-     "p": "3",
+     "p": "4",
      "bp": "6",
-     "bc": "14",
-     "diff": "-8",
+     "bc": "21",
+     "diff": "-15",
      "forme": [
       "D",
       "D",
@@ -2826,7 +2830,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nOHLUNGEN AS\n07 nov.\n13:30\nUnion Sportive de Trois-Maisons\nSARREBOURG FC\n07 nov.\n13:30\nHAGUENAU FCSR\nKOMETRIB SJ\n07 nov.\n15:00\nBRUMATH SS"
+   "matchs_texte": "7ÈME JOURNÉE\n\nSARREBOURG FC\n07 nov.\n13:30\nHAGUENAU FCSR\nOHLUNGEN AS\n07 nov.\n13:30\nUnion Sportive de Trois-Maisons\nKOMETRIB SJ\n07 nov.\n15:00\nBRUMATH SS"
   },
   {
    "zone": "Départemental",
@@ -2927,7 +2931,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nHOLTZHEIM ENT BREUS\nReporté\nSCHILTIGHEIM SC\nDUPPIGHEIM USL\nReporté\nSTRASBOURG JSK"
+   "matchs_texte": "10ÈME JOURNÉE\n\nDUPPIGHEIM USL\n07 nov.\n13:30\nHOLTZHEIM ENT BREUS\nMUTTERSHOLTZ AS\n07 nov.\n13:30\nMUSAU STRASBOURG"
   },
   {
    "zone": "Départemental",
@@ -3568,7 +3572,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nSTRASBOURG AS\n04 nov.\n15:30\nMUSAU STRASBOURG\nSOAS ENT. ASL ROB\n07 nov.\n12:30\nSCHILTIGHEIM SC\nHOENHEIM SR\n07 nov.\n12:30\nSTRG NEUDORF AS"
+   "matchs_texte": "7ÈME JOURNÉE\n\nSTRASBOURG AS\n07 nov.\n10:00\nMUSAU STRASBOURG\nHOENHEIM SR\n07 nov.\n12:30\nSTRG NEUDORF AS\nSOAS ENT. ASL ROB\n07 nov.\n12:30\nSCHILTIGHEIM SC"
   },
   {
    "zone": "Départemental",
