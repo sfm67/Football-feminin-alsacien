@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-04T12:47:55.266347Z",
+ "mis_a_jour": "2026-11-05T12:56:32.695381Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -211,7 +211,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nMUSAU STRASBOURG\n2\n0\nMUSSIG AS\nHAGUENAU FCSR\n1\n8\nMULHOUSE AZZURRI US\nSELESTAT SC\n13 déc.\n13:30\nHINTERF. ENT MERTZW.\nKOETZINGUE ASL\n13 déc.\n13:30\nILLHAEUSERN FC\nDUTTL. ENT. HINDIS.\n13 déc.\n13:30\nKILSTETT AS"
+   "matchs_texte": "8ÈME JOURNÉE\n\nMUSSIG AS\n08 nov.\n13:30\nMULHOUSE AZZURRI US\nKOETZINGUE ASL\n08 nov.\n13:30\nHAGUENAU FCSR\nKILSTETT AS\n08 nov.\n13:30\nMUSAU STRASBOURG\nILLHAEUSERN FC\n08 nov.\n14:00\nSELESTAT SC\nGRIES FC\n08 nov.\n14:00\nDUTTL. ENT. HINDIS."
   },
   {
    "zone": "Départemental",
@@ -466,7 +466,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nMULHOUSE AZZURRI US\n10\n0\nGUEMAR AS\nWIHR AU VAL E.S.\n2\n0\nKERTZFELD FC\nZELLWILLER SR\n1\n12\nWETTOLSHEIM F.C."
+   "matchs_texte": "8ÈME JOURNÉE\n\nURMATT ENT HUG\n07 nov.\n18:30\nZELLWILLER SR\nGUEMAR AS\n08 nov.\n09:00\nKERTZFELD FC\nWETTOLSHEIM F.C.\n04 déc.\n18:30\nMULHOUSE AZZURRI US"
   },
   {
    "zone": "Départemental",
@@ -562,7 +562,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nGUMBRECHTSHOFFEN US\n1\n7\nAS Mertzwiller\nREIPERTSWILLER US\nReporté\nNIEDERBRONN US"
+   "matchs_texte": "7ÈME JOURNÉE\n\nAS Mertzwiller\n07 nov.\n18:00\nREIPERTSWILLER US\nNIEDERBRONN US\n08 nov.\n15:30\nMORSBRONN ES"
   },
   {
    "zone": "Départemental",
@@ -660,7 +660,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nROPPENHEIM SC\nForfait\n0\n3\nSCHWEIGHOUSE FC\nBISCHHEIM SOLEIL FC\n7\n0\nREICHSTETT AS"
+   "matchs_texte": "7ÈME JOURNÉE\n\nGRIES FC\n07 nov.\n18:30\nROPPENHEIM SC\nSCHWEIGHOUSE FC\n07 nov.\n19:00\nBISCHHEIM SOLEIL FC"
   },
   {
    "zone": "Départemental",
@@ -756,7 +756,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nHOHENGOEFT\n5\n6\nPFULGRIESHEIM AS\nWOLXHEIM CS\n1\n6\nEGALITAIRE US"
+   "matchs_texte": "7ÈME JOURNÉE\n\nLIXHAUSEN FC\n07 nov.\n18:00\nWOLXHEIM CS\nEGALITAIRE US\n08 nov.\n10:00\nHOHENGOEFT"
   },
   {
    "zone": "Départemental",
@@ -794,11 +794,11 @@
      "bc": "14",
      "diff": "-6",
      "forme": [
+      "N",
       "D",
       "V",
       "V",
-      "V",
-      "D"
+      "V"
      ]
     },
     {
@@ -851,6 +851,7 @@
      "bc": "13",
      "diff": "-6",
      "forme": [
+      "N",
       "D",
       "D",
       "D",
@@ -858,7 +859,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nBISCHOFFSHEIM AS\n0\n3\nBOOFZH ENT. FCEBH\nOBENHEIM AS\n7\n1\nBARR FC"
+   "matchs_texte": "7ÈME JOURNÉE\n\nBARR FC\n1\n1\nOTTROTT AS\nBOOFZH ENT. FCEBH\n06 nov.\n19:00\nOBENHEIM AS"
   },
   {
    "zone": "Départemental",
@@ -958,7 +959,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nHILSENHEIM FC\n10\n0\nENT. RC KINTZH SELES\nLIEPVRE C.S.\n2\n2\nFC Grussenheim"
+   "matchs_texte": "7ÈME JOURNÉE\n\nENT. RC KINTZH SELES\n07 nov.\n18:30\nDAMBACH/VILLE US\nFC Grussenheim\n11 nov.\n13:30\nHILSENHEIM FC"
   },
   {
    "zone": "Départemental",
@@ -1054,7 +1055,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nASTW\n1\n0\nHERRL.ENT. ELSBOURG\nINGERSHEIM F.C.\n6\n2\nBUHL FC"
+   "matchs_texte": "7ÈME JOURNÉE\n\nHERRL.ENT. ELSBOURG\n08 nov.\n13:30\nINGERSHEIM F.C.\nGUNSBACH U.S.\n08 nov.\n13:30\nASTW"
   },
   {
    "zone": "Départemental",
@@ -1152,7 +1153,7 @@
      ]
     }
    ],
-   "matchs_texte": "6ÈME JOURNÉE\n\nPFASTATT FC\n3\n1\nTHANN FC\nMUESPACH ENT. AMO\n1\n3\nMERTZEN A.S."
+   "matchs_texte": "7ÈME JOURNÉE\n\nTHANN FC\n08 nov.\n09:00\nMUESPACH ENT. AMO\nMERTZEN A.S.\n08 nov.\n13:30\nFC Staffelfelden"
   },
   {
    "zone": "Départemental",
@@ -1349,7 +1350,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nESPOIR 24\n4\n0\nSCHOEN/MEMMEL FR\nDOSSENHEIM ENT IMBSH\n0\n2\nSTRASBOURG AS\nHUNSPACH AS\n6\n1\nSCHILTIGH ESP\nWINGERSHEIM FC\n1\n2\nST ETIENNE SELTZ FC\nTRUCHTERSHEIM FC\n0\n5\nOBERHAUSBERGEN FC"
+   "matchs_texte": "8ÈME JOURNÉE\n\nTRUCHTERSHEIM FC\n08 nov.\n09:00\nDOSSENHEIM ENT IMBSH\nST ETIENNE SELTZ FC\n08 nov.\n09:00\nESPOIR 24\nSCHOEN/MEMMEL FR\n08 nov.\n09:00\nHUNSPACH AS\nSCHILTIGH ESP\n08 nov.\n13:30\nSTRASBOURG AS\nOBERHAUSBERGEN FC\n08 nov.\n13:30\nWINGERSHEIM FC"
   },
   {
    "zone": "Départemental",
@@ -1358,6 +1359,24 @@
    "classement": [
     {
      "rang": 1,
+     "equipe": "Ernolsheim-Bruche Football Club Féminines",
+     "pts": "15",
+     "j": "6",
+     "g": "5",
+     "n": "1",
+     "p": "0",
+     "bp": "48",
+     "bc": "1",
+     "diff": "47",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
      "equipe": "FC Geispolsheim 01 Féminines",
      "pts": "13",
      "j": "7",
@@ -1371,24 +1390,6 @@
       "V",
       "D",
       "D",
-      "V",
-      "V"
-     ]
-    },
-    {
-     "rang": 2,
-     "equipe": "Ernolsheim-Bruche Football Club Féminines",
-     "pts": "12",
-     "j": "5",
-     "g": "4",
-     "n": "1",
-     "p": "0",
-     "bp": "40",
-     "bc": "1",
-     "diff": "39",
-     "forme": [
-      "V",
-      "V",
       "V",
       "V"
      ]
@@ -1510,13 +1511,13 @@
      "rang": 9,
      "equipe": "ES Haslach Urmatt Grendelbruch Féminines",
      "pts": "1",
-     "j": "5",
+     "j": "6",
      "g": "0",
      "n": "2",
-     "p": "3",
+     "p": "4",
      "bp": "1",
-     "bc": "8",
-     "diff": "-7",
+     "bc": "16",
+     "diff": "-15",
      "forme": [
       "D",
       "D",
@@ -1581,7 +1582,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nERNO FC\n12\n0\nHOLTZHEIM AS\nDANGOLSHEIM FC\n1\n6\nSCHOENAU\nURMATT ENT HUG\n0\n1\nWOLXHEIM CS\nERSTEIN AS\n2\n0\nILLKIRCH GRAFF. FA\nGEISPOLSHEIM FC\n2\n1\nDUPPIGHEIM USL\nSTRG FCOSK06\n01 nov.\n16:00\nCHATENOIS AS"
+   "matchs_texte": "8ÈME JOURNÉE\n\nWOLXHEIM CS\n07 nov.\n18:00\nSTRG FCOSK06\nSCHOENAU\n07 nov.\n18:00\nERNO FC\nDANGOLSHEIM FC\n08 nov.\n13:30\nGEISPOLSHEIM FC\nHOLTZHEIM AS\n08 nov.\n13:30\nERSTEIN AS\nCHATENOIS AS\n08 nov.\n13:30\nDUPPIGHEIM USL\nILLKIRCH GRAFF. FA\n08 nov.\n15:30\nURMATT ENT HUG"
   },
   {
    "zone": "Départemental",
@@ -1775,7 +1776,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nVALLEE THUR U.S.\nForfait\n0\n3\nBENNWIHR F.C\nHIRTZ GF CENTRE HTRH\n7\n0\nHABSHEIM FC\nMUESPACH ENT. AMO\n5\n1\nENT.FCPRZ\nPFETTERHOUSE U.S.\n0\n2\nHEIMSBRUNN A.S.\nFC Saint-Louis Neuweg\nForfait\n3\n0\nWIDENSOLEN S.R."
+   "matchs_texte": "8ÈME JOURNÉE\n\nMUESPACH ENT. AMO\n07 nov.\n18:00\nPFETTERHOUSE U.S.\nENT.FCPRZ\n08 nov.\n13:30\nVALLEE THUR U.S.\nWIDENSOLEN S.R.\n08 nov.\n13:30\nHEIMSBRUNN A.S.\nBENNWIHR F.C\n08 nov.\n14:00\nHIRTZ GF CENTRE HTRH\nHABSHEIM FC\n08 nov.\n14:00\nFC Saint-Louis Neuweg"
   },
   {
    "zone": "Départemental",
@@ -4060,15 +4061,16 @@
     {
      "rang": 1,
      "equipe": "Football Club Rosenau 1946 U13 Féminines",
-     "pts": "9",
-     "j": "3",
+     "pts": "10",
+     "j": "4",
      "g": "3",
-     "n": "0",
+     "n": "1",
      "p": "0",
-     "bp": "11",
-     "bc": "2",
+     "bp": "12",
+     "bc": "3",
      "diff": "9",
      "forme": [
+      "N",
       "V",
       "V",
       "V"
@@ -4077,15 +4079,16 @@
     {
      "rang": 2,
      "equipe": "Alsasud U13 Féminines",
-     "pts": "6",
-     "j": "3",
+     "pts": "7",
+     "j": "4",
      "g": "2",
-     "n": "0",
+     "n": "1",
      "p": "1",
-     "bp": "25",
-     "bc": "2",
+     "bp": "26",
+     "bc": "3",
      "diff": "23",
      "forme": [
+      "N",
       "V",
       "V",
       "D"
