@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-06T12:44:10.272308Z",
+ "mis_a_jour": "2026-11-07T11:31:22.371937Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -869,15 +869,16 @@
     {
      "rang": 1,
      "equipe": "FC Hilsenheim Féminines",
-     "pts": "12",
-     "j": "4",
-     "g": "4",
+     "pts": "15",
+     "j": "5",
+     "g": "5",
      "n": "0",
      "p": "0",
-     "bp": "36",
-     "bc": "6",
-     "diff": "30",
+     "bp": "38",
+     "bc": "7",
+     "diff": "31",
      "forme": [
+      "V",
       "V",
       "V",
       "V",
@@ -907,14 +908,15 @@
      "rang": 3,
      "equipe": "US Dambach la Ville Féminines",
      "pts": "6",
-     "j": "3",
+     "j": "4",
      "g": "2",
      "n": "0",
-     "p": "1",
-     "bp": "20",
-     "bc": "4",
-     "diff": "16",
+     "p": "2",
+     "bp": "21",
+     "bc": "6",
+     "diff": "15",
      "forme": [
+      "D",
       "V",
       "D",
       "V"
@@ -1372,6 +1374,7 @@
       "V",
       "V",
       "V",
+      "V",
       "V"
      ]
     },
@@ -1521,8 +1524,8 @@
      "forme": [
       "D",
       "D",
-      "N",
       "D",
+      "N",
       "D"
      ]
     },
@@ -2493,6 +2496,25 @@
     },
     {
      "rang": 2,
+     "equipe": "FC Rouffach U15 Féminines",
+     "pts": "12",
+     "j": "7",
+     "g": "4",
+     "n": "0",
+     "p": "3",
+     "bp": "16",
+     "bc": "11",
+     "diff": "5",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
      "equipe": "FC Bennwihr U15 Féminines",
      "pts": "11",
      "j": "6",
@@ -2511,7 +2533,7 @@
      ]
     },
     {
-     "rang": 3,
+     "rang": 4,
      "equipe": "SC Sélestat U15 Féminines",
      "pts": "10",
      "j": "6",
@@ -2530,35 +2552,16 @@
      ]
     },
     {
-     "rang": 4,
-     "equipe": "FC Rouffach U15 Féminines",
-     "pts": "9",
-     "j": "6",
-     "g": "3",
-     "n": "0",
-     "p": "3",
-     "bp": "9",
-     "bc": "10",
-     "diff": "-1",
-     "forme": [
-      "V",
-      "D",
-      "D",
-      "V",
-      "V"
-     ]
-    },
-    {
      "rang": 5,
      "equipe": "FC Wettolsheim U15 Féminines",
      "pts": "3",
-     "j": "6",
+     "j": "7",
      "g": "1",
      "n": "0",
-     "p": "5",
-     "bp": "6",
-     "bc": "37",
-     "diff": "-31",
+     "p": "6",
+     "bp": "7",
+     "bc": "44",
+     "diff": "-37",
      "forme": [
       "D",
       "D",
@@ -2587,7 +2590,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nWETTOLSHEIM F.C.\n07 nov.\n09:00\nROUFFACH FC\nSELESTAT SC\n07 nov.\n13:30\nBENNWIHR F.C\nBUHL FC\n07 nov.\n15:00\nR.C. CORCIEUX"
+   "matchs_texte": "7ÈME JOURNÉE\n\nWETTOLSHEIM F.C.\n1\n7\nROUFFACH FC\nSELESTAT SC\n07 nov.\n13:30\nBENNWIHR F.C\nBUHL FC\n07 nov.\n15:00\nR.C. CORCIEUX"
   },
   {
    "zone": "Départemental",
@@ -4052,105 +4055,6 @@
     }
    ],
    "matchs_texte": "7ÈME JOURNÉE\n\nMULH. BOURTZWILLER\n07 nov.\n12:00\nUS Azzurri Mulhouse\nRC Mulhouse\n07 nov.\n12:30\nAGIIR FLORIVAL\nROUFFACH FC\n07 nov.\n15:00\nBLODELSHEIM BANTZ US"
-  },
-  {
-   "zone": "Départemental",
-   "nom": "Fém U13 D2 Alsace - POULE H - Phase 1",
-   "url": "https://scorenco.com/football/competitions/fem-u13-d2-alsace-poule-h-phase-1-qqpu",
-   "classement": [
-    {
-     "rang": 1,
-     "equipe": "Football Club Rosenau 1946 U13 Féminines",
-     "pts": "10",
-     "j": "4",
-     "g": "3",
-     "n": "1",
-     "p": "0",
-     "bp": "12",
-     "bc": "3",
-     "diff": "9",
-     "forme": [
-      "N",
-      "V",
-      "V",
-      "V"
-     ]
-    },
-    {
-     "rang": 2,
-     "equipe": "Alsasud U13 Féminines",
-     "pts": "7",
-     "j": "4",
-     "g": "2",
-     "n": "1",
-     "p": "1",
-     "bp": "26",
-     "bc": "3",
-     "diff": "23",
-     "forme": [
-      "N",
-      "V",
-      "V",
-      "D"
-     ]
-    },
-    {
-     "rang": 3,
-     "equipe": "FC Habsheim 2 U13 Féminines",
-     "pts": "6",
-     "j": "4",
-     "g": "2",
-     "n": "0",
-     "p": "2",
-     "bp": "16",
-     "bc": "10",
-     "diff": "6",
-     "forme": [
-      "V",
-      "D",
-      "D",
-      "V"
-     ]
-    },
-    {
-     "rang": 4,
-     "equipe": "Groupement des Enfants de la Porte d'Alsace U13 Féminines",
-     "pts": "0",
-     "j": "4",
-     "g": "0",
-     "n": "0",
-     "p": "4",
-     "bp": "1",
-     "bc": "39",
-     "diff": "-38",
-     "forme": [
-      "D",
-      "D",
-      "D",
-      "D"
-     ]
-    },
-    {
-     "rang": 5,
-     "equipe": "US Pfetterhouse U13 Féminines",
-     "pts": "0",
-     "j": "0",
-     "g": "0",
-     "n": "0",
-     "p": "0",
-     "bp": "0",
-     "bc": "0",
-     "diff": "0",
-     "forme": [
-      "?",
-      "?",
-      "?",
-      "?",
-      "?"
-     ]
-    }
-   ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nHABSHEIM FC\n07 nov.\n12:30\nFC ROSENAU 1946\nENT.EPSUD\n07 nov.\n13:30\nGR.E.P.A"
   }
  ]
 }
