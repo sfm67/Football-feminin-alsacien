@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-07T21:21:50.058598Z",
+ "mis_a_jour": "2026-11-08T11:42:49.938628Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -1122,15 +1122,15 @@
     },
     {
      "rang": 4,
-     "equipe": "FC Muespach 2 Féminines",
-     "pts": "2",
-     "j": "5",
+     "equipe": "Thann FC 2017 Féminines",
+     "pts": "1",
+     "j": "6",
      "g": "1",
      "n": "0",
-     "p": "3",
-     "bp": "7",
-     "bc": "19",
-     "diff": "-12",
+     "p": "4",
+     "bp": "8",
+     "bc": "21",
+     "diff": "-13",
      "forme": [
       "D",
       "D",
@@ -1140,15 +1140,15 @@
     },
     {
      "rang": 5,
-     "equipe": "Thann FC 2017 Féminines",
-     "pts": "-2",
-     "j": "5",
-     "g": "0",
+     "equipe": "FC Muespach 2 Féminines",
+     "pts": "1",
+     "j": "6",
+     "g": "1",
      "n": "0",
-     "p": "4",
-     "bp": "5",
-     "bc": "21",
-     "diff": "-16",
+     "p": "3",
+     "bp": "7",
+     "bc": "22",
+     "diff": "-15",
      "forme": [
       "D",
       "D",
@@ -1157,7 +1157,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nTHANN FC\n08 nov.\n09:00\nMUESPACH ENT. AMO\nMERTZEN A.S.\n08 nov.\n13:30\nFC Staffelfelden"
+   "matchs_texte": "7ÈME JOURNÉE\n\nTHANN FC\nForfait\n3\n0\nMUESPACH ENT. AMO\nMERTZEN A.S.\n08 nov.\n13:30\nFC Staffelfelden"
   },
   {
    "zone": "Départemental",
@@ -1186,15 +1186,16 @@
     {
      "rang": 2,
      "equipe": "AS Strasbourg Féminines",
-     "pts": "12",
-     "j": "5",
-     "g": "4",
+     "pts": "15",
+     "j": "6",
+     "g": "5",
      "n": "0",
      "p": "1",
-     "bp": "14",
+     "bp": "26",
      "bc": "1",
-     "diff": "13",
+     "diff": "25",
      "forme": [
+      "V",
       "V",
       "V",
       "D",
@@ -1319,18 +1320,18 @@
      "rang": 9,
      "equipe": "AS Espagnols Schiltigheim Féminines",
      "pts": "2",
-     "j": "6",
+     "j": "7",
      "g": "1",
      "n": "0",
-     "p": "5",
+     "p": "6",
      "bp": "6",
-     "bc": "27",
-     "diff": "-21",
+     "bc": "39",
+     "diff": "-33",
      "forme": [
       "D",
       "D",
-      "V",
       "D",
+      "V",
       "D"
      ]
     },
@@ -1354,7 +1355,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nTRUCHTERSHEIM FC\n08 nov.\n09:00\nDOSSENHEIM ENT IMBSH\nST ETIENNE SELTZ FC\n08 nov.\n09:00\nESPOIR 24\nSCHOEN/MEMMEL FR\n08 nov.\n09:00\nHUNSPACH AS\nSCHILTIGH ESP\n08 nov.\n13:30\nSTRASBOURG AS\nOBERHAUSBERGEN FC\n08 nov.\n13:30\nWINGERSHEIM FC"
+   "matchs_texte": "8ÈME JOURNÉE\n\nSCHILTIGH ESP\n0\n12\nSTRASBOURG AS\nTRUCHTERSHEIM FC\n08 nov.\n09:00\nDOSSENHEIM ENT IMBSH\nSCHOEN/MEMMEL FR\n08 nov.\n09:00\nHUNSPACH AS\nST ETIENNE SELTZ FC\n08 nov.\n09:00\nESPOIR 24\nOBERHAUSBERGEN FC\n08 nov.\n13:30\nWINGERSHEIM FC"
   },
   {
    "zone": "Départemental",
@@ -1364,14 +1365,14 @@
     {
      "rang": 1,
      "equipe": "Ernolsheim-Bruche Football Club Féminines",
-     "pts": "15",
-     "j": "6",
-     "g": "5",
+     "pts": "18",
+     "j": "7",
+     "g": "6",
      "n": "1",
      "p": "0",
-     "bp": "48",
+     "bp": "60",
      "bc": "1",
-     "diff": "47",
+     "diff": "59",
      "forme": [
       "V",
       "V",
@@ -1439,54 +1440,54 @@
     },
     {
      "rang": 5,
-     "equipe": "CS Wolxheim Féminines",
-     "pts": "8",
-     "j": "6",
+     "equipe": "FCO Strasbourg Koenigshoffen 1906 Féminines",
+     "pts": "9",
+     "j": "5",
      "g": "3",
      "n": "0",
      "p": "2",
-     "bp": "11",
-     "bc": "8",
-     "diff": "3",
+     "bp": "10",
+     "bc": "17",
+     "diff": "-7",
      "forme": [
       "V",
       "D",
-      "V",
       "V",
       "D"
      ]
     },
     {
      "rang": 6,
-     "equipe": "AS Schoenau Féminines",
+     "equipe": "CS Wolxheim Féminines",
      "pts": "8",
-     "j": "6",
+     "j": "7",
      "g": "3",
-     "n": "1",
-     "p": "2",
-     "bp": "10",
-     "bc": "7",
-     "diff": "3",
+     "n": "0",
+     "p": "3",
+     "bp": "11",
+     "bc": "10",
+     "diff": "1",
      "forme": [
       "V",
-      "V",
       "D",
+      "V",
       "V",
       "D"
      ]
     },
     {
      "rang": 7,
-     "equipe": "FCO Strasbourg Koenigshoffen 1906 Féminines",
-     "pts": "6",
-     "j": "4",
-     "g": "2",
-     "n": "0",
-     "p": "2",
-     "bp": "8",
-     "bc": "17",
+     "equipe": "AS Schoenau Féminines",
+     "pts": "8",
+     "j": "7",
+     "g": "3",
+     "n": "1",
+     "p": "3",
+     "bp": "10",
+     "bc": "19",
      "diff": "-9",
      "forme": [
+      "V",
       "V",
       "D",
       "V",
@@ -2481,14 +2482,14 @@
     {
      "rang": 1,
      "equipe": "Racing Club Corcieux U15 Féminines",
-     "pts": "16",
-     "j": "6",
-     "g": "5",
+     "pts": "19",
+     "j": "7",
+     "g": "6",
      "n": "1",
      "p": "0",
-     "bp": "43",
+     "bp": "44",
      "bc": "6",
-     "diff": "37",
+     "diff": "38",
      "forme": [
       "V",
       "V",
@@ -2499,6 +2500,25 @@
     },
     {
      "rang": 2,
+     "equipe": "SC Sélestat U15 Féminines",
+     "pts": "13",
+     "j": "7",
+     "g": "4",
+     "n": "1",
+     "p": "2",
+     "bp": "20",
+     "bc": "18",
+     "diff": "2",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "V",
+      "N"
+     ]
+    },
+    {
+     "rang": 3,
      "equipe": "FC Rouffach U15 Féminines",
      "pts": "12",
      "j": "7",
@@ -2517,41 +2537,22 @@
      ]
     },
     {
-     "rang": 3,
+     "rang": 4,
      "equipe": "FC Bennwihr U15 Féminines",
      "pts": "11",
-     "j": "6",
+     "j": "7",
      "g": "3",
      "n": "2",
-     "p": "1",
-     "bp": "18",
-     "bc": "6",
-     "diff": "12",
-     "forme": [
-      "V",
-      "D",
-      "V",
-      "N",
-      "V"
-     ]
-    },
-    {
-     "rang": 4,
-     "equipe": "SC Sélestat U15 Féminines",
-     "pts": "10",
-     "j": "6",
-     "g": "3",
-     "n": "1",
      "p": "2",
-     "bp": "16",
-     "bc": "17",
-     "diff": "-1",
+     "bp": "19",
+     "bc": "10",
+     "diff": "9",
      "forme": [
       "D",
       "V",
+      "D",
       "V",
-      "N",
-      "D"
+      "N"
      ]
     },
     {
@@ -2577,23 +2578,23 @@
      "rang": 6,
      "equipe": "FC Buhl U15 Féminines",
      "pts": "2",
-     "j": "6",
+     "j": "7",
      "g": "1",
      "n": "0",
-     "p": "4",
+     "p": "5",
      "bp": "1",
-     "bc": "17",
-     "diff": "-16",
+     "bc": "18",
+     "diff": "-17",
      "forme": [
       "D",
-      "V",
       "D",
+      "V",
       "D",
       "D"
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nWETTOLSHEIM F.C.\n1\n7\nROUFFACH FC\nSELESTAT SC\n07 nov.\n13:30\nBENNWIHR F.C\nBUHL FC\n07 nov.\n15:00\nR.C. CORCIEUX"
+   "matchs_texte": "7ÈME JOURNÉE\n\nWETTOLSHEIM F.C.\n1\n7\nROUFFACH FC\nSELESTAT SC\n4\n1\nBENNWIHR F.C\nBUHL FC\n0\n1\nR.C. CORCIEUX"
   },
   {
    "zone": "Départemental",
