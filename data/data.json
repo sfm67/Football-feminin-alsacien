@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-09T13:38:26.632221Z",
+ "mis_a_jour": "2026-11-10T13:19:46.420223Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -8,6 +8,63 @@
    "classement": [
     {
      "rang": 1,
+     "equipe": "A.S.L. Koetzingue Féminines",
+     "pts": "15",
+     "j": "6",
+     "g": "5",
+     "n": "0",
+     "p": "1",
+     "bp": "52",
+     "bc": "4",
+     "diff": "48",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "FC Illhaeusern Féminines",
+     "pts": "15",
+     "j": "5",
+     "g": "5",
+     "n": "0",
+     "p": "0",
+     "bp": "23",
+     "bc": "8",
+     "diff": "15",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "SC Sélestat Féminines",
+     "pts": "12",
+     "j": "5",
+     "g": "4",
+     "n": "0",
+     "p": "1",
+     "bp": "15",
+     "bc": "7",
+     "diff": "8",
+     "forme": [
+      "D",
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
      "equipe": "A Copains Hinterfeld Féminines",
      "pts": "12",
      "j": "5",
@@ -26,76 +83,21 @@
      ]
     },
     {
-     "rang": 2,
-     "equipe": "FC Illhaeusern Féminines",
-     "pts": "12",
-     "j": "4",
-     "g": "4",
-     "n": "0",
-     "p": "0",
-     "bp": "18",
-     "bc": "6",
-     "diff": "12",
-     "forme": [
-      "V",
-      "V",
-      "V",
-      "V"
-     ]
-    },
-    {
-     "rang": 3,
-     "equipe": "SC Sélestat Féminines",
-     "pts": "12",
-     "j": "4",
-     "g": "4",
-     "n": "0",
-     "p": "0",
-     "bp": "13",
-     "bc": "2",
-     "diff": "11",
-     "forme": [
-      "V",
-      "V",
-      "V",
-      "V"
-     ]
-    },
-    {
-     "rang": 4,
-     "equipe": "A.S.L. Koetzingue Féminines",
-     "pts": "12",
-     "j": "5",
-     "g": "4",
-     "n": "0",
-     "p": "1",
-     "bp": "38",
-     "bc": "4",
-     "diff": "34",
-     "forme": [
-      "D",
-      "V",
-      "V",
-      "V",
-      "V"
-     ]
-    },
-    {
      "rang": 5,
      "equipe": "US Azzurri Mulhouse 2 Féminines",
-     "pts": "9",
-     "j": "5",
-     "g": "3",
+     "pts": "12",
+     "j": "6",
+     "g": "4",
      "n": "0",
      "p": "2",
-     "bp": "19",
-     "bc": "11",
-     "diff": "8",
+     "bp": "26",
+     "bc": "13",
+     "diff": "13",
      "forme": [
       "V",
       "V",
       "V",
-      "D",
+      "V",
       "D"
      ]
     },
@@ -103,14 +105,15 @@
      "rang": 6,
      "equipe": "A.L.F.C. Duttlenheim Féminines",
      "pts": "7",
-     "j": "4",
+     "j": "5",
      "g": "2",
      "n": "1",
-     "p": "1",
-     "bp": "10",
-     "bc": "6",
-     "diff": "4",
+     "p": "2",
+     "bp": "11",
+     "bc": "8",
+     "diff": "3",
      "forme": [
+      "D",
       "V",
       "D",
       "V",
@@ -119,16 +122,36 @@
     },
     {
      "rang": 7,
+     "equipe": "FC Gries Féminines",
+     "pts": "6",
+     "j": "6",
+     "g": "2",
+     "n": "0",
+     "p": "4",
+     "bp": "8",
+     "bc": "18",
+     "diff": "-10",
+     "forme": [
+      "V",
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 8,
      "equipe": "AS Musau Strasbourg 2 Féminines",
-     "pts": "4",
-     "j": "4",
+     "pts": "5",
+     "j": "5",
      "g": "1",
-     "n": "1",
+     "n": "2",
      "p": "2",
      "bp": "2",
      "bc": "11",
      "diff": "-9",
      "forme": [
+      "N",
       "V",
       "D",
       "N",
@@ -136,55 +159,37 @@
      ]
     },
     {
-     "rang": 8,
-     "equipe": "FC Gries Féminines",
-     "pts": "3",
-     "j": "5",
-     "g": "1",
-     "n": "0",
-     "p": "4",
-     "bp": "6",
-     "bc": "17",
-     "diff": "-11",
-     "forme": [
-      "D",
-      "D",
-      "D",
-      "D",
-      "V"
-     ]
-    },
-    {
      "rang": 9,
      "equipe": "FR Haguenau 2 Féminines",
      "pts": "2",
-     "j": "5",
+     "j": "6",
      "g": "0",
      "n": "2",
-     "p": "3",
+     "p": "4",
      "bp": "5",
-     "bc": "23",
-     "diff": "-18",
+     "bc": "37",
+     "diff": "-32",
      "forme": [
       "D",
-      "N",
       "D",
       "N",
-      "D"
+      "D",
+      "N"
      ]
     },
     {
      "rang": 10,
      "equipe": "AS Kilstett 2 Féminines",
-     "pts": "0",
-     "j": "4",
+     "pts": "1",
+     "j": "5",
      "g": "0",
-     "n": "0",
+     "n": "1",
      "p": "4",
      "bp": "1",
      "bc": "17",
      "diff": "-16",
      "forme": [
+      "N",
       "D",
       "D",
       "D",
@@ -195,13 +200,13 @@
      "rang": 11,
      "equipe": "AS Mussig Féminines",
      "pts": "0",
-     "j": "5",
+     "j": "6",
      "g": "0",
      "n": "0",
-     "p": "5",
-     "bp": "4",
-     "bc": "34",
-     "diff": "-30",
+     "p": "6",
+     "bp": "6",
+     "bc": "41",
+     "diff": "-35",
      "forme": [
       "D",
       "D",
@@ -211,7 +216,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nMUSSIG AS\n08 nov.\n13:30\nMULHOUSE AZZURRI US\nKOETZINGUE ASL\n08 nov.\n13:30\nHAGUENAU FCSR\nKILSTETT AS\n08 nov.\n13:30\nMUSAU STRASBOURG\nILLHAEUSERN FC\n08 nov.\n14:00\nSELESTAT SC\nGRIES FC\n08 nov.\n14:00\nDUTTL. ENT. HINDIS."
+   "matchs_texte": "8ÈME JOURNÉE\n\nKOETZINGUE ASL\n14\n0\nHAGUENAU FCSR\nMUSSIG AS\n2\n7\nMULHOUSE AZZURRI US\nKILSTETT AS\n0\n0\nMUSAU STRASBOURG\nGRIES FC\n2\n1\nDUTTL. ENT. HINDIS.\nILLHAEUSERN FC\n5\n2\nSELESTAT SC"
   },
   {
    "zone": "Départemental",
@@ -469,7 +474,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nURMATT ENT HUG\n1\n1\nZELLWILLER SR\nGUEMAR AS\n0\n5\nKERTZFELD FC\nWETTOLSHEIM F.C.\n04 déc.\n18:30\nMULHOUSE AZZURRI US"
+   "matchs_texte": "13ÈME JOURNÉE\n\nGUEMAR AS\n11 nov.\n13:30\nMULHOUSE AZZURRI US\nWETTOLSHEIM F.C.\n11 nov.\n13:30\nZELLWILLER SR\nKERTZFELD FC\n11 nov.\n13:30\nWIHR AU VAL E.S."
   },
   {
    "zone": "Départemental",
@@ -508,6 +513,7 @@
      "forme": [
       "V",
       "V",
+      "V",
       "V"
      ]
     },
@@ -544,6 +550,7 @@
      "forme": [
       "D",
       "D",
+      "D",
       "V"
      ]
     },
@@ -567,7 +574,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nAS Mertzwiller\n15\n0\nREIPERTSWILLER US\nNIEDERBRONN US\n08 nov.\n15:30\nMORSBRONN ES"
+   "matchs_texte": "7ÈME JOURNÉE\n\nAS Mertzwiller\n15\n0\nREIPERTSWILLER US\nNIEDERBRONN US\n0\n9\nMORSBRONN ES"
   },
   {
    "zone": "Départemental",
@@ -982,34 +989,35 @@
     {
      "rang": 1,
      "equipe": "AS Turckheim Féminines",
-     "pts": "10",
-     "j": "4",
-     "g": "3",
+     "pts": "13",
+     "j": "5",
+     "g": "4",
      "n": "1",
      "p": "0",
-     "bp": "9",
-     "bc": "5",
-     "diff": "4",
+     "bp": "13",
+     "bc": "6",
+     "diff": "7",
      "forme": [
       "V",
       "V",
       "V",
       "V",
-      "N"
+      "V"
      ]
     },
     {
      "rang": 2,
      "equipe": "FC Ingersheim Féminines",
-     "pts": "9",
-     "j": "3",
-     "g": "3",
+     "pts": "12",
+     "j": "4",
+     "g": "4",
      "n": "0",
      "p": "0",
-     "bp": "23",
-     "bc": "2",
-     "diff": "21",
+     "bp": "27",
+     "bc": "4",
+     "diff": "23",
      "forme": [
+      "V",
       "V",
       "D",
       "V"
@@ -1019,14 +1027,15 @@
      "rang": 3,
      "equipe": "US Gunsbach 1946 Féminines",
      "pts": "4",
-     "j": "3",
+     "j": "4",
      "g": "1",
      "n": "1",
-     "p": "1",
-     "bp": "4",
-     "bc": "5",
-     "diff": "-1",
+     "p": "2",
+     "bp": "5",
+     "bc": "9",
+     "diff": "-4",
      "forme": [
+      "D",
       "N",
       "V",
       "D"
@@ -1036,14 +1045,15 @@
      "rang": 4,
      "equipe": "AS Herrlisheim Féminines",
      "pts": "2",
-     "j": "4",
+     "j": "5",
      "g": "0",
      "n": "2",
-     "p": "2",
-     "bp": "2",
-     "bc": "17",
-     "diff": "-15",
+     "p": "3",
+     "bp": "4",
+     "bc": "21",
+     "diff": "-17",
      "forme": [
+      "D",
       "D",
       "N",
       "D",
@@ -1068,7 +1078,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nHERRL.ENT. ELSBOURG\n08 nov.\n13:30\nINGERSHEIM F.C.\nGUNSBACH U.S.\n08 nov.\n13:30\nASTW"
+   "matchs_texte": "7ÈME JOURNÉE\n\nGUNSBACH U.S.\n1\n4\nASTW\nHERRL.ENT. ELSBOURG\n2\n4\nINGERSHEIM F.C."
   },
   {
    "zone": "Départemental",
@@ -1630,6 +1640,24 @@
     },
     {
      "rang": 2,
+     "equipe": "FC Saint-Louis Neuweg",
+     "pts": "18",
+     "j": "6",
+     "g": "6",
+     "n": "0",
+     "p": "0",
+     "bp": "25",
+     "bc": "11",
+     "diff": "14",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
      "equipe": "AS Heimsbrunn Féminines",
      "pts": "16",
      "j": "7",
@@ -1643,24 +1671,6 @@
       "V",
       "V",
       "D",
-      "V",
-      "V"
-     ]
-    },
-    {
-     "rang": 3,
-     "equipe": "FC Saint-Louis Neuweg",
-     "pts": "15",
-     "j": "5",
-     "g": "5",
-     "n": "0",
-     "p": "0",
-     "bp": "18",
-     "bc": "10",
-     "diff": "8",
-     "forme": [
-      "V",
-      "V",
       "V",
       "V"
      ]
@@ -1707,13 +1717,13 @@
      "rang": 6,
      "equipe": "FC Habsheim Féminines",
      "pts": "7",
-     "j": "5",
+     "j": "6",
      "g": "2",
      "n": "1",
-     "p": "2",
-     "bp": "11",
-     "bc": "13",
-     "diff": "-2",
+     "p": "3",
+     "bp": "12",
+     "bc": "20",
+     "diff": "-8",
      "forme": [
       "D",
       "D",
@@ -2966,7 +2976,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nSCHILTIGHEIM SC\n11 nov.\n16:00\nDUPPIGHEIM USL\nMUTTERSHOLTZ AS\n11 nov.\n16:00\nHOLTZHEIM ENT BREUS\nSTRASBOURG JSK\n12 déc.\n13:30\nMUSAU STRASBOURG"
+   "matchs_texte": "8ÈME JOURNÉE\n\nMUTTERSHOLTZ AS\n11 nov.\n16:00\nHOLTZHEIM ENT BREUS\nSCHILTIGHEIM SC\n11 nov.\n16:00\nDUPPIGHEIM USL\nSTRASBOURG JSK\n12 déc.\n13:30\nMUSAU STRASBOURG"
   },
   {
    "zone": "Départemental",
