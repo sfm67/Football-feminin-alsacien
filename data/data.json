@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-14T21:54:47.767925Z",
+ "mis_a_jour": "2026-11-15T12:31:47.752052Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -347,14 +347,14 @@
     {
      "rang": 1,
      "equipe": "FC Kertzfeld Féminines",
-     "pts": "15",
-     "j": "7",
-     "g": "5",
+     "pts": "18",
+     "j": "8",
+     "g": "6",
      "n": "0",
      "p": "2",
-     "bp": "32",
-     "bc": "6",
-     "diff": "26",
+     "bp": "35",
+     "bc": "7",
+     "diff": "28",
      "forme": [
       "V",
       "D",
@@ -367,13 +367,13 @@
      "rang": 2,
      "equipe": "ES Wihr Au Val Féminines",
      "pts": "13",
-     "j": "5",
+     "j": "6",
      "g": "4",
      "n": "1",
-     "p": "0",
-     "bp": "15",
-     "bc": "4",
-     "diff": "11",
+     "p": "1",
+     "bp": "16",
+     "bc": "7",
+     "diff": "9",
      "forme": [
       "V",
       "V",
@@ -474,7 +474,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nKERTZFELD FC\n15 nov.\n09:00\nWETTOLSHEIM F.C.\nWIHR AU VAL E.S.\n15 nov.\n13:30\nURMATT ENT HUG\nZELLWILLER SR\n15 nov.\n13:30\nGUEMAR AS"
+   "matchs_texte": "9ÈME JOURNÉE\n\nKERTZFELD FC\nReporté\nWETTOLSHEIM F.C.\nWIHR AU VAL E.S.\n15 nov.\n13:30\nURMATT ENT HUG\nZELLWILLER SR\n15 nov.\n13:30\nGUEMAR AS"
   },
   {
    "zone": "Départemental",
@@ -685,16 +685,16 @@
     {
      "rang": 1,
      "equipe": "Union Sportive Egalitaire Féminines",
-     "pts": "15",
-     "j": "5",
+     "pts": "16",
+     "j": "6",
      "g": "5",
-     "n": "0",
+     "n": "1",
      "p": "0",
-     "bp": "33",
-     "bc": "6",
+     "bp": "35",
+     "bc": "8",
      "diff": "27",
      "forme": [
-      "V",
+      "N",
       "V",
       "V",
       "V",
@@ -722,15 +722,33 @@
     },
     {
      "rang": 3,
+     "equipe": "FC Lixhausen Féminines",
+     "pts": "7",
+     "j": "6",
+     "g": "2",
+     "n": "1",
+     "p": "3",
+     "bp": "8",
+     "bc": "10",
+     "diff": "-2",
+     "forme": [
+      "N",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
      "equipe": "AS Hohengoeft Féminines",
      "pts": "6",
-     "j": "4",
+     "j": "5",
      "g": "2",
      "n": "0",
-     "p": "2",
-     "bp": "9",
-     "bc": "13",
-     "diff": "-4",
+     "p": "3",
+     "bp": "11",
+     "bc": "20",
+     "diff": "-9",
      "forme": [
       "D",
       "D",
@@ -739,33 +757,16 @@
      ]
     },
     {
-     "rang": 4,
-     "equipe": "FC Lixhausen Féminines",
-     "pts": "6",
-     "j": "5",
-     "g": "2",
-     "n": "0",
-     "p": "3",
-     "bp": "6",
-     "bc": "8",
-     "diff": "-2",
-     "forme": [
-      "D",
-      "D",
-      "D"
-     ]
-    },
-    {
      "rang": 5,
      "equipe": "CS Wolxheim 2 Féminines",
-     "pts": "-2",
-     "j": "5",
-     "g": "0",
+     "pts": "1",
+     "j": "6",
+     "g": "1",
      "n": "0",
      "p": "3",
-     "bp": "4",
-     "bc": "22",
-     "diff": "-18",
+     "bp": "11",
+     "bc": "24",
+     "diff": "-13",
      "forme": [
       "D",
       "D",
@@ -773,7 +774,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nWOLXHEIM CS\n15 nov.\n09:00\nPFULGRIESHEIM AS\nEGALITAIRE US\n15 nov.\n11:00\nLIXHAUSEN FC"
+   "matchs_texte": "8ÈME JOURNÉE\n\nWOLXHEIM CS\n15 nov.\n09:00\nPFULGRIESHEIM AS\nEGALITAIRE US\n2\n2\nLIXHAUSEN FC"
   },
   {
    "zone": "Départemental",
@@ -811,9 +812,9 @@
      "bc": "15",
      "diff": "-6",
      "forme": [
+      "V",
       "N",
       "D",
-      "V",
       "V",
       "V"
      ]
@@ -851,8 +852,8 @@
      "forme": [
       "D",
       "D",
-      "V",
       "D",
+      "V",
       "D"
      ]
     },
@@ -868,15 +869,15 @@
      "bc": "14",
      "diff": "-6",
      "forme": [
-      "N",
       "D",
+      "N",
       "D",
       "D",
       "D"
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nOBENHEIM AS\n15 nov.\n09:00\nOTTROTT AS\nBISCHOFFSHEIM AS\n15 nov.\n09:00\nBARR FC"
+   "matchs_texte": "8ÈME JOURNÉE\n\nBISCHOFFSHEIM AS\n0\n3\nBARR FC\nOBENHEIM AS\n6\n2\nOTTROTT AS"
   },
   {
    "zone": "Départemental",
@@ -1088,15 +1089,16 @@
     {
      "rang": 1,
      "equipe": "AS Mertzen Féminines",
-     "pts": "18",
-     "j": "6",
-     "g": "6",
+     "pts": "21",
+     "j": "7",
+     "g": "7",
      "n": "0",
      "p": "0",
-     "bp": "19",
-     "bc": "3",
-     "diff": "16",
+     "bp": "25",
+     "bc": "4",
+     "diff": "21",
      "forme": [
+      "V",
       "V",
       "V",
       "V",
@@ -1107,18 +1109,18 @@
      "rang": 2,
      "equipe": "FC 1926 Pfastatt 2 Féminines",
      "pts": "12",
-     "j": "5",
+     "j": "6",
      "g": "4",
      "n": "0",
-     "p": "1",
-     "bp": "16",
-     "bc": "3",
-     "diff": "13",
+     "p": "2",
+     "bp": "17",
+     "bc": "9",
+     "diff": "8",
      "forme": [
-      "V",
-      "V",
-      "V",
       "D",
+      "V",
+      "V",
+      "V",
       "D"
      ]
     },
@@ -1178,7 +1180,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nPFASTATT FC\n15 nov.\n09:00\nMERTZEN A.S.\nMUESPACH ENT. AMO\n15 nov.\n09:00\nFC Staffelfelden"
+   "matchs_texte": "8ÈME JOURNÉE\n\nPFASTATT FC\n1\n6\nMERTZEN A.S.\nMUESPACH ENT. AMO\n15 nov.\n09:00\nFC Staffelfelden"
   },
   {
    "zone": "Départemental",
@@ -3288,56 +3290,56 @@
     {
      "rang": 1,
      "equipe": "FC Vendenheim 2 U13 Féminines",
-     "pts": "22",
-     "j": "8",
-     "g": "7",
+     "pts": "25",
+     "j": "9",
+     "g": "8",
      "n": "1",
      "p": "0",
-     "bp": "48",
+     "bp": "51",
      "bc": "5",
-     "diff": "43",
+     "diff": "46",
      "forme": [
       "V",
       "V",
-      "N",
       "V",
+      "N",
       "V"
      ]
     },
     {
      "rang": 2,
-     "equipe": "US Oberlauterbach U13 Féminines",
-     "pts": "15",
+     "equipe": "Union Sportive de Trois-Maisons Phalsbourg U13 Féminines",
+     "pts": "16",
      "j": "8",
      "g": "5",
-     "n": "0",
-     "p": "3",
-     "bp": "15",
-     "bc": "10",
-     "diff": "5",
+     "n": "1",
+     "p": "2",
+     "bp": "19",
+     "bc": "5",
+     "diff": "14",
      "forme": [
-      "D",
       "V",
-      "D",
       "V",
+      "N",
+      "D",
       "D"
      ]
     },
     {
      "rang": 3,
-     "equipe": "Union Sportive de Trois-Maisons Phalsbourg U13 Féminines",
-     "pts": "13",
-     "j": "7",
-     "g": "4",
-     "n": "1",
-     "p": "2",
+     "equipe": "US Oberlauterbach U13 Féminines",
+     "pts": "15",
+     "j": "9",
+     "g": "5",
+     "n": "0",
+     "p": "4",
      "bp": "15",
-     "bc": "5",
-     "diff": "10",
+     "bc": "13",
+     "diff": "2",
      "forme": [
-      "V",
-      "N",
       "D",
+      "D",
+      "V",
       "D",
       "V"
      ]
@@ -3346,18 +3348,18 @@
      "rang": 4,
      "equipe": "AS Kilstett U13 Féminines",
      "pts": "10",
-     "j": "7",
+     "j": "8",
      "g": "3",
      "n": "1",
-     "p": "3",
+     "p": "4",
      "bp": "12",
-     "bc": "17",
-     "diff": "-5",
+     "bc": "21",
+     "diff": "-9",
      "forme": [
+      "D",
       "D",
       "N",
       "V",
-      "D",
       "D"
      ]
     },
@@ -3400,7 +3402,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nOBERLAUTERBACH US\n14 nov.\n09:30\nVENDENHEIM FC\nENT.ESPOIR 24\n14 nov.\n13:00\nKILSTETT AS\nALLIANCE BASSE ZORN\n14 nov.\n13:30\nHAGUENAU FCSR"
+   "matchs_texte": "8ÈME JOURNÉE\n\nOBERLAUTERBACH US\n0\n3\nVENDENHEIM FC\nENT.ESPOIR 24\n4\n0\nKILSTETT AS\nALLIANCE BASSE ZORN\nForfait\n3\n0\nHAGUENAU FCSR"
   },
   {
    "zone": "Départemental",
