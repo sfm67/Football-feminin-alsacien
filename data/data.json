@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-15T22:25:26.974122Z",
+ "mis_a_jour": "2026-11-16T13:22:49.916482Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -38,8 +38,8 @@
      "diff": "48",
      "forme": [
       "V",
-      "D",
       "V",
+      "D",
       "V",
       "V"
      ]
@@ -58,7 +58,7 @@
      "forme": [
       "D",
       "D",
-      "V",
+      "D",
       "V",
       "V"
      ]
@@ -76,8 +76,8 @@
      "diff": "15",
      "forme": [
       "V",
-      "D",
       "V",
+      "D",
       "V",
       "V"
      ]
@@ -98,7 +98,7 @@
       "V",
       "V",
       "V",
-      "D"
+      "V"
      ]
     },
     {
@@ -114,10 +114,10 @@
      "diff": "-8",
      "forme": [
       "V",
+      "V",
       "N",
       "V",
-      "D",
-      "N"
+      "D"
      ]
     },
     {
@@ -133,10 +133,10 @@
      "diff": "3",
      "forme": [
       "D",
-      "V",
       "D",
       "V",
-      "N"
+      "D",
+      "V"
      ]
     },
     {
@@ -151,8 +151,8 @@
      "bc": "18",
      "diff": "-10",
      "forme": [
-      "V",
       "D",
+      "V",
       "D",
       "D",
       "D"
@@ -170,8 +170,8 @@
      "bc": "17",
      "diff": "-16",
      "forme": [
-      "N",
       "D",
+      "N",
       "D",
       "D",
       "D"
@@ -189,11 +189,11 @@
      "bc": "40",
      "diff": "-35",
      "forme": [
+      "V",
       "D",
       "D",
       "N",
-      "D",
-      "N"
+      "D"
      ]
     },
     {
@@ -216,7 +216,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nMUSAU STRASBOURG\n15 nov.\n09:00\nGRIES FC\nSELESTAT SC\n15 nov.\n13:00\nKOETZINGUE ASL\nHAGUENAU FCSR\n15 nov.\n13:30\nMUSSIG AS\nMULHOUSE AZZURRI US\n15 nov.\n13:30\nKILSTETT AS\nDUTTL. ENT. HINDIS.\n15 nov.\n14:00\nHINTERF. ENT MERTZW."
+   "matchs_texte": "9ÈME JOURNÉE\n\nMUSAU STRASBOURG\n2\n1\nGRIES FC\nSELESTAT SC\n1\n3\nKOETZINGUE ASL\nMULHOUSE AZZURRI US\n7\n0\nKILSTETT AS\nHAGUENAU FCSR\n3\n0\nMUSSIG AS\nDUTTL. ENT. HINDIS.\n2\n3\nHINTERF. ENT MERTZW."
   },
   {
    "zone": "Départemental",
@@ -358,28 +358,29 @@
      "diff": "28",
      "forme": [
       "V",
+      "V",
       "D",
       "V",
-      "V",
-      "D"
+      "V"
      ]
     },
     {
      "rang": 2,
      "equipe": "ES Wihr Au Val Féminines",
-     "pts": "13",
-     "j": "6",
-     "g": "4",
+     "pts": "16",
+     "j": "7",
+     "g": "5",
      "n": "1",
      "p": "1",
-     "bp": "16",
-     "bc": "7",
-     "diff": "9",
+     "bp": "19",
+     "bc": "8",
+     "diff": "11",
      "forme": [
       "V",
+      "D",
       "V",
-      "N",
-      "V"
+      "V",
+      "N"
      ]
     },
     {
@@ -421,37 +422,37 @@
      "rang": 5,
      "equipe": "S Reunis Zellwiller Féminines",
      "pts": "8",
-     "j": "7",
+     "j": "8",
      "g": "2",
      "n": "2",
-     "p": "3",
+     "p": "4",
      "bp": "16",
-     "bc": "29",
-     "diff": "-13",
+     "bc": "33",
+     "diff": "-17",
      "forme": [
+      "D",
       "N",
       "D",
       "D",
-      "D",
-      "N"
+      "D"
      ]
     },
     {
      "rang": 6,
      "equipe": "AS Guémar Féminines",
-     "pts": "3",
-     "j": "7",
-     "g": "1",
+     "pts": "6",
+     "j": "8",
+     "g": "2",
      "n": "0",
      "p": "6",
-     "bp": "6",
+     "bp": "10",
      "bc": "36",
-     "diff": "-30",
+     "diff": "-26",
      "forme": [
+      "V",
       "D",
       "D",
       "V",
-      "D",
       "D"
      ]
     },
@@ -459,23 +460,23 @@
      "rang": 7,
      "equipe": "ES Haslach Urmatt Grendelbruch 2 Féminines",
      "pts": "3",
-     "j": "7",
+     "j": "8",
      "g": "1",
      "n": "1",
-     "p": "4",
-     "bp": "6",
-     "bc": "25",
-     "diff": "-19",
+     "p": "5",
+     "bp": "7",
+     "bc": "28",
+     "diff": "-21",
      "forme": [
+      "D",
       "N",
       "D",
       "D",
-      "V",
-      "D"
+      "V"
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nKERTZFELD FC\nReporté\nWETTOLSHEIM F.C.\nWIHR AU VAL E.S.\n15 nov.\n13:30\nURMATT ENT HUG\nZELLWILLER SR\n15 nov.\n13:30\nGUEMAR AS"
+   "matchs_texte": "9ÈME JOURNÉE\n\nKERTZFELD FC\nReporté\nWETTOLSHEIM F.C.\nWIHR AU VAL E.S.\n3\n1\nURMATT ENT HUG\nZELLWILLER SR\n0\n4\nGUEMAR AS"
   },
   {
    "zone": "Départemental",
@@ -497,6 +498,7 @@
       "V",
       "V",
       "V",
+      "V",
       "V"
      ]
     },
@@ -513,7 +515,7 @@
      "diff": "30",
      "forme": [
       "V",
-      "V",
+      "D",
       "V",
       "V",
       "V"
@@ -755,6 +757,7 @@
      "forme": [
       "D",
       "D",
+      "D",
       "V",
       "V"
      ]
@@ -771,6 +774,7 @@
      "bc": "24",
      "diff": "-13",
      "forme": [
+      "V",
       "D",
       "D",
       "D"
@@ -993,16 +997,17 @@
     {
      "rang": 1,
      "equipe": "FC Ingersheim Féminines",
-     "pts": "13",
-     "j": "5",
+     "pts": "14",
+     "j": "6",
      "g": "4",
-     "n": "1",
+     "n": "2",
      "p": "0",
-     "bp": "27",
-     "bc": "4",
+     "bp": "30",
+     "bc": "7",
      "diff": "23",
      "forme": [
       "D",
+      "N",
       "V",
       "V",
       "V"
@@ -1011,13 +1016,13 @@
     {
      "rang": 2,
      "equipe": "AS Turckheim Féminines",
-     "pts": "13",
-     "j": "5",
+     "pts": "14",
+     "j": "6",
      "g": "4",
-     "n": "1",
+     "n": "2",
      "p": "0",
-     "bp": "13",
-     "bc": "6",
+     "bp": "16",
+     "bc": "9",
      "diff": "7",
      "forme": [
       "V",
@@ -1031,14 +1036,15 @@
      "rang": 3,
      "equipe": "US Gunsbach 1946 Féminines",
      "pts": "5",
-     "j": "5",
+     "j": "6",
      "g": "1",
      "n": "2",
-     "p": "2",
-     "bp": "5",
-     "bc": "9",
-     "diff": "-4",
+     "p": "3",
+     "bp": "7",
+     "bc": "13",
+     "diff": "-6",
      "forme": [
+      "N",
       "D",
       "N",
       "V",
@@ -1047,6 +1053,23 @@
     },
     {
      "rang": 4,
+     "equipe": "FC Buhl Féminines",
+     "pts": "2",
+     "j": "5",
+     "g": "1",
+     "n": "0",
+     "p": "3",
+     "bp": "10",
+     "bc": "17",
+     "diff": "-7",
+     "forme": [
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
      "equipe": "AS Herrlisheim Féminines",
      "pts": "2",
      "j": "5",
@@ -1062,23 +1085,6 @@
       "N",
       "D",
       "N"
-     ]
-    },
-    {
-     "rang": 5,
-     "equipe": "FC Buhl Féminines",
-     "pts": "-1",
-     "j": "4",
-     "g": "0",
-     "n": "0",
-     "p": "3",
-     "bp": "6",
-     "bc": "15",
-     "diff": "-9",
-     "forme": [
-      "D",
-      "D",
-      "D"
      ]
     }
    ],
@@ -1130,20 +1136,20 @@
     {
      "rang": 3,
      "equipe": "FC Staffelfelden",
-     "pts": "6",
-     "j": "5",
-     "g": "2",
+     "pts": "9",
+     "j": "6",
+     "g": "3",
      "n": "0",
      "p": "3",
-     "bp": "15",
-     "bc": "16",
-     "diff": "-1",
+     "bp": "22",
+     "bc": "17",
+     "diff": "5",
      "forme": [
+      "V",
       "D",
       "D",
       "V",
-      "D",
-      "V"
+      "D"
      ]
     },
     {
@@ -1168,14 +1174,15 @@
      "rang": 5,
      "equipe": "FC Muespach 2 Féminines",
      "pts": "1",
-     "j": "6",
+     "j": "7",
      "g": "1",
      "n": "0",
-     "p": "3",
-     "bp": "7",
-     "bc": "22",
-     "diff": "-15",
+     "p": "4",
+     "bp": "8",
+     "bc": "29",
+     "diff": "-21",
      "forme": [
+      "D",
       "D",
       "D",
       "D",
@@ -1183,7 +1190,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nPFASTATT FC\n1\n6\nMERTZEN A.S.\nMUESPACH ENT. AMO\n15 nov.\n09:00\nFC Staffelfelden"
+   "matchs_texte": "8ÈME JOURNÉE\n\nPFASTATT FC\n1\n6\nMERTZEN A.S.\nMUESPACH ENT. AMO\n1\n7\nFC Staffelfelden"
   },
   {
    "zone": "Départemental",
@@ -1279,10 +1286,10 @@
      "diff": "-13",
      "forme": [
       "D",
-      "V",
       "D",
       "V",
-      "D"
+      "D",
+      "V"
      ]
     },
     {
@@ -1460,8 +1467,8 @@
       "V",
       "D",
       "D",
-      "V",
-      "N"
+      "D",
+      "V"
      ]
     },
     {
@@ -1477,10 +1484,10 @@
      "diff": "-4",
      "forme": [
       "V",
-      "V",
-      "V",
       "D",
-      "V"
+      "V",
+      "V",
+      "D"
      ]
     },
     {
@@ -1496,10 +1503,10 @@
      "diff": "-4",
      "forme": [
       "V",
+      "D",
       "V",
       "D",
-      "D",
-      "N"
+      "D"
      ]
     },
     {
@@ -1553,8 +1560,8 @@
      "diff": "-24",
      "forme": [
       "D",
+      "V",
       "N",
-      "D",
       "D",
       "D"
      ]
@@ -1572,9 +1579,9 @@
      "diff": "0",
      "forme": [
       "D",
-      "D",
       "V",
       "D",
+      "V",
       "D"
      ]
     },
@@ -1613,7 +1620,7 @@
       "D",
       "D",
       "D",
-      "N"
+      "D"
      ]
     }
    ],
@@ -1627,35 +1634,35 @@
     {
      "rang": 1,
      "equipe": "FC Bennwihr Féminines",
-     "pts": "19",
-     "j": "7",
-     "g": "6",
+     "pts": "22",
+     "j": "8",
+     "g": "7",
      "n": "1",
      "p": "0",
-     "bp": "29",
-     "bc": "2",
-     "diff": "27",
+     "bp": "33",
+     "bc": "5",
+     "diff": "28",
      "forme": [
       "V",
       "V",
       "V",
       "V",
-      "N"
+      "V"
      ]
     },
     {
      "rang": 2,
      "equipe": "FC Saint-Louis Neuweg",
      "pts": "18",
-     "j": "6",
+     "j": "7",
      "g": "6",
      "n": "0",
-     "p": "0",
-     "bp": "25",
-     "bc": "11",
-     "diff": "14",
+     "p": "1",
+     "bp": "28",
+     "bc": "15",
+     "diff": "13",
      "forme": [
-      "V",
+      "D",
       "V",
       "V",
       "V",
@@ -1684,38 +1691,38 @@
     {
      "rang": 4,
      "equipe": "FC Muespach Féminines",
-     "pts": "13",
-     "j": "7",
-     "g": "4",
+     "pts": "16",
+     "j": "8",
+     "g": "5",
      "n": "1",
      "p": "2",
-     "bp": "25",
+     "bp": "31",
      "bc": "17",
-     "diff": "8",
+     "diff": "14",
      "forme": [
       "V",
       "V",
-      "D",
       "V",
+      "D",
       "V"
      ]
     },
     {
      "rang": 5,
      "equipe": "AS Blodelsheim 2 Féminines",
-     "pts": "8",
-     "j": "7",
-     "g": "3",
+     "pts": "11",
+     "j": "8",
+     "g": "4",
      "n": "0",
      "p": "3",
-     "bp": "22",
-     "bc": "11",
-     "diff": "11",
+     "bp": "28",
+     "bc": "13",
+     "diff": "15",
      "forme": [
+      "V",
       "D",
       "V",
       "V",
-      "D",
       "D"
      ]
     },
@@ -1742,19 +1749,19 @@
      "rang": 7,
      "equipe": "Football Club Pays Rhénan Féminines",
      "pts": "4",
-     "j": "6",
+     "j": "7",
      "g": "1",
      "n": "1",
-     "p": "4",
-     "bp": "7",
-     "bc": "23",
-     "diff": "-16",
+     "p": "5",
+     "bp": "9",
+     "bc": "29",
+     "diff": "-20",
      "forme": [
+      "D",
       "V",
       "D",
       "D",
-      "D",
-      "N"
+      "D"
      ]
     },
     {
@@ -1799,14 +1806,15 @@
      "rang": 10,
      "equipe": "US Vallee de la Thur Féminines",
      "pts": "-1",
-     "j": "5",
+     "j": "6",
      "g": "0",
      "n": "0",
-     "p": "4",
+     "p": "5",
      "bp": "2",
-     "bc": "21",
-     "diff": "-19",
+     "bc": "27",
+     "diff": "-25",
      "forme": [
+      "D",
       "D",
       "D",
       "D",
@@ -1814,21 +1822,21 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nWIDENSOLEN S.R.\n15 nov.\n09:00\nPFETTERHOUSE U.S.\nHEIMSBRUNN A.S.\n15 nov.\n09:00\nHABSHEIM FC\nVALLEE THUR U.S.\n15 nov.\n09:00\nMUESPACH ENT. AMO\nHIRTZ GF CENTRE HTRH\n15 nov.\n09:00\nENT.FCPRZ\nFC Saint-Louis Neuweg\n15 nov.\n16:00\nBENNWIHR F.C"
+   "matchs_texte": "9ÈME JOURNÉE\n\nVALLEE THUR U.S.\n0\n6\nMUESPACH ENT. AMO\nWIDENSOLEN S.R.\nReporté\nPFETTERHOUSE U.S.\nHEIMSBRUNN A.S.\nReporté\nHABSHEIM FC\nHIRTZ GF CENTRE HTRH\n6\n2\nENT.FCPRZ\nFC Saint-Louis Neuweg\n3\n4\nBENNWIHR F.C"
   },
   {
    "zone": "Départemental",
    "nom": "Coupe d'Alsace Féminines à 11 - Unique - 1",
    "url": "https://scorenco.com/football/competitions/coupe-dalsace-feminines-a-11-unique-1-r88b",
    "classement": [],
-   "matchs_texte": "2ÈME JOURNÉE\n\nDUPPIGHEIM USL\n2\n2\n\nTAB : 4 - 5\n\nHABSHEIM FC\nST ETIENNE SELTZ FC\n1\n6\nESPOIR 24\nMUSAU STRASBOURG\n2\n1\nHUNSPACH AS\nMUSSIG AS\n3\n4\nMUESPACH ENT. AMO\nGRIES FC\n1\n0\nWOLXHEIM CS\nURMATT ENT HUG\nForfait\n0\n3\nERNO FC\nSELESTAT SC\n1\n5\nKOETZINGUE ASL\nHAGUENAU FCSR\n2\n1\nSTRG FCOSK06\nGEISPOLSHEIM FC\n2\n1\nHOLTZHEIM AS\nHEIMSBRUNN A.S.\n11 nov.\n13:30\nDUTTL. ENT. HINDIS.\nFC Saint-Louis Neuweg\n21 févr.\n14:00\nMULHOUSE AZZURRI US"
+   "matchs_texte": "2ÈME JOURNÉE\n\nDUPPIGHEIM USL\n2\n2\n\nTAB : 4 - 5\n\nHABSHEIM FC\nST ETIENNE SELTZ FC\n1\n6\nESPOIR 24\nMUSAU STRASBOURG\n2\n1\nHUNSPACH AS\nMUSSIG AS\n3\n4\nMUESPACH ENT. AMO\nGRIES FC\n1\n0\nWOLXHEIM CS\nURMATT ENT HUG\nForfait\n0\n3\nERNO FC\nSELESTAT SC\n1\n5\nKOETZINGUE ASL\nHAGUENAU FCSR\n2\n1\nSTRG FCOSK06\nGEISPOLSHEIM FC\n2\n1\nHOLTZHEIM AS\nHEIMSBRUNN A.S.\n21 févr.\n13:30\nDUTTL. ENT. HINDIS.\nFC Saint-Louis Neuweg\n21 févr.\n14:00\nMULHOUSE AZZURRI US"
   },
   {
    "zone": "Départemental",
    "nom": "Coupe d'Alsace Féminines à 8 - Unique - 1",
    "url": "https://scorenco.com/football/competitions/coupe-dalsace-feminines-a-8-unique-1-r88h",
    "classement": [],
-   "matchs_texte": "2ÈME JOURNÉE\n\nHOHENGOEFT\n0\n11\nOBERHOFFEN FC\nMUSAU STRASBOURG\n0\n7\nOBENHEIM AS\nWIHR AU VAL E.S.\nForfait\n3\n0\nBUHL FC\nOFFWILLER AS\n1\n2\nAS Mertzwiller\nMUESPACH ENT. AMO\nForfait\n0\n3\nMERTZEN A.S.\nINGERSHEIM F.C.\n2\n5\nGUEMAR AS\nBISCHHEIM SOLEIL FC\nForfait\n3\n0\nDAMBACH/VILLE US\nSCHWEIGHOUSE FC\n10\n0\nNIEDERBRONN US\nAS Strasbourg 2\n11 nov.\n14:30\nBARR FC"
+   "matchs_texte": "2ÈME JOURNÉE\n\nHOHENGOEFT\n0\n11\nOBERHOFFEN FC\nMUSAU STRASBOURG\n0\n7\nOBENHEIM AS\nWIHR AU VAL E.S.\nForfait\n3\n0\nBUHL FC\nOFFWILLER AS\n1\n2\nAS Mertzwiller\nMUESPACH ENT. AMO\nForfait\n0\n3\nMERTZEN A.S.\nINGERSHEIM F.C.\n2\n5\nGUEMAR AS\nBISCHHEIM SOLEIL FC\nForfait\n3\n0\nDAMBACH/VILLE US\nSCHWEIGHOUSE FC\n10\n0\nNIEDERBRONN US\nAS Strasbourg 2\n11\n0\nBARR FC"
   },
   {
    "zone": "Départemental",
@@ -2006,6 +2014,7 @@
      "bc": "43",
      "diff": "-26",
      "forme": [
+      "V",
       "V",
       "D",
       "D",
@@ -2211,10 +2220,10 @@
      "diff": "-1",
      "forme": [
       "V",
+      "V",
       "D",
       "N",
-      "D",
-      "V"
+      "D"
      ]
     },
     {
@@ -2230,8 +2239,8 @@
      "diff": "1",
      "forme": [
       "V",
-      "V",
       "D",
+      "V",
       "D",
       "D"
      ]
@@ -2250,8 +2259,8 @@
      "forme": [
       "D",
       "V",
+      "V",
       "N",
-      "D",
       "D"
      ]
     },
@@ -2269,9 +2278,9 @@
      "forme": [
       "D",
       "D",
+      "D",
       "V",
-      "V",
-      "D"
+      "V"
      ]
     },
     {
@@ -2857,8 +2866,8 @@
      "bc": "28",
      "diff": "-18",
      "forme": [
+      "V",
       "N",
-      "D",
       "D",
       "D",
       "D"
@@ -2877,8 +2886,8 @@
      "diff": "-22",
      "forme": [
       "D",
-      "N",
       "D",
+      "N",
       "D",
       "D"
      ]
@@ -2923,10 +2932,10 @@
      "diff": "7",
      "forme": [
       "N",
-      "D",
-      "D",
       "V",
-      "D"
+      "D",
+      "D",
+      "V"
      ]
     },
     {
@@ -2942,9 +2951,9 @@
      "diff": "-16",
      "forme": [
       "D",
-      "V",
-      "V",
       "D",
+      "V",
+      "V",
       "D"
      ]
     },
@@ -3099,14 +3108,14 @@
     {
      "rang": 1,
      "equipe": "FC Vendenheim U13 Féminines",
-     "pts": "21",
-     "j": "7",
-     "g": "7",
+     "pts": "24",
+     "j": "8",
+     "g": "8",
      "n": "0",
      "p": "0",
-     "bp": "69",
+     "bp": "88",
      "bc": "4",
-     "diff": "65",
+     "diff": "84",
      "forme": [
       "V",
       "V",
@@ -3118,14 +3127,14 @@
     {
      "rang": 2,
      "equipe": "Stadium Racing Colmar U13 Féminines",
-     "pts": "15",
-     "j": "6",
-     "g": "5",
+     "pts": "18",
+     "j": "7",
+     "g": "6",
      "n": "0",
      "p": "1",
-     "bp": "41",
-     "bc": "7",
-     "diff": "34",
+     "bp": "45",
+     "bc": "10",
+     "diff": "35",
      "forme": [
       "V",
       "V",
@@ -3137,14 +3146,14 @@
     {
      "rang": 3,
      "equipe": "Agiir Florival U13 Féminines",
-     "pts": "11",
-     "j": "6",
-     "g": "3",
+     "pts": "14",
+     "j": "7",
+     "g": "4",
      "n": "2",
      "p": "1",
-     "bp": "20",
+     "bp": "26",
      "bc": "11",
-     "diff": "9",
+     "diff": "15",
      "forme": [
       "V",
       "D",
@@ -3157,13 +3166,13 @@
      "rang": 4,
      "equipe": "RC Strasbourg Alsace U13 Féminines",
      "pts": "10",
-     "j": "5",
+     "j": "6",
      "g": "3",
      "n": "1",
-     "p": "1",
-     "bp": "53",
-     "bc": "15",
-     "diff": "38",
+     "p": "2",
+     "bp": "56",
+     "bc": "19",
+     "diff": "37",
      "forme": [
       "D",
       "V",
@@ -3174,40 +3183,40 @@
     },
     {
      "rang": 5,
-     "equipe": "FC Habsheim U13 Féminines",
-     "pts": "6",
-     "j": "5",
-     "g": "2",
-     "n": "0",
-     "p": "3",
-     "bp": "11",
-     "bc": "19",
-     "diff": "-8",
-     "forme": [
-      "D",
-      "D",
-      "V",
-      "D",
-      "V"
-     ]
-    },
-    {
-     "rang": 6,
      "equipe": "AS Illzach Modenheim U13 Féminines",
-     "pts": "6",
-     "j": "6",
-     "g": "2",
+     "pts": "9",
+     "j": "7",
+     "g": "3",
      "n": "0",
      "p": "4",
-     "bp": "18",
-     "bc": "26",
-     "diff": "-8",
+     "bp": "23",
+     "bc": "27",
+     "diff": "-4",
      "forme": [
       "V",
       "V",
       "D",
       "D",
       "D"
+     ]
+    },
+    {
+     "rang": 6,
+     "equipe": "FC Habsheim U13 Féminines",
+     "pts": "6",
+     "j": "6",
+     "g": "2",
+     "n": "0",
+     "p": "4",
+     "bp": "11",
+     "bc": "25",
+     "diff": "-14",
+     "forme": [
+      "D",
+      "D",
+      "V",
+      "D",
+      "V"
      ]
     },
     {
@@ -3233,13 +3242,13 @@
      "rang": 8,
      "equipe": "Ernolsheim-Bruche Football Club U13 Féminines",
      "pts": "1",
-     "j": "4",
+     "j": "5",
      "g": "0",
      "n": "1",
-     "p": "3",
-     "bp": "3",
-     "bc": "28",
-     "diff": "-25",
+     "p": "4",
+     "bp": "4",
+     "bc": "33",
+     "diff": "-29",
      "forme": [
       "D",
       "D",
@@ -3252,13 +3261,13 @@
      "rang": 9,
      "equipe": "AS Coteaux Mulhouse U13 Féminines",
      "pts": "0",
-     "j": "6",
+     "j": "7",
      "g": "0",
      "n": "0",
-     "p": "6",
+     "p": "7",
      "bp": "8",
-     "bc": "65",
-     "diff": "-57",
+     "bc": "84",
+     "diff": "-76",
      "forme": [
       "D",
       "D",
