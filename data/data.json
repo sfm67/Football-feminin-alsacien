@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-18T13:40:41.031564Z",
+ "mis_a_jour": "2026-11-19T14:08:25.670680Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -216,7 +216,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nMUSAU STRASBOURG\n2\n1\nGRIES FC\nSELESTAT SC\n1\n3\nKOETZINGUE ASL\nMULHOUSE AZZURRI US\n7\n0\nKILSTETT AS\nHAGUENAU FCSR\n3\n0\nMUSSIG AS\nDUTTL. ENT. HINDIS.\n2\n3\nHINTERF. ENT MERTZW."
+   "matchs_texte": "10ÈME JOURNÉE\n\nKILSTETT AS\n22 nov.\n15:30\nMUSSIG AS\nGRIES FC\n13 déc.\n13:30\nMULHOUSE AZZURRI US\nILLHAEUSERN FC\n14 févr.\n13:30\nDUTTL. ENT. HINDIS.\nHINTERF. ENT MERTZW.\n20 févr.\n18:00\nMUSAU STRASBOURG\nSELESTAT SC\n21 févr.\n13:30\nHAGUENAU FCSR"
   },
   {
    "zone": "Départemental",
@@ -338,7 +338,7 @@
      ]
     }
    ],
-   "matchs_texte": "7ÈME JOURNÉE\n\nOBERSCHAEFFOLSHEIM\n1\n2\nAS Strasbourg 2\nOFFWILLER AS\n1\n6\nILLKIRCH GRAFF. FA\nOBERHOFFEN FC\n8\n1\nMUSAU STRASBOURG"
+   "matchs_texte": "8ÈME JOURNÉE\n\nOBERSCHAEFFOLSHEIM\n21 nov.\n17:30\nOFFWILLER AS\nILLKIRCH GRAFF. FA\n21 nov.\n18:30\nOBERHOFFEN FC\nAS Strasbourg 2\n21 nov.\n19:30\nMUSAU STRASBOURG"
   },
   {
    "zone": "Départemental",
@@ -376,11 +376,11 @@
      "bc": "11",
      "diff": "11",
      "forme": [
+      "N",
       "V",
       "D",
       "V",
-      "V",
-      "N"
+      "V"
      ]
     },
     {
@@ -395,6 +395,7 @@
      "bc": "12",
      "diff": "16",
      "forme": [
+      "N",
       "V",
       "V",
       "V",
@@ -476,7 +477,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nKERTZFELD FC\nReporté\nWETTOLSHEIM F.C.\nWIHR AU VAL E.S.\n3\n1\nURMATT ENT HUG\nZELLWILLER SR\n0\n4\nGUEMAR AS"
+   "matchs_texte": "10ÈME JOURNÉE\n\nURMATT ENT HUG\n21 nov.\n18:30\nMULHOUSE AZZURRI US\nZELLWILLER SR\n22 nov.\n09:00\nWIHR AU VAL E.S.\nGUEMAR AS\n22 nov.\n13:30\nWETTOLSHEIM F.C."
   },
   {
    "zone": "Départemental",
@@ -578,7 +579,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nREIPERTSWILLER US\n0\n4\nMORSBRONN ES\nGUMBRECHTSHOFFEN US\n18 nov.\n19:00\nNIEDERBRONN US"
+   "matchs_texte": "9ÈME JOURNÉE\n\nMORSBRONN ES\n22 nov.\n13:30\nGUMBRECHTSHOFFEN US\nNIEDERBRONN US\n22 nov.\n15:30\nAS Mertzwiller"
   },
   {
    "zone": "Départemental",
@@ -680,7 +681,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nSCHWEIGHOUSE FC\n2\n0\nREICHSTETT AS\nBISCHHEIM SOLEIL FC\n10\n1\nGRIES FC"
+   "matchs_texte": "9ÈME JOURNÉE\n\nGRIES FC\n21 nov.\n18:30\nREICHSTETT AS\nROPPENHEIM SC\n22 nov.\n13:30\nBISCHHEIM SOLEIL FC"
   },
   {
    "zone": "Départemental",
@@ -781,7 +782,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nEGALITAIRE US\n2\n2\nLIXHAUSEN FC\nWOLXHEIM CS\n18 nov.\n18:30\nPFULGRIESHEIM AS"
+   "matchs_texte": "9ÈME JOURNÉE\n\nPFULGRIESHEIM AS\n21 nov.\n18:00\nEGALITAIRE US\nHOHENGOEFT\n21 nov.\n18:30\nLIXHAUSEN FC"
   },
   {
    "zone": "Départemental",
@@ -810,19 +811,19 @@
     {
      "rang": 2,
      "equipe": "FC Barr Féminines",
-     "pts": "13",
-     "j": "7",
-     "g": "4",
+     "pts": "16",
+     "j": "8",
+     "g": "5",
      "n": "1",
      "p": "2",
-     "bp": "12",
+     "bp": "16",
      "bc": "15",
-     "diff": "-3",
+     "diff": "1",
      "forme": [
+      "V",
       "V",
       "N",
       "D",
-      "V",
       "V"
      ]
     },
@@ -830,18 +831,18 @@
      "rang": 3,
      "equipe": "FC Boofzheim Féminines",
      "pts": "9",
-     "j": "6",
+     "j": "7",
      "g": "3",
      "n": "0",
-     "p": "3",
+     "p": "4",
      "bp": "12",
-     "bc": "23",
-     "diff": "-11",
+     "bc": "27",
+     "diff": "-15",
      "forme": [
       "D",
-      "V",
-      "V",
       "D",
+      "V",
+      "V",
       "D"
      ]
     },
@@ -884,7 +885,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nBISCHOFFSHEIM AS\n0\n3\nBARR FC\nOBENHEIM AS\n6\n2\nOTTROTT AS"
+   "matchs_texte": "9ÈME JOURNÉE\n\nBARR FC\n4\n0\nBOOFZH ENT. FCEBH\nOTTROTT AS\n21 nov.\n17:30\nBISCHOFFSHEIM AS"
   },
   {
    "zone": "Départemental",
@@ -987,7 +988,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nFC Grussenheim\n2\n1\nENT. RC KINTZH SELES\nDAMBACH/VILLE US\n3\n1\nLIEPVRE C.S."
+   "matchs_texte": "9ÈME JOURNÉE\n\nFC Grussenheim\n21 nov.\n17:30\nDAMBACH/VILLE US\nLIEPVRE C.S.\n21 nov.\n18:30\nHILSENHEIM FC"
   },
   {
    "zone": "Départemental",
@@ -1089,7 +1090,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nGUNSBACH U.S.\n2\n4\nBUHL FC\nASTW\n3\n3\nINGERSHEIM F.C."
+   "matchs_texte": "9ÈME JOURNÉE\n\nASTW\n22 nov.\n13:30\nBUHL FC\nHERRL.ENT. ELSBOURG\n22 nov.\n13:30\nGUNSBACH U.S."
   },
   {
    "zone": "Départemental",
@@ -1191,7 +1192,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nPFASTATT FC\n1\n6\nMERTZEN A.S.\nMUESPACH ENT. AMO\n1\n7\nFC Staffelfelden"
+   "matchs_texte": "9ÈME JOURNÉE\n\nFC Staffelfelden\n21 nov.\n17:30\nPFASTATT FC\nMERTZEN A.S.\n22 nov.\n13:30\nTHANN FC"
   },
   {
    "zone": "Départemental",
@@ -1389,7 +1390,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nSCHILTIGH ESP\n0\n3\nDOSSENHEIM ENT IMBSH\nWINGERSHEIM FC\n1\n3\nTRUCHTERSHEIM FC\nSTRASBOURG AS\n7\n0\nSCHOEN/MEMMEL FR\nESPOIR 24\n2\n1\nOBERHAUSBERGEN FC\nHUNSPACH AS\n7\n1\nST ETIENNE SELTZ FC"
+   "matchs_texte": "1ÈRE JOURNÉE\n\nSCHOEN/MEMMEL FR\n22 nov.\n09:00\nSCHILTIGH ESP\nST ETIENNE SELTZ FC\n22 nov.\n09:30\nSTRASBOURG AS\nTRUCHTERSHEIM FC\n22 nov.\n13:30\nESPOIR 24\nOBERHAUSBERGEN FC\n22 nov.\n13:30\nHUNSPACH AS\nDOSSENHEIM ENT IMBSH\n22 nov.\n13:30\nWINGERSHEIM FC"
   },
   {
    "zone": "Départemental",
@@ -1625,7 +1626,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nURMATT ENT HUG\n1\n3\nHOLTZHEIM AS\nGEISPOLSHEIM FC\n4\n1\nCHATENOIS AS\nDUPPIGHEIM USL\n5\n1\nWOLXHEIM CS\nERNO FC\n19\n0\nDANGOLSHEIM FC\nERSTEIN AS\n3\n0\nSCHOENAU\nSTRG FCOSK06\n5\n0\nILLKIRCH GRAFF. FA"
+   "matchs_texte": "10ÈME JOURNÉE\n\nSCHOENAU\n21 nov.\n18:00\nURMATT ENT HUG\nERNO FC\n21 nov.\n18:30\nGEISPOLSHEIM FC\nWOLXHEIM CS\n22 nov.\n13:30\nCHATENOIS AS\nHOLTZHEIM AS\n22 nov.\n13:30\nSTRG FCOSK06\nDANGOLSHEIM FC\n22 nov.\n13:30\nERSTEIN AS\nILLKIRCH GRAFF. FA\n22 nov.\n15:30\nDUPPIGHEIM USL"
   },
   {
    "zone": "Départemental",
@@ -1823,7 +1824,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nVALLEE THUR U.S.\n0\n6\nMUESPACH ENT. AMO\nHIRTZ GF CENTRE HTRH\n6\n2\nENT.FCPRZ\nFC Saint-Louis Neuweg\n3\n4\nBENNWIHR F.C\nHEIMSBRUNN A.S.\n06 déc.\n13:30\nHABSHEIM FC\nWIDENSOLEN S.R.\n06 déc.\n13:30\nPFETTERHOUSE U.S."
+   "matchs_texte": "1ÈRE JOURNÉE\n\nMUESPACH ENT. AMO\n22 nov.\n13:30\nHIRTZ GF CENTRE HTRH\nPFETTERHOUSE U.S.\n22 nov.\n13:30\nVALLEE THUR U.S.\nENT.FCPRZ\n22 nov.\n13:30\nFC Saint-Louis Neuweg\nBENNWIHR F.C\n22 nov.\n14:00\nHEIMSBRUNN A.S.\nHABSHEIM FC\n22 nov.\n14:00\nWIDENSOLEN S.R."
   },
   {
    "zone": "Départemental",
@@ -2773,7 +2774,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nTHANN FC\n2\n1\nUS Pfetterhouse\nGR.E.P.A\n21 nov.\n12:00\nHABSHEIM FC\nFC 1926 Pfastatt 2\n21 nov.\n12:30\nUS Azzurri Mulhouse"
+   "matchs_texte": "9ÈME JOURNÉE\n\nTHANN FC\n2\n1\nUS Pfetterhouse\nFC 1926 Pfastatt 2\n21 nov.\n12:30\nUS Azzurri Mulhouse\nGR.E.P.A\n21 nov.\n13:00\nHABSHEIM FC"
   },
   {
    "zone": "Départemental",
@@ -3298,7 +3299,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nERNO FC\n21 nov.\n12:00\nMULH. COTEAUX A.S.\nMOLSHEIM ERNO. ES\n21 nov.\n12:00\nVENDENHEIM FC\nCOLMAR SR FA\n21 nov.\n12:15\nAGIIR FLORIVAL\nHABSHEIM FC\n21 nov.\n12:30\nPFASTATT FC\nAS ILLZACH MODENHEIM\n05 déc.\n12:30\nSTRASBOURG ALSACE RC"
+   "matchs_texte": "9ÈME JOURNÉE\n\nCOLMAR SR FA\n21 nov.\n11:45\nAGIIR FLORIVAL\nERNO FC\n21 nov.\n12:00\nMULH. COTEAUX A.S.\nMOLSHEIM ERNO. ES\n21 nov.\n12:00\nVENDENHEIM FC\nHABSHEIM FC\n21 nov.\n12:30\nPFASTATT FC\nAS ILLZACH MODENHEIM\n05 déc.\n12:30\nSTRASBOURG ALSACE RC"
   },
   {
    "zone": "Départemental",
