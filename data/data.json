@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-19T14:08:25.670680Z",
+ "mis_a_jour": "2026-11-20T13:50:19.717804Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -710,20 +710,20 @@
     {
      "rang": 2,
      "equipe": "AS Pfulgriesheim Féminines",
-     "pts": "9",
-     "j": "5",
-     "g": "3",
+     "pts": "12",
+     "j": "6",
+     "g": "4",
      "n": "0",
      "p": "2",
-     "bp": "9",
+     "bp": "12",
      "bc": "12",
-     "diff": "-3",
+     "diff": "0",
      "forme": [
       "V",
       "V",
-      "D",
       "V",
-      "D"
+      "D",
+      "V"
      ]
     },
     {
@@ -767,14 +767,15 @@
      "rang": 5,
      "equipe": "CS Wolxheim 2 Féminines",
      "pts": "1",
-     "j": "6",
+     "j": "7",
      "g": "1",
      "n": "0",
-     "p": "3",
+     "p": "4",
      "bp": "11",
-     "bc": "24",
-     "diff": "-13",
+     "bc": "27",
+     "diff": "-16",
      "forme": [
+      "D",
       "V",
       "D",
       "D",
@@ -1824,7 +1825,7 @@
      ]
     }
    ],
-   "matchs_texte": "1ÈRE JOURNÉE\n\nMUESPACH ENT. AMO\n22 nov.\n13:30\nHIRTZ GF CENTRE HTRH\nPFETTERHOUSE U.S.\n22 nov.\n13:30\nVALLEE THUR U.S.\nENT.FCPRZ\n22 nov.\n13:30\nFC Saint-Louis Neuweg\nBENNWIHR F.C\n22 nov.\n14:00\nHEIMSBRUNN A.S.\nHABSHEIM FC\n22 nov.\n14:00\nWIDENSOLEN S.R."
+   "matchs_texte": "1ÈRE JOURNÉE\n\nENT.FCPRZ\n22 nov.\n13:00\nFC Saint-Louis Neuweg\nMUESPACH ENT. AMO\n22 nov.\n13:30\nHIRTZ GF CENTRE HTRH\nPFETTERHOUSE U.S.\n22 nov.\n13:30\nVALLEE THUR U.S.\nBENNWIHR F.C\n22 nov.\n14:00\nHEIMSBRUNN A.S.\nHABSHEIM FC\n22 nov.\n14:00\nWIDENSOLEN S.R."
   },
   {
    "zone": "Départemental",
