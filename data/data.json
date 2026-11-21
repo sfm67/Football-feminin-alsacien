@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T13:14:56.756165Z",
+ "mis_a_jour": "2026-11-21T22:42:00.298966Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -338,7 +338,7 @@
      ]
     }
    ],
-   "matchs_texte": "8ÈME JOURNÉE\n\nOBERSCHAEFFOLSHEIM\n21 nov.\n17:30\nOFFWILLER AS\nILLKIRCH GRAFF. FA\n21 nov.\n18:30\nOBERHOFFEN FC\nAS Strasbourg 2\n21 nov.\n19:30\nMUSAU STRASBOURG"
+   "matchs_texte": "8ÈME JOURNÉE\n\nOBERSCHAEFFOLSHEIM\nReporté\nOFFWILLER AS\nILLKIRCH GRAFF. FA\n21 nov.\n18:30\nOBERHOFFEN FC\nAS Strasbourg 2\n21 nov.\n19:30\nMUSAU STRASBOURG"
   },
   {
    "zone": "Départemental",
@@ -477,7 +477,7 @@
      ]
     }
    ],
-   "matchs_texte": "10ÈME JOURNÉE\n\nURMATT ENT HUG\n21 nov.\n18:30\nMULHOUSE AZZURRI US\nZELLWILLER SR\n22 nov.\n09:00\nWIHR AU VAL E.S.\nGUEMAR AS\n22 nov.\n13:30\nWETTOLSHEIM F.C."
+   "matchs_texte": "10ÈME JOURNÉE\n\nURMATT ENT HUG\nReporté\nMULHOUSE AZZURRI US\nZELLWILLER SR\n22 nov.\n09:00\nWIHR AU VAL E.S.\nGUEMAR AS\n22 nov.\n13:30\nWETTOLSHEIM F.C."
   },
   {
    "zone": "Départemental",
@@ -589,14 +589,14 @@
     {
      "rang": 1,
      "equipe": "FC Soleil Bischheim Féminines",
-     "pts": "21",
-     "j": "7",
-     "g": "7",
+     "pts": "24",
+     "j": "8",
+     "g": "8",
      "n": "0",
      "p": "0",
-     "bp": "61",
+     "bp": "64",
      "bc": "2",
-     "diff": "59",
+     "diff": "62",
      "forme": [
       "V",
       "V",
@@ -626,33 +626,15 @@
     },
     {
      "rang": 3,
-     "equipe": "SC Roppenheim Féminines",
-     "pts": "7",
-     "j": "6",
-     "g": "3",
-     "n": "0",
-     "p": "1",
-     "bp": "13",
-     "bc": "27",
-     "diff": "-14",
-     "forme": [
-      "V",
-      "V",
-      "D",
-      "V"
-     ]
-    },
-    {
-     "rang": 4,
      "equipe": "AS Reichstett Féminines",
-     "pts": "3",
-     "j": "6",
-     "g": "1",
+     "pts": "6",
+     "j": "7",
+     "g": "2",
      "n": "0",
      "p": "5",
-     "bp": "6",
+     "bp": "9",
      "bc": "23",
-     "diff": "-17",
+     "diff": "-14",
      "forme": [
       "D",
       "D",
@@ -662,7 +644,7 @@
      ]
     },
     {
-     "rang": 5,
+     "rang": 4,
      "equipe": "FC Gries 2 Féminines",
      "pts": "0",
      "j": "6",
@@ -679,9 +661,27 @@
       "D",
       "D"
      ]
+    },
+    {
+     "rang": 5,
+     "equipe": "SC Roppenheim Féminines",
+     "pts": "5",
+     "j": "8",
+     "g": "3",
+     "n": "0",
+     "p": "1",
+     "bp": "13",
+     "bc": "33",
+     "diff": "-20",
+     "forme": [
+      "V",
+      "V",
+      "D",
+      "V"
+     ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nGRIES FC\n21 nov.\n18:30\nREICHSTETT AS\nROPPENHEIM SC\n22 nov.\n13:30\nBISCHHEIM SOLEIL FC"
+   "matchs_texte": "9ÈME JOURNÉE\n\nGRIES FC\nReporté\nREICHSTETT AS\nROPPENHEIM SC\n22 nov.\n13:30\nBISCHHEIM SOLEIL FC"
   },
   {
    "zone": "Départemental",
@@ -886,7 +886,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nBARR FC\n4\n0\nBOOFZH ENT. FCEBH\nOTTROTT AS\n21 nov.\n17:30\nBISCHOFFSHEIM AS"
+   "matchs_texte": "9ÈME JOURNÉE\n\nBARR FC\n4\n0\nBOOFZH ENT. FCEBH\nOTTROTT AS\nReporté\nBISCHOFFSHEIM AS"
   },
   {
    "zone": "Départemental",
@@ -989,7 +989,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nFC Grussenheim\n21 nov.\n17:30\nDAMBACH/VILLE US\nLIEPVRE C.S.\n21 nov.\n18:30\nHILSENHEIM FC"
+   "matchs_texte": "9ÈME JOURNÉE\n\nFC Grussenheim\nReporté\nDAMBACH/VILLE US\nLIEPVRE C.S.\n21 nov.\n18:30\nHILSENHEIM FC"
   },
   {
    "zone": "Départemental",
@@ -1448,10 +1448,10 @@
      "bc": "7",
      "diff": "9",
      "forme": [
-      "V",
-      "V",
-      "V",
       "D",
+      "V",
+      "V",
+      "V",
       "D"
      ]
     },
@@ -1627,7 +1627,7 @@
      ]
     }
    ],
-   "matchs_texte": "10ÈME JOURNÉE\n\nSCHOENAU\n21 nov.\n18:00\nURMATT ENT HUG\nERNO FC\n21 nov.\n18:30\nGEISPOLSHEIM FC\nWOLXHEIM CS\n22 nov.\n13:30\nCHATENOIS AS\nHOLTZHEIM AS\n22 nov.\n13:30\nSTRG FCOSK06\nDANGOLSHEIM FC\n22 nov.\n13:30\nERSTEIN AS\nILLKIRCH GRAFF. FA\n22 nov.\n15:30\nDUPPIGHEIM USL"
+   "matchs_texte": "10ÈME JOURNÉE\n\nSCHOENAU\nReporté\nURMATT ENT HUG\nERNO FC\n5\n0\nGEISPOLSHEIM FC\nWOLXHEIM CS\n22 nov.\n13:30\nCHATENOIS AS\nHOLTZHEIM AS\n22 nov.\n13:30\nSTRG FCOSK06\nDANGOLSHEIM FC\n22 nov.\n13:30\nERSTEIN AS\nILLKIRCH GRAFF. FA\n22 nov.\n15:30\nDUPPIGHEIM USL"
   },
   {
    "zone": "Départemental",
@@ -1941,7 +1941,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nALLIANCE BASSE ZORN\n21 nov.\n12:30\nHOHENGOEFT\nKILSTETT AS\n21 nov.\n15:00\nLA WANTZENAU FC"
+   "matchs_texte": "9ÈME JOURNÉE\n\nALLIANCE BASSE ZORN\nReporté\nHOHENGOEFT\nKILSTETT AS\n21 nov.\n15:00\nLA WANTZENAU FC"
   },
   {
    "zone": "Départemental",
@@ -2146,7 +2146,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nENT.EPSUD\n21 nov.\n13:30\nGR.E.P.A\nRIEDISHEIM F.C.\n21 nov.\n16:30\nSCHLIERBACH A.S."
+   "matchs_texte": "9ÈME JOURNÉE\n\nENT.EPSUD\nReporté\nGR.E.P.A\nRIEDISHEIM F.C.\n21 nov.\n16:30\nSCHLIERBACH A.S."
   },
   {
    "zone": "Départemental",
@@ -2203,10 +2203,10 @@
      "bc": "16",
      "diff": "5",
      "forme": [
+      "V",
       "D",
       "N",
       "D",
-      "V",
       "V"
      ]
     },
@@ -2282,7 +2282,7 @@
       "D",
       "D",
       "D",
-      "V",
+      "D",
       "V"
      ]
     },
@@ -2382,11 +2382,11 @@
      "bc": "36",
      "diff": "-17",
      "forme": [
+      "V",
       "D",
       "D",
       "N",
-      "V",
-      "D"
+      "V"
      ]
     },
     {
@@ -2409,7 +2409,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nSOAS ENT. ASL ROB\n21 nov.\n13:30\nHOHENGOEFT\nDRUSENHEIM FC\n21 nov.\n13:45\nMONSWILLER FC"
+   "matchs_texte": "9ÈME JOURNÉE\n\nSOAS ENT. ASL ROB\nReporté\nHOHENGOEFT\nDRUSENHEIM FC\n2\n5\nMONSWILLER FC"
   },
   {
    "zone": "Départemental",
@@ -2419,19 +2419,19 @@
     {
      "rang": 1,
      "equipe": "Groupement Bruche Ackerland U15 Féminines",
-     "pts": "13",
-     "j": "6",
-     "g": "4",
+     "pts": "16",
+     "j": "7",
+     "g": "5",
      "n": "1",
      "p": "1",
-     "bp": "16",
-     "bc": "9",
-     "diff": "7",
+     "bp": "23",
+     "bc": "11",
+     "diff": "12",
      "forme": [
       "V",
       "V",
-      "N",
       "V",
+      "N",
       "V"
      ]
     },
@@ -2496,19 +2496,19 @@
      "rang": 5,
      "equipe": "Groupement Féminin Strasbourg Sud U15 Féminines",
      "pts": "2",
-     "j": "5",
+     "j": "6",
      "g": "0",
      "n": "2",
-     "p": "3",
-     "bp": "16",
-     "bc": "28",
-     "diff": "-12",
+     "p": "4",
+     "bp": "18",
+     "bc": "35",
+     "diff": "-17",
      "forme": [
       "D",
       "D",
+      "D",
       "N",
-      "N",
-      "D"
+      "N"
      ]
     },
     {
@@ -2531,7 +2531,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nSTRASBOURG SUD GF\n21 nov.\n15:00\nBRUCHE ACKERLAND\nFC Lingolsheim\n21 nov.\n16:00\nZELLWILLER SR\nSTRG FCOSK06\n22 nov.\n09:00\nHASLACH ENT. HUG"
+   "matchs_texte": "9ÈME JOURNÉE\n\nSTRASBOURG SUD GF\n2\n7\nBRUCHE ACKERLAND\nFC Lingolsheim\n21 nov.\n16:00\nZELLWILLER SR\nSTRG FCOSK06\n22 nov.\n09:00\nHASLACH ENT. HUG"
   },
   {
    "zone": "Départemental",
@@ -2569,10 +2569,10 @@
      "bc": "18",
      "diff": "4",
      "forme": [
+      "N",
       "V",
       "V",
       "D",
-      "V",
       "V"
      ]
     },
@@ -2626,7 +2626,7 @@
      "bc": "55",
      "diff": "-48",
      "forme": [
-      "D",
+      "N",
       "D",
       "D",
       "D",
@@ -2653,7 +2653,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nWETTOLSHEIM F.C.\n21 nov.\n12:00\nSELESTAT SC\nROUFFACH FC\n21 nov.\n13:00\nR.C. CORCIEUX\nBENNWIHR F.C\n22 nov.\n09:00\nBUHL FC"
+   "matchs_texte": "9ÈME JOURNÉE\n\nSELESTAT SC\n0\n0\nWETTOLSHEIM F.C.\nROUFFACH FC\n21 nov.\n13:00\nR.C. CORCIEUX\nBENNWIHR F.C\n22 nov.\n09:00\nBUHL FC"
   },
   {
    "zone": "Départemental",
@@ -2775,7 +2775,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nTHANN FC\n2\n1\nUS Pfetterhouse\nFC 1926 Pfastatt 2\n21 nov.\n12:30\nUS Azzurri Mulhouse\nGR.E.P.A\n21 nov.\n13:00\nHABSHEIM FC"
+   "matchs_texte": "9ÈME JOURNÉE\n\nTHANN FC\n2\n1\nUS Pfetterhouse\nFC 1926 Pfastatt 2\nReporté\nUS Azzurri Mulhouse\nGR.E.P.A\nReporté\nHABSHEIM FC"
   },
   {
    "zone": "Départemental",
@@ -2897,7 +2897,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nBRUMATH SS\n21 nov.\n13:00\nHAGUENAU FCSR\nKOMETRIB SJ\n21 nov.\n15:00\nOHLUNGEN AS\nUnion Sportive de Trois-Maisons\n21 nov.\n16:30\nSARREBOURG FC"
+   "matchs_texte": "9ÈME JOURNÉE\n\nBRUMATH SS\nReporté\nHAGUENAU FCSR\nKOMETRIB SJ\n21 nov.\n15:00\nOHLUNGEN AS\nUnion Sportive de Trois-Maisons\n21 nov.\n16:30\nSARREBOURG FC"
   },
   {
    "zone": "Départemental",
@@ -2908,13 +2908,13 @@
      "rang": 1,
      "equipe": "U.S.L. Duppigheim U15 Féminines",
      "pts": "15",
-     "j": "7",
+     "j": "8",
      "g": "5",
      "n": "0",
-     "p": "2",
-     "bp": "15",
-     "bc": "16",
-     "diff": "-1",
+     "p": "3",
+     "bp": "16",
+     "bc": "18",
+     "diff": "-2",
      "forme": [
       "V",
       "D",
@@ -2946,23 +2946,42 @@
      "rang": 3,
      "equipe": "AS Muttersholtz U15 Féminines",
      "pts": "9",
-     "j": "7",
+     "j": "8",
      "g": "3",
      "n": "0",
-     "p": "4",
-     "bp": "13",
-     "bc": "29",
-     "diff": "-16",
+     "p": "5",
+     "bp": "15",
+     "bc": "32",
+     "diff": "-17",
      "forme": [
       "D",
       "D",
+      "D",
       "V",
-      "V",
-      "D"
+      "V"
      ]
     },
     {
      "rang": 4,
+     "equipe": "A.Pop. Joie et Sante Strasbourg U15 Féminines",
+     "pts": "4",
+     "j": "7",
+     "g": "1",
+     "n": "1",
+     "p": "5",
+     "bp": "10",
+     "bc": "16",
+     "diff": "-6",
+     "forme": [
+      "V",
+      "N",
+      "D",
+      "D",
+      "D"
+     ]
+    },
+    {
+     "rang": 5,
      "equipe": "SC Schiltigheim U15 Féminines",
      "pts": "1",
      "j": "6",
@@ -2978,28 +2997,9 @@
       "V",
       "D"
      ]
-    },
-    {
-     "rang": 5,
-     "equipe": "A.Pop. Joie et Sante Strasbourg U15 Féminines",
-     "pts": "1",
-     "j": "6",
-     "g": "0",
-     "n": "1",
-     "p": "5",
-     "bp": "7",
-     "bc": "14",
-     "diff": "-7",
-     "forme": [
-      "N",
-      "D",
-      "D",
-      "D",
-      "D"
-     ]
     }
    ],
-   "matchs_texte": "12ÈME JOURNÉE\n\nDUPPIGHEIM USL\n21 nov.\n13:30\nMUSAU STRASBOURG\nSTRASBOURG JSK\n21 nov.\n13:30\nMUTTERSHOLTZ AS"
+   "matchs_texte": "12ÈME JOURNÉE\n\nDUPPIGHEIM USL\n21 nov.\n13:30\nMUSAU STRASBOURG\nSTRASBOURG JSK\n3\n2\nMUTTERSHOLTZ AS"
   },
   {
    "zone": "Départemental",
@@ -3020,8 +3020,8 @@
      "forme": [
       "V",
       "V",
-      "D",
       "V",
+      "D",
       "V"
      ]
     },
@@ -3077,9 +3077,9 @@
      "forme": [
       "D",
       "D",
+      "D",
       "V",
-      "V",
-      "D"
+      "V"
      ]
     },
     {
@@ -3102,7 +3102,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nST LOUIS NEUWEG FC\n21 nov.\n13:30\nHABSHEIM FC\nALSASUD\n22 nov.\n09:00\nAS Blodelsheim"
+   "matchs_texte": "9ÈME JOURNÉE\n\nST LOUIS NEUWEG FC\n1\n6\nHABSHEIM FC\nALSASUD\n22 nov.\n09:00\nAS Blodelsheim"
   },
   {
    "zone": "Départemental",
@@ -3159,11 +3159,11 @@
      "bc": "11",
      "diff": "15",
      "forme": [
+      "D",
       "V",
       "D",
       "V",
-      "V",
-      "N"
+      "V"
      ]
     },
     {
@@ -3254,11 +3254,11 @@
      "bc": "33",
      "diff": "-29",
      "forme": [
+      "V",
       "D",
       "D",
       "D",
-      "D",
-      "N"
+      "D"
      ]
     },
     {
@@ -3300,7 +3300,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nCOLMAR SR FA\n21 nov.\n11:45\nAGIIR FLORIVAL\nERNO FC\n21 nov.\n12:00\nMULH. COTEAUX A.S.\nMOLSHEIM ERNO. ES\n21 nov.\n12:00\nVENDENHEIM FC\nHABSHEIM FC\n21 nov.\n12:30\nPFASTATT FC\nAS ILLZACH MODENHEIM\n05 déc.\n12:30\nSTRASBOURG ALSACE RC"
+   "matchs_texte": "9ÈME JOURNÉE\n\nCOLMAR SR FA\n2\n1\nAGIIR FLORIVAL\nERNO FC\n8\n3\nMULH. COTEAUX A.S.\nMOLSHEIM ERNO. ES\nForfait\n0\n0\nVENDENHEIM FC\nHABSHEIM FC\n21 nov.\n12:30\nPFASTATT FC\nAS ILLZACH MODENHEIM\n05 déc.\n12:30\nSTRASBOURG ALSACE RC"
   },
   {
    "zone": "Départemental",
@@ -3319,11 +3319,11 @@
      "bc": "5",
      "diff": "46",
      "forme": [
-      "V",
-      "V",
-      "V",
       "N",
-      "V"
+      "V",
+      "V",
+      "V",
+      "N"
      ]
     },
     {
@@ -3338,10 +3338,10 @@
      "bc": "5",
      "diff": "14",
      "forme": [
+      "N",
       "V",
       "V",
       "N",
-      "D",
       "D"
      ]
     },
@@ -3422,7 +3422,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nENT.ESPOIR 24\n21 nov.\n13:00\nVENDENHEIM FC\nKILSTETT AS\n21 nov.\n13:30\nALLIANCE BASSE ZORN\nHAGUENAU FCSR\n21 nov.\n13:30\nOBERLAUTERBACH US"
+   "matchs_texte": "9ÈME JOURNÉE\n\nENT.ESPOIR 24\n1\n1\nVENDENHEIM FC\nKILSTETT AS\nReporté\nALLIANCE BASSE ZORN\nHAGUENAU FCSR\nForfait\n0\n3\nOBERLAUTERBACH US"
   },
   {
    "zone": "Départemental",
@@ -3461,10 +3461,10 @@
      "diff": "12",
      "forme": [
       "D",
-      "V",
-      "V",
       "D",
-      "V"
+      "V",
+      "V",
+      "D"
      ]
     },
     {
@@ -3481,9 +3481,9 @@
      "forme": [
       "V",
       "V",
+      "V",
       "D",
-      "D",
-      "V"
+      "D"
      ]
     },
     {
@@ -3525,7 +3525,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nZORNTHAL FC\n21 nov.\n13:00\nMONSWILLER FC\nSARREBOURG FC\n21 nov.\n13:30\nKOMETRIB SJ"
+   "matchs_texte": "9ÈME JOURNÉE\n\nSARREBOURG FC\n3\n1\nKOMETRIB SJ\nZORNTHAL FC\nReporté\nMONSWILLER FC"
   },
   {
    "zone": "Départemental",
@@ -3620,11 +3620,11 @@
      "bc": "49",
      "diff": "-42",
      "forme": [
+      "N",
       "D",
       "D",
       "D",
-      "V",
-      "D"
+      "V"
      ]
     },
     {
@@ -3639,7 +3639,7 @@
      "bc": "54",
      "diff": "-46",
      "forme": [
-      "D",
+      "N",
       "D",
       "D",
       "D",
@@ -3647,7 +3647,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nSCHILTIGHEIM SC\n21 nov.\n12:00\nHOENHEIM SR\nMUSAU STRASBOURG\n21 nov.\n13:30\nSTRG NEUDORF AS\nSTRASBOURG AS\n12 déc.\n13:30\nSOAS ENT. ASL ROB"
+   "matchs_texte": "9ÈME JOURNÉE\n\nSCHILTIGHEIM SC\n3\n3\nHOENHEIM SR\nMUSAU STRASBOURG\n21 nov.\n13:30\nSTRG NEUDORF AS\nSTRASBOURG AS\n12 déc.\n13:30\nSOAS ENT. ASL ROB"
   },
   {
    "zone": "Départemental",
@@ -3657,14 +3657,14 @@
     {
      "rang": 1,
      "equipe": "Groupement Bruche Ackerland U13 Féminines",
-     "pts": "15",
-     "j": "5",
-     "g": "5",
+     "pts": "12",
+     "j": "4",
+     "g": "4",
      "n": "0",
      "p": "0",
-     "bp": "42",
-     "bc": "3",
-     "diff": "39",
+     "bp": "36",
+     "bc": "1",
+     "diff": "35",
      "forme": [
       "V",
       "V",
@@ -3696,14 +3696,15 @@
      "rang": 3,
      "equipe": "A.Pop. Joie et Sante Strasbourg",
      "pts": "6",
-     "j": "4",
+     "j": "3",
      "g": "2",
      "n": "0",
-     "p": "2",
-     "bp": "11",
-     "bc": "10",
-     "diff": "1",
+     "p": "1",
+     "bp": "9",
+     "bc": "4",
+     "diff": "5",
      "forme": [
+      "D",
       "D",
       "V",
       "V",
@@ -3764,7 +3765,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nBRUCHE ACKERLAND\n21 nov.\n12:30\nA.Pop. Joie et Sante Strasbourg\nBREUSCHWICKERSHEIM\n21 nov.\n13:00\nSTRG RED STAR\nDUPPIGHEIM USL\n21 nov.\n13:30\nSTRG FCOSK06"
+   "matchs_texte": "9ÈME JOURNÉE\n\nBRUCHE ACKERLAND\n7\n1\nA.Pop. Joie et Sante Strasbourg\nBREUSCHWICKERSHEIM\nForfait\n0\n0\nSTRG RED STAR\nDUPPIGHEIM USL\nForfait\n0\n0\nSTRG FCOSK06"
   },
   {
    "zone": "Départemental",
@@ -3793,14 +3794,14 @@
     {
      "rang": 2,
      "equipe": "S Reunis Zellwiller U13 Féminines",
-     "pts": "15",
-     "j": "8",
-     "g": "5",
+     "pts": "18",
+     "j": "9",
+     "g": "6",
      "n": "0",
      "p": "3",
-     "bp": "30",
-     "bc": "31",
-     "diff": "-1",
+     "bp": "36",
+     "bc": "33",
+     "diff": "3",
      "forme": [
       "V",
       "D",
@@ -3813,57 +3814,57 @@
      "rang": 3,
      "equipe": "US Hindisheim U13 Féminines",
      "pts": "12",
-     "j": "7",
+     "j": "8",
      "g": "4",
      "n": "0",
-     "p": "3",
-     "bp": "26",
-     "bc": "29",
-     "diff": "-3",
+     "p": "4",
+     "bp": "27",
+     "bc": "31",
+     "diff": "-4",
      "forme": [
       "D",
+      "D",
       "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "FA Illkirch Graffenstaden U13 Féminines",
+     "pts": "10",
+     "j": "9",
+     "g": "3",
+     "n": "1",
+     "p": "5",
+     "bp": "12",
+     "bc": "25",
+     "diff": "-13",
+     "forme": [
+      "V",
+      "D",
       "V",
       "V",
       "D"
      ]
     },
     {
-     "rang": 4,
+     "rang": 5,
      "equipe": "FC Lingolsheim U13 Féminines",
      "pts": "9",
-     "j": "7",
+     "j": "8",
      "g": "3",
      "n": "0",
-     "p": "4",
-     "bp": "18",
-     "bc": "42",
-     "diff": "-24",
+     "p": "5",
+     "bp": "20",
+     "bc": "48",
+     "diff": "-28",
      "forme": [
       "V",
       "D",
       "D",
       "D",
       "V"
-     ]
-    },
-    {
-     "rang": 5,
-     "equipe": "FA Illkirch Graffenstaden U13 Féminines",
-     "pts": "7",
-     "j": "8",
-     "g": "2",
-     "n": "1",
-     "p": "5",
-     "bp": "10",
-     "bc": "24",
-     "diff": "-14",
-     "forme": [
-      "D",
-      "V",
-      "V",
-      "D",
-      "D"
      ]
     },
     {
@@ -3886,7 +3887,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nHINDI ENT. KRAUT\n21 nov.\n13:30\nILLKIRCH GRAFF. FA\nLINGOLSHEIM FC\n21 nov.\n16:00\nZELLWILLER SR\nERSTEIN AS\n05 déc.\n09:00\nSTRASBOURG SUD GF"
+   "matchs_texte": "9ÈME JOURNÉE\n\nHINDI ENT. KRAUT\n1\n2\nILLKIRCH GRAFF. FA\nLINGOLSHEIM FC\n21 nov.\n16:00\nZELLWILLER SR\nERSTEIN AS\n05 déc.\n09:00\nSTRASBOURG SUD GF"
   },
   {
    "zone": "Départemental",
