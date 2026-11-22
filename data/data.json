@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T22:42:00.298966Z",
+ "mis_a_jour": "2026-11-22T13:06:02.614777Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -2092,14 +2092,14 @@
     {
      "rang": 3,
      "equipe": "FC Riedisheim U18 Féminines",
-     "pts": "5",
-     "j": "6",
-     "g": "1",
+     "pts": "8",
+     "j": "7",
+     "g": "2",
      "n": "2",
      "p": "3",
-     "bp": "9",
-     "bc": "15",
-     "diff": "-6",
+     "bp": "12",
+     "bc": "17",
+     "diff": "-5",
      "forme": [
       "D",
       "V",
@@ -2112,13 +2112,13 @@
      "rang": 4,
      "equipe": "AS Schlierbach U18 Féminines",
      "pts": "3",
-     "j": "5",
+     "j": "6",
      "g": "1",
      "n": "1",
-     "p": "2",
-     "bp": "3",
-     "bc": "9",
-     "diff": "-6",
+     "p": "3",
+     "bp": "5",
+     "bc": "12",
+     "diff": "-7",
      "forme": [
       "N",
       "D",
@@ -4234,7 +4234,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nALSASUD\n21 nov.\n09:30\nHABSHEIM FC\nFC ROSENAU 1946\n21 nov.\n13:30\nENT.EPSUD"
+   "matchs_texte": "9ÈME JOURNÉE\n\nALSASUD\n21 nov.\n09:30\nHABSHEIM FC\nFC ROSENAU 1946\nForfait\n0\n0\nENT.EPSUD"
   }
  ]
 }
