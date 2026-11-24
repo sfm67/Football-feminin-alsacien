@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-23T15:41:52.232013Z",
+ "mis_a_jour": "2026-11-24T15:33:14.595922Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -483,8 +483,104 @@
    "zone": "Départemental",
    "nom": "Fém à 8 District 2 Alsace - POULE A - Phase 1",
    "url": "https://scorenco.com/football/competitions/fem-a-8-district-2-alsace-poule-a-phase-1-qqtz",
-   "classement": [],
-   "matchs_texte": ""
+   "classement": [
+    {
+     "rang": 1,
+     "equipe": "AS Mertzwiller",
+     "pts": "21",
+     "j": "7",
+     "g": "7",
+     "n": "0",
+     "p": "0",
+     "bp": "54",
+     "bc": "3",
+     "diff": "51",
+     "forme": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
+     "equipe": "ES Morsbronn les Bains Féminines",
+     "pts": "15",
+     "j": "6",
+     "g": "5",
+     "n": "0",
+     "p": "1",
+     "bp": "35",
+     "bc": "5",
+     "diff": "30",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 3,
+     "equipe": "US Gumbrechtshoffen Féminines",
+     "pts": "6",
+     "j": "5",
+     "g": "2",
+     "n": "0",
+     "p": "3",
+     "bp": "7",
+     "bc": "17",
+     "diff": "-10",
+     "forme": [
+      "D",
+      "V",
+      "D",
+      "V",
+      "D"
+     ]
+    },
+    {
+     "rang": 4,
+     "equipe": "US Niederbronn les Bains Féminines",
+     "pts": "2",
+     "j": "6",
+     "g": "1",
+     "n": "0",
+     "p": "4",
+     "bp": "5",
+     "bc": "38",
+     "diff": "-33",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "V"
+     ]
+    },
+    {
+     "rang": 5,
+     "equipe": "US Reipertswiller Féminines",
+     "pts": "0",
+     "j": "6",
+     "g": "0",
+     "n": "0",
+     "p": "6",
+     "bp": "4",
+     "bc": "42",
+     "diff": "-38",
+     "forme": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   ],
+   "matchs_texte": "9ÈME JOURNÉE\n\nMORSBRONN ES\nReporté\nGUMBRECHTSHOFFEN US\nNIEDERBRONN US\n0\n14\nAS Mertzwiller"
   },
   {
    "zone": "Départemental",
@@ -606,7 +702,7 @@
      "diff": "27",
      "forme": [
       "N",
-      "V",
+      "N",
       "V",
       "V",
       "V"
@@ -624,11 +720,11 @@
      "bc": "14",
      "diff": "0",
      "forme": [
+      "N",
       "V",
       "V",
       "V",
-      "D",
-      "V"
+      "D"
      ]
     },
     {
@@ -643,6 +739,7 @@
      "bc": "10",
      "diff": "-2",
      "forme": [
+      "N",
       "N",
       "D",
       "D",
@@ -661,10 +758,10 @@
      "bc": "20",
      "diff": "-9",
      "forme": [
+      "N",
       "D",
       "D",
       "D",
-      "V",
       "V"
      ]
     },
@@ -688,7 +785,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nPFULGRIESHEIM AS\n21 nov.\n18:00\nEGALITAIRE US\nHOHENGOEFT\n21 nov.\n18:30\nLIXHAUSEN FC"
+   "matchs_texte": "9ÈME JOURNÉE\n\nPFULGRIESHEIM AS\n2\n2\nEGALITAIRE US\nHOHENGOEFT\n0\n0\nLIXHAUSEN FC"
   },
   {
    "zone": "Départemental",
@@ -903,6 +1000,25 @@
    "classement": [
     {
      "rang": 1,
+     "equipe": "AS Turckheim Féminines",
+     "pts": "17",
+     "j": "7",
+     "g": "5",
+     "n": "2",
+     "p": "0",
+     "bp": "21",
+     "bc": "12",
+     "diff": "9",
+     "forme": [
+      "V",
+      "V",
+      "N",
+      "V",
+      "V"
+     ]
+    },
+    {
+     "rang": 2,
      "equipe": "FC Ingersheim Féminines",
      "pts": "14",
      "j": "6",
@@ -916,25 +1032,6 @@
       "D",
       "N",
       "N",
-      "V",
-      "V"
-     ]
-    },
-    {
-     "rang": 2,
-     "equipe": "AS Turckheim Féminines",
-     "pts": "14",
-     "j": "6",
-     "g": "4",
-     "n": "2",
-     "p": "0",
-     "bp": "16",
-     "bc": "9",
-     "diff": "7",
-     "forme": [
-      "V",
-      "N",
-      "V",
       "V",
       "V"
      ]
@@ -962,14 +1059,15 @@
      "rang": 4,
      "equipe": "FC Buhl Féminines",
      "pts": "2",
-     "j": "5",
+     "j": "6",
      "g": "1",
      "n": "0",
-     "p": "3",
-     "bp": "10",
-     "bc": "17",
-     "diff": "-7",
+     "p": "4",
+     "bp": "13",
+     "bc": "22",
+     "diff": "-9",
      "forme": [
+      "D",
       "V",
       "D",
       "D",
@@ -996,7 +1094,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nHERRL.ENT. ELSBOURG\nReporté\nGUNSBACH U.S.\nASTW\n22 nov.\n13:30\nBUHL FC"
+   "matchs_texte": "9ÈME JOURNÉE\n\nHERRL.ENT. ELSBOURG\nReporté\nGUNSBACH U.S.\nASTW\n5\n3\nBUHL FC"
   },
   {
    "zone": "Départemental",
@@ -1147,14 +1245,14 @@
     {
      "rang": 3,
      "equipe": "FC Oberhausbergen Féminines",
-     "pts": "18",
-     "j": "8",
-     "g": "6",
+     "pts": "21",
+     "j": "9",
+     "g": "7",
      "n": "0",
      "p": "2",
-     "bp": "29",
+     "bp": "32",
      "bc": "8",
-     "diff": "21",
+     "diff": "24",
      "forme": [
       "D",
       "V",
@@ -1203,25 +1301,6 @@
     },
     {
      "rang": 6,
-     "equipe": "AS Hunspach Féminines",
-     "pts": "11",
-     "j": "8",
-     "g": "3",
-     "n": "2",
-     "p": "3",
-     "bp": "21",
-     "bc": "20",
-     "diff": "1",
-     "forme": [
-      "V",
-      "D",
-      "V",
-      "D",
-      "N"
-     ]
-    },
-    {
-     "rang": 7,
      "equipe": "FC Dossenheim S/Zinsel Féminines",
      "pts": "11",
      "j": "9",
@@ -1237,6 +1316,25 @@
       "V",
       "D",
       "D"
+     ]
+    },
+    {
+     "rang": 7,
+     "equipe": "AS Hunspach Féminines",
+     "pts": "10",
+     "j": "9",
+     "g": "3",
+     "n": "2",
+     "p": "3",
+     "bp": "21",
+     "bc": "23",
+     "diff": "-2",
+     "forme": [
+      "V",
+      "D",
+      "V",
+      "D",
+      "N"
      ]
     },
     {
@@ -1297,7 +1395,7 @@
      ]
     }
    ],
-   "matchs_texte": "1ÈRE JOURNÉE\n\nSCHOEN/MEMMEL FR\n5\n2\nSCHILTIGH ESP\nST ETIENNE SELTZ FC\n0\n5\nSTRASBOURG AS\nTRUCHTERSHEIM FC\n1\n1\nESPOIR 24\nOBERHAUSBERGEN FC\n22 nov.\n13:30\nHUNSPACH AS\nDOSSENHEIM ENT IMBSH\n0\n2\nWINGERSHEIM FC"
+   "matchs_texte": "1ÈRE JOURNÉE\n\nSCHOEN/MEMMEL FR\n5\n2\nSCHILTIGH ESP\nST ETIENNE SELTZ FC\n0\n5\nSTRASBOURG AS\nTRUCHTERSHEIM FC\n1\n1\nESPOIR 24\nOBERHAUSBERGEN FC\nForfait\n3\n0\nHUNSPACH AS\nDOSSENHEIM ENT IMBSH\n0\n2\nWINGERSHEIM FC"
   },
   {
    "zone": "Départemental",
@@ -2007,10 +2105,10 @@
      "bc": "17",
      "diff": "-5",
      "forme": [
+      "V",
       "D",
       "V",
       "N",
-      "D",
       "D"
      ]
     },
@@ -2026,6 +2124,7 @@
      "bc": "12",
      "diff": "-7",
      "forme": [
+      "D",
       "N",
       "D",
       "D",
@@ -2052,7 +2151,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nENT.EPSUD\nReporté\nGR.E.P.A\nRIEDISHEIM F.C.\n21 nov.\n16:30\nSCHLIERBACH A.S."
+   "matchs_texte": "9ÈME JOURNÉE\n\nENT.EPSUD\nReporté\nGR.E.P.A\nRIEDISHEIM F.C.\n3\n2\nSCHLIERBACH A.S."
   },
   {
    "zone": "Départemental",
@@ -3710,23 +3809,23 @@
      "diff": "3",
      "forme": [
       "V",
-      "D",
-      "D",
       "V",
+      "D",
+      "D",
       "V"
      ]
     },
     {
      "rang": 3,
      "equipe": "US Hindisheim U13 Féminines",
-     "pts": "12",
-     "j": "8",
-     "g": "4",
+     "pts": "15",
+     "j": "9",
+     "g": "5",
      "n": "0",
      "p": "4",
-     "bp": "27",
+     "bp": "30",
      "bc": "31",
-     "diff": "-4",
+     "diff": "-1",
      "forme": [
       "D",
       "D",
@@ -3757,20 +3856,20 @@
     {
      "rang": 5,
      "equipe": "FC Lingolsheim U13 Féminines",
-     "pts": "9",
-     "j": "8",
+     "pts": "8",
+     "j": "9",
      "g": "3",
      "n": "0",
      "p": "5",
      "bp": "20",
-     "bc": "48",
-     "diff": "-28",
+     "bc": "51",
+     "diff": "-31",
      "forme": [
+      "D",
       "V",
       "D",
       "D",
-      "D",
-      "V"
+      "D"
      ]
     },
     {
@@ -3793,7 +3892,7 @@
      ]
     }
    ],
-   "matchs_texte": "9ÈME JOURNÉE\n\nHINDI ENT. KRAUT\n1\n2\nILLKIRCH GRAFF. FA\nLINGOLSHEIM FC\n21 nov.\n16:00\nZELLWILLER SR\nERSTEIN AS\n05 déc.\n09:00\nSTRASBOURG SUD GF"
+   "matchs_texte": "9ÈME JOURNÉE\n\nHINDI ENT. KRAUT\n1\n2\nILLKIRCH GRAFF. FA\nLINGOLSHEIM FC\n2\n6\nZELLWILLER SR\nERSTEIN AS\n05 déc.\n09:00\nSTRASBOURG SUD GF"
   },
   {
    "zone": "Départemental",
