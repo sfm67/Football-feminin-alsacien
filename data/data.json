@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T14:44:19.486849Z",
+ "mis_a_jour": "2026-11-27T14:43:09.584975Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -1829,7 +1829,7 @@
      ]
     }
    ],
-   "matchs_texte": "1ÈRE JOURNÉE\n\nENT.FCPRZ\n0\n4\nFC Saint-Louis Neuweg\nPFETTERHOUSE U.S.\nReporté\nVALLEE THUR U.S.\nMUESPACH ENT. AMO\n2\n5\nHIRTZ GF CENTRE HTRH\nBENNWIHR F.C\n5\n0\nHEIMSBRUNN A.S.\nHABSHEIM FC\nForfait\n3\n0\nWIDENSOLEN S.R."
+   "matchs_texte": "1ÈRE JOURNÉE\n\nENT.FCPRZ\n0\n4\nFC Saint-Louis Neuweg\nPFETTERHOUSE U.S.\nReporté\nVALLEE THUR U.S.\nMUESPACH ENT. AMO\n2\n5\nHIRTZ GF CENTRE HTRH\nHABSHEIM FC\nForfait\n3\n0\nWIDENSOLEN S.R.\nBENNWIHR F.C\n5\n0\nHEIMSBRUNN A.S."
   },
   {
    "zone": "Départemental",
@@ -2151,7 +2151,7 @@
      ]
     }
    ],
-   "matchs_texte": "10ÈME JOURNÉE\n\nFC ROSENAU 1946\n18 nov.\n18:00\nRIEDISHEIM F.C.\nSCHLIERBACH A.S.\n28 nov.\n14:00\nENT.EPSUD"
+   "matchs_texte": "10ÈME JOURNÉE\n\nFC ROSENAU 1946\nReporté\nRIEDISHEIM F.C.\nSCHLIERBACH A.S.\n28 nov.\n14:00\nENT.EPSUD"
   },
   {
    "zone": "Départemental",
@@ -2931,14 +2931,14 @@
     {
      "rang": 2,
      "equipe": "AS Holtzheim U15 Féminines",
-     "pts": "13",
-     "j": "8",
+     "pts": "12",
+     "j": "9",
      "g": "4",
      "n": "1",
      "p": "3",
      "bp": "23",
-     "bc": "16",
-     "diff": "7",
+     "bc": "19",
+     "diff": "4",
      "forme": [
       "N",
       "V",
