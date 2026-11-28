@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-27T14:43:09.584975Z",
+ "mis_a_jour": "2026-11-28T13:54:48.921638Z",
  "competitions": [
   {
    "zone": "Départemental",
@@ -2424,20 +2424,20 @@
     {
      "rang": 1,
      "equipe": "Groupement Bruche Ackerland U15 Féminines",
-     "pts": "16",
-     "j": "7",
-     "g": "5",
+     "pts": "19",
+     "j": "8",
+     "g": "6",
      "n": "1",
      "p": "1",
-     "bp": "23",
-     "bc": "11",
-     "diff": "12",
+     "bp": "30",
+     "bc": "12",
+     "diff": "18",
      "forme": [
       "V",
       "V",
       "V",
-      "N",
-      "V"
+      "V",
+      "N"
      ]
     },
     {
@@ -2482,19 +2482,19 @@
      "rang": 4,
      "equipe": "FC Lingolsheim",
      "pts": "3",
-     "j": "6",
+     "j": "7",
      "g": "0",
      "n": "3",
-     "p": "3",
-     "bp": "8",
-     "bc": "16",
-     "diff": "-8",
+     "p": "4",
+     "bp": "9",
+     "bc": "23",
+     "diff": "-14",
      "forme": [
+      "D",
       "N",
       "D",
       "D",
-      "D",
-      "N"
+      "D"
      ]
     },
     {
@@ -2536,7 +2536,7 @@
      ]
     }
    ],
-   "matchs_texte": "10ÈME JOURNÉE\n\nBRUCHE ACKERLAND\n28 nov.\n10:45\nFC Lingolsheim\nZELLWILLER SR\n28 nov.\n13:30\nSTRG FCOSK06\nHASLACH ENT. HUG\n28 nov.\n13:30\nSTRASBOURG SUD GF"
+   "matchs_texte": "10ÈME JOURNÉE\n\nBRUCHE ACKERLAND\n7\n1\nFC Lingolsheim\nZELLWILLER SR\n28 nov.\n13:30\nSTRG FCOSK06\nHASLACH ENT. HUG\n28 nov.\n13:30\nSTRASBOURG SUD GF"
   },
   {
    "zone": "Départemental",
@@ -2902,7 +2902,7 @@
      ]
     }
    ],
-   "matchs_texte": "10ÈME JOURNÉE\n\nSARREBOURG FC\n28 nov.\n13:30\nKOMETRIB SJ\nOHLUNGEN AS\n28 nov.\n13:30\nBRUMATH SS\nHAGUENAU FCSR\n28 nov.\n13:30\nUnion Sportive de Trois-Maisons"
+   "matchs_texte": "10ÈME JOURNÉE\n\nHAGUENAU FCSR\n28 nov.\n13:30\nUnion Sportive de Trois-Maisons\nSARREBOURG FC\n28 nov.\n13:30\nKOMETRIB SJ\nOHLUNGEN AS\n28 nov.\n13:30\nBRUMATH SS"
   },
   {
    "zone": "Départemental",
